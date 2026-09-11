@@ -1,0 +1,53 @@
+---
+import { BIZ } from '../consts';
+const { type = 'page', title, description, url, datePublished, dateModified, breadcrumbs = [] } = Astro.props;
+
+const org = {
+  '@type': ['LocalBusiness', 'RealEstateAgent'],
+  '@id': `${BIZ.site}/#organization`,
+  name: BIZ.name,
+  alternateName: BIZ.legalName,
+  description: `Family-owned cash home buyer serving Charleston, Berkeley, and Dorchester counties in South Carolina. Founded in ${BIZ.founded}, we have completed over ${BIZ.transactions} transactions and specialize in fast, as-is cash purchases with closings in as few as 7 days.`,
+  url: BIZ.site,
+  telephone: BIZ.phone,
+  email: BIZ.email,
+  foundingDate: BIZ.founded,
+  address: { '@type': 'PostalAddress', streetAddress: BIZ.street, addressLocality: BIZ.city, addressRegion: BIZ.region, postalCode: BIZ.zip, addressCountry: BIZ.country },
+  areaServed: ['Charleston County, SC', 'Berkeley County, SC', 'Dorchester County, SC'],
+  knowsAbout: ['cash home buying', 'as-is property purchase', 'foreclosure alternatives', 'probate property sales'],
+};
+const person = {
+  '@type': 'Person',
+  '@id': `${BIZ.site}/#caleb-pearson`,
+  name: BIZ.author.name,
+  jobTitle: BIZ.author.role,
+  worksFor: { '@id': `${BIZ.site}/#organization` },
+  hasCredential: { '@type': 'EducationalOccupationalCredential', credentialCategory: 'South Carolina Real Estate License', identifier: BIZ.author.license },
+};
+const website = { '@type': 'WebSite', '@id': `${BIZ.site}/#website`, url: BIZ.site, name: BIZ.name, publisher: { '@id': `${BIZ.site}/#organization` } };
+
+const graph: any[] = [org, person, website];
+
+if (type === 'article') {
+  graph.push({
+    '@type': 'Article',
+    '@id': `${url}#article`,
+    headline: title,
+    description,
+    datePublished,
+    dateModified: dateModified || datePublished,
+    author: { '@id': `${BIZ.site}/#caleb-pearson` },
+    publisher: { '@id': `${BIZ.site}/#organization` },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    isPartOf: { '@id': `${BIZ.site}/#website` },
+  });
+}
+if (breadcrumbs.length) {
+  graph.push({
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b: any, i: number) => ({ '@type': 'ListItem', position: i + 1, name: b.name, item: b.url })),
+  });
+}
+const json = { '@context': 'https://schema.org', '@graph': graph };
+---
+<script type="application/ld+json" set:html={JSON.stringify(json)} />

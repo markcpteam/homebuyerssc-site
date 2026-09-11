@@ -1,0 +1,30 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import OfferBox from '../components/OfferBox.astro';
+import { BIZ } from '../consts';
+export async function getStaticPaths() {
+  const cities = await getCollection('cities');
+  const pages = await getCollection('pages');
+  const skip = new Set(['index','home','guides','contact','thank-you']);
+  return [
+    ...cities.map(e => ({ params:{slug:e.id}, props:{entry:e, kind:'city'} })),
+    ...pages.filter(e => !skip.has(e.id) && e.data.kind !== 'orphan').map(e => ({ params:{slug:e.id}, props:{entry:e, kind:'page'} })),
+  ];
+}
+const { entry, kind } = Astro.props;
+const { Content } = await render(entry);
+const crumbs=[{name:'Home',url:BIZ.site+'/'},{name:entry.data.title,url:`${BIZ.site}/${entry.id}/`}];
+const isCity = kind === 'city';
+---
+<Base title={`${entry.data.title} | Homebuyers SC`} description={entry.data.description} breadcrumbs={crumbs}>
+  <p class="crumbs"><a href="/">Home</a></p>
+  <article class="prose">
+    <h1>{entry.data.title}</h1>
+    <Content />
+    {isCity && (
+      <p>Homebuyers SC has bought houses across the Charleston tri-county area since {BIZ.founded}, over {BIZ.transactions} transactions in total, and holds a {BIZ.bbbRating} rating with the Better Business Bureau. <a href="/guides/">Read our guides</a> if you are weighing your options first.</p>
+    )}
+  </article>
+  <OfferBox />
+</Base>

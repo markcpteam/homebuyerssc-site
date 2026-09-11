@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import { BIZ } from '../consts';
+---
+<Base title="Thank You | Homebuyers SC" description="We received your request and will be in touch within one business day.">
+  <h1>Thank you, we got it</h1>
+  <p class="lede">We received your request and will be in touch within one business day.</p>
+  <p>If you need to reach us sooner, call <a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a>.</p>
+  <p><a href="/guides/">Read our guides</a> while you wait.</p>
+</Base>

@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { GROUPS, BIZ } from '../consts';
+const all = await getCollection('guides');
+const cities = (await getCollection('cities')).sort((a,b)=>a.data.city.localeCompare(b.data.city));
+---
+<Base title="Sell My House Fast For Cash in South Carolina | Homebuyers SC"
+      description={`We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call ${BIZ.phone}.`}>
+  <h1>Sell your house fast for cash in South Carolina</h1>
+  <p class="lede">Homebuyers SC is a family-owned cash home buyer serving Charleston, Berkeley, and Dorchester counties. We buy as-is, cover closing costs, charge no commissions, and you choose the closing date.</p>
+
+  <div class="offerbox">
+    <h2>Get a cash offer</h2>
+    <p>Tell us the address and a few details. We look at the property and recent comparable sales, then give you a cash offer. If you accept, a local closing attorney handles the paperwork.</p>
+    <p><strong>Call <a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a> or <a href="/contact/">request an offer online</a>.</strong></p>
+  </div>
+
+  <h2>Why homeowners sell to us</h2>
+  <ul class="prose">
+    <li><strong>No repairs.</strong> We buy in any condition, including foundation damage, water damage, mold, fire damage, and code violations.</li>
+    <li><strong>No commissions.</strong> There is no agent fee taken out of your proceeds.</li>
+    <li><strong>Close in as few as 7 days</strong>, or later if you need time. You pick the date.</li>
+    <li><strong>No showings.</strong> One walkthrough, one offer.</li>
+  </ul>
+
+  <h2>Our track record, in plain numbers</h2>
+  <p class="prose">Homebuyers SC has operated in the South Carolina Lowcountry since {BIZ.founded} and has completed over {BIZ.transactions} transactions. The company is accredited by the Better Business Bureau with an {BIZ.bbbRating} rating, held since {BIZ.bbbSince}. Founder {BIZ.author.name} is a licensed South Carolina real estate agent, license number {BIZ.author.license}, with {BIZ.author.years}+ years of investing experience.</p>
+
+  <h2>What situation are you in?</h2>
+  <div class="grid">
+    {Object.entries(GROUPS).map(([k,g]) => (
+      <article class="card">
+        <h3 style="margin:0 0 .3rem"><a href={`/guides/${k}/`}>{g.label}</a></h3>
+        <p style="margin:0;color:var(--mut);font-size:.93rem">{g.blurb}</p>
+      </article>
+    ))}
+  </div>
+
+  <h2>How it works</h2>
+  <ol class="prose">
+    <li>You tell us the address and the situation.</li>
+    <li>We review the property and recent comparable sales in your area.</li>
+    <li>You get a cash offer with no obligation.</li>
+    <li>If you accept, a local closing attorney handles it and you choose the date.</li>
+  </ol>
+  <p><a href="/how-it-works/">Read the full process</a>.</p>
+
+  <h2>Where we buy</h2>
+  <p class="prose">We buy houses throughout the Charleston tri-county area.</p>
+  <ul class="prose" style="columns:2">{cities.map(c => <li><a href={`/${c.id}/`}>{c.data.city}</a></li>)}</ul>
+
+  <h2>Guides for South Carolina homeowners</h2>
+  <p class="prose">{all.length} guides covering what to do when something is standing between you and a sale. <a href="/guides/">Browse all guides</a>.</p>
+</Base>

@@ -1,0 +1,31 @@
+---
+import { BIZ, GROUPS } from '../consts';
+import { getCollection } from 'astro:content';
+const cities = (await getCollection('cities')).sort((a,b)=>a.data.city.localeCompare(b.data.city));
+---
+<footer class="site-foot">
+  <div class="wrap foot-grid">
+    <div>
+      <h2>Homebuyers SC</h2>
+      <p class="addr">
+        {BIZ.legalName}<br />
+        {BIZ.street}<br />
+        {BIZ.city}, {BIZ.region} {BIZ.zip}<br />
+        <a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a>
+      </p>
+      <p class="proof">Buying houses for cash across the South Carolina Lowcountry since {BIZ.founded}. Over {BIZ.transactions} transactions completed. BBB accredited with an {BIZ.bbbRating} rating since {BIZ.bbbSince}.</p>
+    </div>
+    <div>
+      <h2>Guides by situation</h2>
+      <ul>{Object.entries(GROUPS).map(([k,g]) => <li><a href={`/guides/${k}/`}>{g.label}</a></li>)}</ul>
+    </div>
+    <div>
+      <h2>Cities we serve</h2>
+      <ul class="cols">{cities.map(c => <li><a href={`/${c.id}/`}>{c.data.city}</a></li>)}</ul>
+    </div>
+  </div>
+  <div class="wrap foot-legal">
+    <p>&copy; {new Date().getFullYear()} {BIZ.legalName}. All rights reserved.</p>
+    <p><a href="/privacy/">Privacy</a> &middot; <a href="/terms-conditions/">Terms &amp; Conditions</a> &middot; <a href="/frequently-asked-questions/">FAQ</a></p>
+  </div>
+</footer>

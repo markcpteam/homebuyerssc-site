@@ -1,0 +1,40 @@
+# Homebuyers SC
+# AI retrieval crawlers: explicitly allowed. These read a page to answer a live
+# question and cite the source.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Training crawlers: allowed. Being absent from training data means the models
+# have no baked-in knowledge of Homebuyers SC.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://homebuyerssc.com/sitemap-index.xml

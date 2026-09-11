@@ -1,0 +1,36 @@
+# Old duplicate pages from the previous Leadpages site
+# 301 = permanent move
+/home/  /  301
+/why-sell-house/  /why-sell-house-south-carolina/  301
+/avoid-or-stop-foreclosure/  /avoid-or-stop-foreclosure-south-carolina/  301
+/avoid-or-stop-forcelosure/  /avoid-or-stop-foreclosure-south-carolina/  301
+/downsizing-your-home/  /downsizing-your-home-south-carolina/  301
+/parent-or-relative-deceased/  /sell-inherited-house-south-carolina/  301
+/need-cash-now/  /need-cash-now-south-carolina/  301
+/alternative-to-estate-sale/  /alternative-to-estate-sale-south-carolina/  301
+/divorce-or-separation/  /sell-house-during-divorce-south-carolina/  301
+/our-process/  /how-it-works/  301
+/testimonials/  /reviews/  301
+/sell-house-fast-south-carolina/  /  301
+/blog/  /guides/  301
+
+# Old blog pagination
+/guides/page/2/  /guides/  301
+/guides/page/3/  /guides/  301
+/guides/page/4/  /guides/  301
+/guides/page/5/  /guides/  301
+/guides/page/6/  /guides/  301
+/guides/page/7/  /guides/  301
+/guides/page/8/  /guides/  301
+/guides/page/9/  /guides/  301
+/guides/page/10/  /guides/  301
+/guides/page/11/  /guides/  301
+/guides/page/12/  /guides/  301
+/guides/page/13/  /guides/  301
+/guides/page/14/  /guides/  301
+/guides/page/15/  /guides/  301
+/guides/page/16/  /guides/  301
+/guides/page/17/  /guides/  301
+
+# Old /blog/ post paths -> /guides/
+/blog/*  /guides/:splat  301

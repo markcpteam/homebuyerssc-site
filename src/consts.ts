@@ -1,0 +1,26 @@
+export const BIZ = {
+  name: 'Homebuyers SC',
+  legalName: 'Homebuyers SC, LLC',
+  phone: '(843) 938-1978',
+  phoneRaw: '+18439381978',
+  email: 'homebuyerssc@gmail.com',
+  street: '1157 Chuck Dawley Blvd',
+  city: 'Mount Pleasant', region: 'SC', zip: '29464', country: 'US',
+  founded: '2017',
+  transactions: '500',
+  bbbRating: 'A+',
+  bbbSince: 'March 2023',
+  site: 'https://homebuyerssc.com',
+  author: { name: 'Caleb Pearson', role: 'Founder', license: '83101', years: '15' },
+};
+export const GROUPS: Record<string,{label:string, blurb:string}> = {
+  foreclosure: { label: 'Foreclosure & Financial Distress', blurb: 'Selling when you are behind on payments, facing auction, or carrying debt the house cannot support.' },
+  inherited:   { label: 'Inherited Property & Probate', blurb: 'Selling a house you inherited, including probate, multiple heirs, and out-of-state estates.' },
+  divorce:     { label: 'Divorce, Downsizing & Life Changes', blurb: 'Selling because life changed: divorce, downsizing, relocation, or a house that no longer fits.' },
+  repairs:     { label: 'Damaged Property & Major Repairs', blurb: 'Selling a house with foundation, water, mold, fire, or structural damage, without fixing it first.' },
+  legal:       { label: 'Legal, Title & Code Problems', blurb: 'Selling through code violations, unpermitted work, title defects, liens, HOA disputes, and zoning issues.' },
+  vacant:      { label: 'Vacant, Cluttered & Neglected', blurb: 'Selling a hoarder house, a vacant property, or a home full of belongings you do not want to clear out.' },
+  location:    { label: 'Location & Neighbor Problems', blurb: 'Selling when the problem is outside the house: neighbors, noise, construction, or flood risk.' },
+  tenants:     { label: 'Tenants & Rental Property', blurb: 'Selling a rental, including tenant-occupied properties and tenants who have stopped paying.' },
+  process:     { label: 'How Selling Works & Comparisons', blurb: 'How a cash sale actually works in South Carolina, and how it compares to listing with an agent.' },
+};

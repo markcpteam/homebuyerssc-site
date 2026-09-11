@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import OfferBox from '../../components/OfferBox.astro';
+import AuthorBio from '../../components/AuthorBio.astro';
+import { GROUPS, BIZ } from '../../consts';
+
+export async function getStaticPaths() {
+  const all = await getCollection('guides');
+  const groupPaths = Object.keys(GROUPS).map((key) => ({
+    params: { slug: key },
+    props: { mode: 'group', key, posts: all.filter(p => p.data.group === key).sort((a,b)=>a.data.title.localeCompare(b.data.title)) },
+  }));
+  const postPaths = all.map((entry) => ({
+    params: { slug: entry.id },
+    props: { mode: 'post', entry, siblings: all.filter(e => e.data.group === entry.data.group && e.id !== entry.id).slice(0, 4) },
+  }));
+  return [...groupPaths, ...postPaths];
+}
+
+const p = Astro.props as any;
+let Content: any = null;
+if (p.mode === 'post') { const r = await render(p.entry); Content = r.Content; }
+const g = p.mode === 'group' ? GROUPS[p.key] : GROUPS[p.entry.data.group];
+const groupKey = p.mode === 'group' ? p.key : p.entry.data.group;
+const crumbs = p.mode === 'group'
+  ? [{name:'Home',url:BIZ.site+'/'},{name:'Guides',url:BIZ.site+'/guides/'},{name:g.label,url:`${BIZ.site}/guides/${groupKey}/`}]
+  : [{name:'Home',url:BIZ.site+'/'},{name:'Guides',url:BIZ.site+'/guides/'},{name:g.label,url:`${BIZ.site}/guides/${groupKey}/`},{name:p.entry.data.title,url:`${BIZ.site}/guides/${p.entry.id}/`}];
+const title = p.mode === 'group' ? `${g.label} | Homebuyers SC Guides` : `${p.entry.data.title} | Homebuyers SC`;
+const description = p.mode === 'group' ? g.blurb : p.entry.data.description;
+const d = p.mode === 'post' ? p.entry.data.pubDate : null;
+---
+<Base title={title} description={description} type={p.mode==='post' ? 'article' : 'page'}
+      datePublished={d ? d.toISOString() : undefined} breadcrumbs={crumbs}>
+  <p class="crumbs"><a href="/">Home</a> &rsaquo; <a href="/guides/">Guides</a>{p.mode==='post' && <> &rsaquo; <a href={`/guides/${groupKey}/`}>{g.label}</a></>}</p>
+
+  {p.mode === 'group' ? (
+    <>
+      <h1>{g.label}</h1>
+      <p class="lede">{g.blurb}</p>
+      <p>{p.posts.length} guides in this section.</p>
+      <div class="grid">
+        {p.posts.map((post: any) => (
+          <article class="card">
+            <h2 style="font-size:1.03rem;margin:0 0 .35rem"><a href={`/guides/${post.id}/`}>{post.data.title}</a></h2>
+            <p style="margin:0;color:var(--mut);font-size:.93rem">{post.data.description}</p>
+          </article>
+        ))}
+      </div>
+      <OfferBox />
+      <h2>Other situations we buy in</h2>
+      <ul>{Object.entries(GROUPS).filter(([k])=>k!==groupKey).map(([k,v]:any) => <li><a href={`/guides/${k}/`}>{v.label}</a></li>)}</ul>
+    </>
+  ) : (
+    <article class="prose">
+      <h1>{p.entry.data.title}</h1>
+      <p class="lede">{p.entry.data.description}</p>
+      <p class="crumbs">Published {d.toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'})}</p>
+      <Content />
+      <OfferBox />
+      {p.siblings.length > 0 && (
+        <nav class="related" aria-label="Related guides">
+          <h2>More on {g.label.toLowerCase()}</h2>
+          <ul>{p.siblings.map((s: any) => <li><a href={`/guides/${s.id}/`}>{s.data.title}</a></li>)}</ul>
+        </nav>
+      )}
+      <AuthorBio />
+    </article>
+  )}
+</Base>

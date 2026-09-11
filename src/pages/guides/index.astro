@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import OfferBox from '../../components/OfferBox.astro';
+import { GROUPS, BIZ } from '../../consts';
+const all = await getCollection('guides');
+const recent = [...all].sort((a,b)=>b.data.pubDate.getTime()-a.data.pubDate.getTime()).slice(0,6);
+const crumbs=[{name:'Home',url:BIZ.site+'/'},{name:'Guides',url:BIZ.site+'/guides/'}];
+---
+<Base title="Selling Guides for South Carolina Homeowners | Homebuyers SC"
+      description={`${all.length} plain-English guides on selling a house in South Carolina when something is wrong: foreclosure, probate, damage, tenants, divorce, or code problems.`}
+      breadcrumbs={crumbs}>
+  <h1>Guides for South Carolina homeowners</h1>
+  <p class="lede">{all.length} guides on selling a house when something is standing in the way. Written for the situation you are actually in, not for browsing.</p>
+  <h2>Browse by situation</h2>
+  <div class="grid">
+    {Object.entries(GROUPS).map(([k,g]) => {
+      const n = all.filter(p=>p.data.group===k).length;
+      return (
+        <article class="card">
+          <h3 style="margin:0 0 .3rem"><a href={`/guides/${k}/`}>{g.label}</a></h3>
+          <p style="margin:0 0 .4rem;color:var(--mut);font-size:.93rem">{g.blurb}</p>
+          <p style="margin:0;font-size:.85rem;color:var(--mut)">{n} guides</p>
+        </article>
+      );
+    })}
+  </div>
+  <OfferBox />
+  <h2>Most recent</h2>
+  <ul>{recent.map(p => <li><a href={`/guides/${p.id}/`}>{p.data.title}</a></li>)}</ul>
+  <h2>Every guide</h2>
+  <ul>{[...all].sort((a,b)=>a.data.title.localeCompare(b.data.title)).map(p => <li><a href={`/guides/${p.id}/`}>{p.data.title}</a></li>)}</ul>
+</Base>
