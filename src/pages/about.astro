@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import OfferBox from '../components/OfferBox.astro';
+import { BIZ } from '../consts';
+import team from '../team.json';
+const { intro, people } = team as any;
+const crumbs=[{name:'Home',url:BIZ.site+'/'},{name:'Meet the Team',url:BIZ.site+'/about/'}];
+const persons = people.map((p:any) => ({
+  '@type':'Person', name:p.name, jobTitle:p.roles[0] || '',
+  image:`${BIZ.site}/team/${p.slug}.jpg`,
+  worksFor:{'@id':`${BIZ.site}/#organization`},
+}));
+---
+<Base title="Meet the Team Behind Homebuyers SC"
+      description="Homebuyers SC is a family-owned cash home buyer in Mount Pleasant, SC. Meet the seven people who look at your house, make the offer, and close it."
+      breadcrumbs={crumbs}>
+  <p class="crumbs"><a href="/">Home</a></p>
+  <h1>Meet the team behind Homebuyers SC</h1>
+  <div class="prose">{intro.split('\n\n').map((para:string) => <p set:html={para.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')} />)}</div>
+
+  <div class="team">
+    {people.map((p:any) => (
+      <article class="member" id={p.slug}>
+        <img src={`/team/${p.slug}.jpg`} alt={p.name} width="150" height="150" loading="lazy" />
+        <div>
+          <h2>{p.name}</h2>
+          <p class="roles">{p.roles.join(' · ')}</p>
+          {p.bio.split('\n\n').filter((x:string)=>x.trim()).map((para:string) => <p>{para.replace(/\s+/g,' ').trim()}</p>)}
+        </div>
+      </article>
+    ))}
+  </div>
+
+  <OfferBox heading="Want to talk to one of us?" />
+  <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@graph':persons})} />
+</Base>

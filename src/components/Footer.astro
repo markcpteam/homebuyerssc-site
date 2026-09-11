@@ -6,7 +6,7 @@ const cities = (await getCollection('cities')).sort((a,b)=>a.data.city.localeCom
 <footer class="site-foot">
   <div class="wrap foot-grid">
     <div>
-      <span class="foot-logo"><img src="/logo.png" alt="Homebuyers SC, LLC" width="150" height="91" loading="lazy" /></span>
+      <span class="foot-logo"><img src="/logo.png" alt="Homebuyers SC, LLC" width="225" height="137" loading="lazy" /></span>
       <p>{BIZ.legalName}<br />{BIZ.street}<br />{BIZ.city}, {BIZ.region} {BIZ.zip}</p>
       <p><a href={`tel:${BIZ.phoneRaw}`} style="font-size:1.2rem;font-weight:800;color:#fff">{BIZ.phone}</a></p>
       <div class="foot-badges">

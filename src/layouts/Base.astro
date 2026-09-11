@@ -54,8 +54,8 @@ p{margin:0 0 1.1rem}
 
 /* header */
 .site-head{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:40}
-.head-inner{display:flex;align-items:center;gap:1.4rem;padding:.7rem 0}
-.brand img{height:54px;width:auto}
+.head-inner{display:flex;align-items:center;gap:1.4rem;padding:.55rem 0}
+.brand img{height:82px;width:auto}
 .site-head nav{display:flex;gap:1.4rem;margin-left:auto;align-items:center;flex-wrap:wrap}
 .site-head nav a{color:var(--ink);text-decoration:none;font-weight:600;font-size:.97rem}
 .site-head nav a:hover{color:var(--blue-dk)}
@@ -156,11 +156,26 @@ form.offer input:focus,form.offer textarea:focus{outline:0;border-color:var(--bl
 .site-foot li{margin:.28rem 0}
 .site-foot ul.cols{columns:2;column-gap:1.2rem}
 .foot-logo{background:#fff;border-radius:8px;padding:9px 12px;display:inline-block;margin-bottom:.9rem}
-.foot-logo img{height:46px;width:auto}
+.foot-logo img{height:68px;width:auto}
 .foot-badges{display:flex;gap:.8rem;align-items:center;margin:.9rem 0}
 .foot-badges img{height:44px;width:auto;background:#fff;border-radius:6px;padding:5px}
 .foot-legal{border-top:1px solid rgba(255,255,255,.14);margin-top:1.8rem;padding-top:1rem;
   display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-size:.87rem}
+
+/* team */
+.team{margin:2.2rem 0 0}
+.member{display:grid;grid-template-columns:150px 1fr;gap:1.6rem;align-items:start;
+  padding:1.8rem 0;border-top:1px solid var(--line)}
+.member:first-child{border-top:0;padding-top:.6rem}
+.member img{width:150px;height:150px;border-radius:12px;object-fit:cover;background:var(--soft)}
+.member h2{margin:0 0 .15rem;font-size:1.3rem}
+.member .roles{color:var(--blue-dk);font-weight:700;font-size:.93rem;margin:0 0 .7rem}
+.member p{font-size:.97rem}
+.member p:last-child{margin-bottom:0}
+@media(max-width:640px){
+  .member{grid-template-columns:1fr;gap:.9rem}
+  .member img{width:120px;height:120px}
+}
 
 table{border-collapse:collapse;width:100%;margin:1rem 0}
 td,th{border:1px solid var(--line);padding:.6rem .7rem;text-align:left}
@@ -173,7 +188,7 @@ th{background:var(--soft);font-weight:700;color:var(--ink)}
 @media(max-width:680px){
   body{font-size:16px}
   .head-inner{flex-wrap:wrap;gap:.7rem}
-  .brand img{height:44px}
+  .brand img{height:62px}
   .site-head nav{order:3;width:100%;margin-left:0;gap:1rem;font-size:.92rem;padding-bottom:.3rem;
     overflow-x:auto;white-space:nowrap}
   .headtel{margin-left:auto}

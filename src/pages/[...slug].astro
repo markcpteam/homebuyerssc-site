@@ -6,7 +6,7 @@ import { BIZ } from '../consts';
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
   const pages = await getCollection('pages');
-  const skip = new Set(['index','home','guides','contact','thank-you']);
+  const skip = new Set(['index','home','guides','contact','thank-you','about']);
   return [
     ...cities.map(e => ({ params:{slug:e.id}, props:{entry:e, kind:'city'} })),
     ...pages.filter(e => !skip.has(e.id) && e.data.kind !== 'orphan').map(e => ({ params:{slug:e.id}, props:{entry:e, kind:'page'} })),
