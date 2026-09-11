@@ -54,8 +54,7 @@ const d = p.mode === 'post' ? p.entry.data.pubDate : null;
   ) : (
     <article class="prose">
       <h1>{p.entry.data.title}</h1>
-      <p class="lede">{p.entry.data.description}</p>
-      <p class="crumbs">Published {d.toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'})}</p>
+      <p class="meta">Published {d.toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'})}</p>
       <Content />
       <OfferBox />
       {p.siblings.length > 0 && (

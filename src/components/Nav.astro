@@ -1,16 +1,17 @@
 ---
-import { BIZ, GROUPS } from '../consts';
+import { BIZ } from '../consts';
 ---
 <header class="site-head">
   <div class="wrap head-inner">
-    <a href="/" class="brand">Homebuyers&nbsp;SC</a>
+    <a href="/" class="brand" aria-label="Homebuyers SC home"><img src="/logo.png" alt="Homebuyers SC, LLC" width="180" height="110" /></a>
     <nav aria-label="Main">
       <a href="/how-it-works/">How It Works</a>
+      <a href="/why-sell-house-south-carolina/">Why Sell</a>
       <a href="/guides/">Guides</a>
       <a href="/reviews/">Reviews</a>
       <a href="/about/">Our Team</a>
-      <a href="/contact/" class="cta">Get a Cash Offer</a>
+      <a href="/contact/" class="btn btn-blue" style="padding:.6rem 1.1rem;font-size:.95rem">Get My Cash Offer</a>
     </nav>
-    <a class="tel" href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a>
+    <a class="headtel" href={`tel:${BIZ.phoneRaw}`}><small>Call us</small><strong>{BIZ.phone}</strong></a>
   </div>
 </header>

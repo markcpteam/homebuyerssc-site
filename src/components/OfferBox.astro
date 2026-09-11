@@ -4,6 +4,9 @@ const { heading = 'Need to sell this house?' } = Astro.props;
 ---
 <div class="offerbox">
   <h2>{heading}</h2>
-  <p>Homebuyers SC buys houses across Charleston, Berkeley, and Dorchester counties for cash, as-is. No repairs, no cleaning, no commissions, and you pick the closing date.</p>
-  <p><strong>Call <a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a> or <a href="/contact/">request a cash offer online</a>.</strong></p>
+  <p>We buy houses across Charleston, Berkeley, and Dorchester counties for cash, exactly as they sit. No repairs, no cleaning, no commissions, and you choose the closing date.</p>
+  <div class="row">
+    <a href="/contact/" class="btn">Get my cash offer</a>
+    <span>or call <a class="tel" href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a></span>
+  </div>
 </div>

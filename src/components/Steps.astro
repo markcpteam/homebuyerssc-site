@@ -1,0 +1,18 @@
+---
+const steps = [
+  { n:1, img:'/icon-phone.png',    t:'You reach out',      d:'Call us or send the address through the form. Takes two minutes.' },
+  { n:2, img:'/icon-form.png',     t:'We look at it',      d:'We review the property and recent comparable sales nearby.' },
+  { n:3, img:'/icon-cash.png',     t:'You get a cash offer', d:'A real number, no obligation, usually within 24 hours.' },
+  { n:4, img:'/icon-check.png',    t:'You pick the date',  d:'A local closing attorney handles the paperwork. You choose when.' },
+];
+---
+<div class="steps">
+  {steps.map(s => (
+    <div class="step">
+      <img src={s.img} alt="" width="74" height="74" loading="lazy" />
+      <span class="num">{s.n}</span>
+      <h3>{s.t}</h3>
+      <p>{s.d}</p>
+    </div>
+  ))}
+</div>

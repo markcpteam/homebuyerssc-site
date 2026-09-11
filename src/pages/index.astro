@@ -2,54 +2,107 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { GROUPS, BIZ } from '../consts';
+import TrustBar from '../components/TrustBar.astro';
+import Steps from '../components/Steps.astro';
 const all = await getCollection('guides');
 const cities = (await getCollection('cities')).sort((a,b)=>a.data.city.localeCompare(b.data.city));
+const reasons = [
+  ['Avoid or stop foreclosure','/avoid-or-stop-foreclosure-south-carolina/'],
+  ['Downsizing or retiring','/downsizing-your-home-south-carolina/'],
+  ['A parent or relative passed away','/sell-inherited-house-south-carolina/'],
+  ['You need cash now','/need-cash-now-south-carolina/'],
+  ['An alternative to an estate sale','/alternative-to-estate-sale-south-carolina/'],
+  ['Divorce or separation','/sell-house-during-divorce-south-carolina/'],
+  ['Problem tenants','/sell-house-with-tenants-south-carolina/'],
+];
 ---
 <Base title="Sell My House Fast For Cash in South Carolina | Homebuyers SC"
-      description={`We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call ${BIZ.phone}.`}>
-  <h1>Sell your house fast for cash in South Carolina</h1>
-  <p class="lede">Homebuyers SC is a family-owned cash home buyer serving Charleston, Berkeley, and Dorchester counties. We buy as-is, cover closing costs, charge no commissions, and you choose the closing date.</p>
-
-  <div class="offerbox">
-    <h2>Get a cash offer</h2>
-    <p>Tell us the address and a few details. We look at the property and recent comparable sales, then give you a cash offer. If you accept, a local closing attorney handles the paperwork.</p>
-    <p><strong>Call <a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a> or <a href="/contact/">request an offer online</a>.</strong></p>
+      description={`We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call ${BIZ.phone}.`} bare>
+  <div class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>Sell your house fast for cash in South Carolina</h1>
+        <p class="sub">A local, family-owned buyer. We take the house exactly as it sits, and you pick the closing date.</p>
+        <ul>
+          <li>No repairs, no cleaning, no showings</li>
+          <li>No agent commissions and no fees</li>
+          <li>Close in as few as 7 days, or later if you need time</li>
+          <li>A real cash offer, usually within 24 hours</li>
+        </ul>
+        <div class="hero-cta">
+          <a href="/contact/" class="btn btn-lg">Get my cash offer</a>
+          <a class="hero-call" href={`tel:${BIZ.phoneRaw}`}>or call {BIZ.phone}</a>
+        </div>
+      </div>
+      <div class="hero-card">
+        <h2>What is the house?</h2>
+        <p>Tell us the address and what is going on. No obligation, no pressure, and we will get back to you within one business day.</p>
+        <a href="/contact/" class="btn btn-blue" style="display:block;text-align:center">Start here</a>
+        <p style="margin:.9rem 0 0;font-size:.87rem">Prefer to talk? Call <a href={`tel:${BIZ.phoneRaw}`}><strong>{BIZ.phone}</strong></a>.</p>
+      </div>
+    </div>
   </div>
 
-  <h2>Why homeowners sell to us</h2>
-  <ul class="prose">
-    <li><strong>No repairs.</strong> We buy in any condition, including foundation damage, water damage, mold, fire damage, and code violations.</li>
-    <li><strong>No commissions.</strong> There is no agent fee taken out of your proceeds.</li>
-    <li><strong>Close in as few as 7 days</strong>, or later if you need time. You pick the date.</li>
-    <li><strong>No showings.</strong> One walkthrough, one offer.</li>
-  </ul>
+  <TrustBar />
 
-  <h2>Our track record, in plain numbers</h2>
-  <p class="prose">Homebuyers SC has operated in the South Carolina Lowcountry since {BIZ.founded} and has completed over {BIZ.transactions} transactions. The company is accredited by the Better Business Bureau with an {BIZ.bbbRating} rating, held since {BIZ.bbbSince}. Founder {BIZ.author.name} is a licensed South Carolina real estate agent, license number {BIZ.author.license}, with {BIZ.author.years}+ years of investing experience.</p>
+  <section>
+  <div class="wrap">
+    <h2 style="margin-top:0">How selling to us works</h2>
+    <p class="lede">Four steps. No listing, no open houses, no waiting on somebody else's mortgage approval.</p>
+    <Steps />
+    <p style="margin-top:1.6rem"><a href="/how-it-works/">See the full process, including what you actually net</a>.</p>
+    </div>
+  </section>
 
-  <h2>What situation are you in?</h2>
-  <div class="grid">
-    {Object.entries(GROUPS).map(([k,g]) => (
-      <article class="card">
-        <h3 style="margin:0 0 .3rem"><a href={`/guides/${k}/`}>{g.label}</a></h3>
-        <p style="margin:0;color:var(--mut);font-size:.93rem">{g.blurb}</p>
-      </article>
-    ))}
-  </div>
+  <section class="tint">
+  <div class="wrap">
+    <h2 style="margin-top:0">Why people sell to us</h2>
+    <p class="lede">Most of the homeowners we buy from are not moving up. Something happened, and the house became the problem.</p>
+    <div class="grid" style="margin-top:1.3rem">
+      {reasons.map(([label,href]) => (
+        <article class="card"><h3><a href={href}>{label}</a></h3></article>
+      ))}
+    </div>
+    </div>
+  </section>
 
-  <h2>How it works</h2>
-  <ol class="prose">
-    <li>You tell us the address and the situation.</li>
-    <li>We review the property and recent comparable sales in your area.</li>
-    <li>You get a cash offer with no obligation.</li>
-    <li>If you accept, a local closing attorney handles it and you choose the date.</li>
-  </ol>
-  <p><a href="/how-it-works/">Read the full process</a>.</p>
+  <section>
+  <div class="wrap">
+    <h2 style="margin-top:0">Our track record, in plain numbers</h2>
+    <div class="prose">
+      <p>Homebuyers SC has operated in the South Carolina Lowcountry since {BIZ.founded} and has completed over {BIZ.transactions} transactions. The company is accredited by the Better Business Bureau with an {BIZ.bbbRating} rating, held since {BIZ.bbbSince}. Founder {BIZ.author.name} is a licensed South Carolina real estate agent, license number {BIZ.author.license}, with {BIZ.author.years}+ years of investing experience.</p>
+      <p>We are not a national call center buying leads. We are local, we look at the house ourselves, and the person who makes the offer is the person who closes it.</p>
+      <p><a href="/reviews/">Read what sellers have said</a> or <a href="/about/">meet the team</a>.</p>
+    </div>
+    </div>
+  </section>
 
-  <h2>Where we buy</h2>
-  <p class="prose">We buy houses throughout the Charleston tri-county area.</p>
-  <ul class="prose" style="columns:2">{cities.map(c => <li><a href={`/${c.id}/`}>{c.data.city}</a></li>)}</ul>
+  <section class="tint">
+  <div class="wrap">
+    <h2 style="margin-top:0">What situation are you in?</h2>
+    <p class="lede">{all.length} plain-English guides, grouped by what is actually standing in the way.</p>
+    <div class="grid" style="margin-top:1.3rem">
+      {Object.entries(GROUPS).map(([k,g]) => {
+        const n = all.filter(p=>p.data.group===k).length;
+        return (
+          <article class="card">
+            <h3><a href={`/guides/${k}/`}>{g.label}</a></h3>
+            <p>{g.blurb}</p>
+            <p class="count">{n} guides</p>
+          </article>
+        );
+      })}
+    </div>
+    </div>
+  </section>
 
-  <h2>Guides for South Carolina homeowners</h2>
-  <p class="prose">{all.length} guides covering what to do when something is standing between you and a sale. <a href="/guides/">Browse all guides</a>.</p>
+  <section>
+  <div class="wrap">
+    <h2 style="margin-top:0">Where we buy</h2>
+    <p class="lede">Charleston, Berkeley, and Dorchester counties, plus the surrounding towns.</p>
+    <ul class="prose" style="columns:3;list-style:none;padding:0;margin-top:1rem">
+      {cities.map(c => <li style="margin:.3rem 0"><a href={`/${c.id}/`}>{c.data.city}</a></li>)}
+    </ul>
+    </div>
+  </section>
 </Base>
