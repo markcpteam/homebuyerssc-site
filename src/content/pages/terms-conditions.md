@@ -98,19 +98,12 @@ you.
 
 DISCLOSURE OF PERSONAL INFORMATION
 
-We may use third-party service providers to assist us with providing and marketing our products and
+We may use third-party service providers to assist us with providing and marketing our products and services to you and we may share your information with such third parties for these limited purposes.
 
-services to you and we may share your information with such third parties for these limited purposes.
-
-● We use RESimpli for our email marketing and text message communications. For more
-
-information about how we may use your information with RESimpli and the information
-
-that may be collected through our email campaigns, see RESimpli’s Customer Data
-
-Notice available at https://resimpli.com/privacy-policy/
-
-● We use LeadPages to help us understand how visitors interact with our website. LeadPages uses and processes your information in accordance with its privacy policy available at https://www.leadpages.com/privacy?srsltid=AfmBOor9Fmcze4f_T_PDLDgslDe2O8GpiYcqXj8iiu-H_CiboDfCW7pI.
+- We use ReSimpli for our email marketing and text message communications. For more information about how we may use your information with ReSimpli and the information that may be collected through our email campaigns, see ReSimpli’s Customer Data Notice available at https://resimpli.com/privacy-policy/
+- We use Netlify to host this website and to process the contact forms submitted through it. Netlify uses and processes your information in accordance with its privacy statement available at https://www.netlify.com/privacy/
+- We use CallRail for call tracking. When you call a number shown on this website, CallRail records the number you dialed, your phone number, the date and length of the call, and how you reached the site. CallRail uses and processes your information in accordance with its privacy notice available at https://www.callrail.com/privacy
+- We use Google Analytics to understand how visitors use this website. Google collects and processes information about your visit in accordance with its privacy policy available at https://policies.google.com/privacy, and describes how it uses data from sites that use its services at https://policies.google.com/technologies/partner-sites
 
 We may also share your personal information if necessary to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 

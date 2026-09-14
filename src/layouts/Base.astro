@@ -190,6 +190,17 @@ table{border-collapse:collapse;width:100%;margin:1rem 0}
 td,th{border:1px solid var(--line);padding:.6rem .7rem;text-align:left}
 th{background:var(--soft);font-weight:700;color:var(--ink)}
 
+/* Long unbroken strings, mostly full URLs inside the privacy and terms text,
+   would otherwise stretch the page wider than a phone screen. */
+.prose{overflow-wrap:break-word}
+.prose a{overflow-wrap:anywhere}
+
+@media(max-width:700px){
+  /* A table wider than the screen scrolls inside its own box rather than
+     dragging the whole page sideways. */
+  .prose table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+}
+
 @media(max-width:900px){
   .hero-grid{grid-template-columns:1fr;gap:1.8rem;padding:2.2rem 0}
   .foot-grid{grid-template-columns:1fr 1fr}
