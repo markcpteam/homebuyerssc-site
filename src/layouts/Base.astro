@@ -22,6 +22,15 @@ const canonical = new URL(Astro.url.pathname, BIZ.site).href;
 <meta name="twitter:card" content="summary_large_image" />
 <Schema type={type} title={title} description={description} url={canonical} datePublished={datePublished} dateModified={dateModified} breadcrumbs={breadcrumbs} />
 <link rel="sitemap" href="/sitemap-index.xml" />
+
+<!-- Google Analytics 4. Measurement ID lives in one place only, here. -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3GQMEVC8H4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-3GQMEVC8H4');
+</script>
 <style is:global>
 :root{
   --blue:#29B1EE; --blue-dk:#1487BC; --blue-pale:#EAF7FE;
@@ -204,6 +213,9 @@ th{background:var(--soft);font-weight:700;color:var(--ink)}
 <Nav />
 {bare ? <main><slot /></main> : <main class="wrap" style="padding:2.4rem 0 1rem"><slot /></main>}
 <Footer />
-<!-- CallRail tracking script goes here once the number pool is configured (deferred until after launch). -->
+<!-- CallRail visitor tracking. Swaps the displayed phone number for live visitors
+     based on how they arrived. The number in this page's source stays 843-938-1978,
+     which is what search engines and AI crawlers read. Company 886508577. -->
+<script type="text/javascript" src="//cdn.callrail.com/companies/886508577/ad5152d01a2df12a13e6/12/swap.js"></script>
 </body>
 </html>
