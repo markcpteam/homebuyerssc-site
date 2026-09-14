@@ -1,89 +1,106 @@
 ---
-title: "Selling a House With Code Violations: How to Get Out Without Fixing Everything"
-description: "Code violations can turn a normal home sale into a dead end."
+title: "Selling a House With Code Violations in South Carolina"
+description: "Citations follow the property and many jurisdictions assess per-day penalties. SC's statewide code, what accrues while you wait, and how to sell without fixing."
 pubDate: 2026-05-13
 group: legal
 oldUrl: "/guides/selling-a-house-with-code-violations-how-to-get-out-without-fixing-everything/"
 ---
-Code violations can turn a normal home sale into a dead end. Notices from the city, mounting fines, and required repairs often leave homeowners feeling trapped—especially when they don’t have the time or money to bring the property up to code.
+An open code enforcement case does not stop you from selling. It stops you from ignoring the problem, because in many jurisdictions the penalties accrue while the property sits and they follow the property rather than you personally.
 
-The reality is this: **you can sell a house with code violations** , and you don’t have to fix everything first.
+The instinct is to fix everything first. For most owners in this position that is the expensive route, because the citations arrived alongside condition problems that cost more than the fines.
 
-## What Are Code Violations—and Why They Matter
+Homebuyers SC buys houses with open code cases across Charleston, Berkeley, and Dorchester counties.
 
-Code violations occur when a property doesn’t meet local safety or building standards. Common violations include:
+## What is the standard being enforced?
 
-  * Electrical or plumbing issues
+South Carolina mandates a statewide building code. Under SC Code 6-9-50, local governments must adopt by reference the latest editions of the nationally recognized International Code Council codes for building, residential, gas, plumbing, mechanical, fire, and energy, plus the National Electrical Code. Administrative provisions, including a building official's duties and procedures, apply where the local governing body has adopted them.
 
-  * Structural or foundation problems
+So the technical standard is broadly consistent across the tri-county area. What varies by jurisdiction is enforcement practice, the penalty schedule, and how a case is closed out. Those are questions for the specific code enforcement office, and calling them is free.
 
-  * Roof damage
+## What typically generates a citation?
 
-  * Unpermitted work
+- Structures in disrepair, a failing roof, or an unsafe condition
+- Overgrown lots, debris, or accumulation visible from outside
+- Unpermitted work discovered by complaint or inspection
+- Inoperable vehicles, or storage that violates an ordinance
+- Occupancy problems, including unpermitted units
+- Utilities disconnected in a way that renders a dwelling unfit
+- Anything triggered by a neighbour complaint, which is the most common origin
 
-  * Overgrown yards or exterior disrepair
+## Why does waiting cost more than the fines?
 
-Once violations are on record, they can block traditional buyers and lenders entirely.
+| What accrues | Why |
+|---|---|
+| **Per-day penalties** | Many jurisdictions assess daily on an open case |
+| **Escalation** | Cases can progress toward hearings, liens, or in serious situations demolition orders |
+| **Condition** | The underlying problem gets worse, especially in this climate |
+| **Insurance** | An open case and a deteriorating property make coverage harder, and no insurance means no mortgage |
+| **Property taxes** | Continue, and possibly at the 6% ratio rather than 4% if you no longer occupy it |
+| **Buyer pool** | Narrows as the condition worsens |
 
-## Why Traditional Buyers Walk Away
+An unresolved case on a deteriorating house is the clearest example of a problem that compounds in two directions at once.
 
-Most retail buyers rely on bank financing—and lenders won’t approve loans for properties with unresolved code violations. Even if a buyer is interested, the deal usually falls apart during inspection or appraisal.
+## Do the violations transfer to the buyer?
 
-On top of that:
+Generally the obligations attach to the property, which is the point: a buyer takes the property with the open case and resolves it. That is a normal transaction for an investor buyer and an impossible one for most retail buyers, because their lender will not accept it.
 
-  * Repair costs are often unpredictable
+What you should establish before selling:
 
-  * City re-inspections cause delays
+- **Exactly what is cited**, in writing, from the enforcement office
+- **What penalties have accrued** to date, and whether any have been recorded as a lien
+- **What closing the case requires**, specifically
+- **Whether any deadline or hearing is scheduled**
 
-  * Fines continue accruing
+*How a particular case transfers, and what liability survives a sale, depends on the ordinance and the facts. Ask a licensed South Carolina attorney rather than assuming.*
 
-The house becomes harder to sell with each passing month.
+## Should I fix it first?
 
-## Selling As-Is With Code Violations
+| Fix first when | Sell as-is when |
+|---|---|
+| The citation is one bounded item, like a yard or debris | The citations reflect broad condition problems |
+| Clearing it restores financeability | The house would not finance even with the case closed |
+| You can fund it without borrowing | You cannot fund the underlying repairs |
+| There is no deadline pressure | A hearing or escalation is scheduled |
+| You intend to list the house | You want out |
 
-Cash home buyers and real estate investors routinely purchase properties with open code violations.
+A mowed lot and a cleared driveway are cheap and sometimes close a case entirely. A structural citation is a different conversation, and the fine is the smallest part of it.
 
-They:
+See [do I need repairs before selling as-is](/guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/) and [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/).
 
-  * Buy homes as-is
+## What if the case involves zoning or use rather than condition?
 
-  * Handle repairs after closing
+Different problem with a different answer. A use that was never permitted, versus a legal nonconforming use that predates the current rules, are handled very differently, and many owners assume they have the worse of the two when they do not.
 
-  * Work directly with municipalities
+See [selling a property with zoning or use issues](/guides/selling-a-property-with-zoning-or-use-issues/) and [selling a house with unpermitted work](/guides/selling-a-house-with-unpermitted-work-what-homeowners-should-know/).
 
-  * Absorb fines, permits, and compliance costs
+## How does an as-is sale work?
 
-For homeowners, this means no repairs, no inspections, and no ongoing penalties.
+The buyer prices the citations, the underlying condition, and the cost of closing the case. Accrued penalties and any recorded lien are paid from the proceeds at closing by the closing attorney, who in South Carolina must supervise the closing under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).
 
-## When Selling With Violations Makes the Most Sense
+Disclose the case up front. It is a matter of public record, a buyer's attorney finds it, and a buyer who is surprised renegotiates. See [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/).
 
-This option is ideal when:
+## Frequently asked questions
 
-  * Repair costs are unaffordable
+**Can I sell with an open case?**
 
-  * Violations are extensive
+Yes, to a buyer who can close without a lender. Disclose it and let them price it.
 
-  * The home is vacant or inherited
+**Will the fines have to be paid at closing?**
 
-  * You need to sell quickly
+Anything recorded as a lien is paid from the proceeds. Unrecorded accrued penalties are a negotiated term, so establish the number before contracting.
 
-  * Stress and fines are piling up
+**What if the property has been cited for years?**
 
-Instead of battling the city, selling transfers the responsibility immediately.
+Then the accrued total may be significant and the condition is likely serious. Get the written total from the enforcement office before you talk to buyers, because a buyer guessing will guess high.
 
-## Common Questions
+**What if it is an inherited property?**
 
-**Do I have to disclose code violations?**  
-Yes—but disclosure doesn’t prevent an as-is sale.
+The estate deals with the case, and the authority-to-sell question comes first. See [the heir's checklist](/guides/selling-an-inherited-house-in-south-carolina-heirs-guide/).
 
-**Will violations reduce my price?**  
-They’re factored in, but often less costly than fixing everything yourself.
+**Could the property be condemned or demolished?**
 
-**Can I sell if the city is threatening legal action?**  
-Often, yes—especially with an experienced investor.
+In serious cases jurisdictions have that authority. If a demolition process has started, treat it as urgent and get an attorney involved.
 
-## The Bottom Line
+**How fast can it close?**
 
-Code violations don’t mean you’re stuck. Trying to fix everything before selling can drain time, money, and energy—with no guarantee of a successful sale.
-
-Selling your house as-is to a real estate investor allows you to exit cleanly, stop the fines, and move on without another repair bill.
+Usually one to three weeks once the closing attorney confirms clear title and the penalty figures are known.

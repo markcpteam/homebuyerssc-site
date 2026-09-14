@@ -1,90 +1,83 @@
 ---
-title: "Cash Home Buyers in Kiawah, SC \u2013 7-Day Close"
-description: "We buy houses for cash in Kiawah, SC in any condition. No repairs, no commissions, no showings, and you choose the closing date. Call (843) 938-1978."
-city: "Kiawah"
+title: "Cash Home Buyers in Kiawah Island, SC"
+description: "Selling a house in Kiawah Island, SC. Which county your property is in, what comes up most on houses here, and how to check any cash buyer."
+city: "Kiawah Island"
 oldUrl: "/cash-home-buyers-kiawah-sc/"
 ---
-_If you need to sell a house in Kiawah without repairs, showings, or waiting on a bank, Homebuyers SC buys homes for cash and keeps the process simple._
-• Sell as-is (no cleaning, no repairs)
+Homebuyers SC buys houses in Kiawah Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
 
-• No commissions
+Kiawah is a barrier island with a property owners association layered on top of town and county requirements, so there are more sets of rules in play than on a typical sale.
 
-• No showings
+## Which county is your Kiawah Island property in?
 
-• Choose your closing date  
-  
+The county decides which offices you deal with, and on some Kiawah Island addresses the answer is not obvious.
 
-Call (843) 938-1978 or request a cash offer online.
+| What you need | Where it lives |
+|---|---|
+| Probate, if the owner has died | Charleston County Probate Court |
+| Recorded deeds, liens, judgments | Charleston County Register of Deeds |
+| Delinquent property taxes | Charleston County delinquent tax office |
 
-**  
-**We buy houses in all conditions, including outdated homes, inherited properties, rentals
+**Insurance note.** The South Carolina Wind and Hail Underwriting Association, the state's market of last resort for wind and hail coverage, operates in designated coastal zones of Charleston County. It covers wind and hail only, not fire, liability, or flood, and it carries condition requirements including a sound roof. Confirm eligibility for your address with an insurance agent.
 
-(case-by-case), and homes needing major repairs (roof, foundation, water damage, etc.).
+## What comes up most on Kiawah Island houses
 
-## Kiawah Neighborhoods We Buy Houses In:
+- **POA governing documents.** In South Carolina, governing documents must be recorded to be enforceable under SC Code 27-30-130. Pull yours from the county rather than relying on what you were told.
+- **Architectural review** affects what a buyer can change, which affects what they will pay.
+- **Insurance is the gating item**, as on any barrier island. Homeowners, flood, and wind and hail are separate questions.
+- **Assessments and transfer fees** in a POA community should be established in writing before you contract, because they come out of the proceeds.
 
-### **  
-We buy houses for cash in every Kiawah neighborhood, including:  
-  
-**
+## How would you check us, or any buyer?
 
-* Cassique
-* West Beach Village (West Beach)
-* East Beach Village (East Beach)
-* Central Island
-* Vanderhorst Plantation
-* Ocean Park
-* The Preserve at Kiawah
-* The Settlement
-* Rhett's Bluff
-* Indigo Hall  
+Homebuyers SC, LLC has bought across Charleston, Berkeley, and Dorchester counties since 2017, over 500 purchases, BBB accredited with an A+ rating held since March 2023, and a 4.8 out of 5 rating from 25 Google reviews. Caleb Pearson is a licensed South Carolina real estate agent, license number 83101.
 
-### If your neighborhood isn't listed, call us anyway -- we buy throughout Kiawah!
+Do not take that on trust. Recorded deeds at your county's Register of Deeds show what any company has actually bought, licenses are searchable at the South Carolina Department of Labor, Licensing and Regulation, and reviews and complaints are public. Our [reviews page](/reviews/) sources every figure above, and [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/) sets out the three questions worth asking anyone, us included.
 
-* We pay **cash!**
-* Commission-free transaction
-* Fast, hassle-free closing
-* Your property sold AS-IS
+## What is the Kiawah Island market doing right now?
 
-**No obligation. No spam.**
+There is no honest number to put here. Days on market and prices for Kiawah Island move constantly and vary by submarket, and any local agent can pull current figures for your specific area from the MLS in minutes. That is the right source.
 
-**How it works:**
+Two questions matter more to your sale than any market statistic: would a lender finance your house today, and can it be insured. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/) and [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
 
-1) Tell us about the Kiawah property (address + basics).
+## The process, briefly
 
-2) We evaluate and make a written cash offer.
+One walkthrough, a written offer with proof of funds usually within 24 to 48 hours, then an attorney-supervised closing on a date you pick, typically one to three weeks once title clears, or up to twelve months out if that suits you better. South Carolina requires a licensed attorney to supervise every closing, under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).
 
-3) You pick the closing date and we close with a local attorney.  
+Full detail, including what sets the timeline and what you are never asked to do, is in [how selling to a cash home buyer works in South Carolina](/guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/).
 
-**Why cash vs listing:** Listing can be great if you have time and want top retail price. Cash sales are
+## Should you sell to a cash buyer at all?
 
-usually best when you want speed, privacy, and certainty and you don’t want repairs/showings/appraisal
+Often not. If the house is in good condition, a lender would finance it today, and you have time to wait, listing it will usually net you more. We would rather tell you that than write an offer you should not take. The arithmetic, including the case for listing, is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-delays.
+A cash sale tends to fit when the house needs work a lender will not accept, you are against a deadline, the property is tenant-occupied or in an estate, or a listing has already failed.
 
-**  
-Areas we buy:** Downtown/Peninsula, West Ashley, James Island, Johns Island, North Charleston, Mount
+## Kiawah Island neighborhoods we buy in
 
-Pleasant, Summerville, Kiawah.
+- Cassique
+- West Beach Village (West Beach)
+- East Beach Village (East Beach)
+- Central Island
+- Vanderhorst Plantation
+- Ocean Park
+- The Preserve at Kiawah
+- The Settlement
+- Rhett's Bluff
+- Indigo Hall
 
-**  
-FAQ:**
+If your neighborhood is not listed, call anyway. We buy throughout Kiawah Island and the surrounding area.
 
-Q: How fast can you close? 
+## Questions we get about Kiawah Island property
 
-A: Timing depends on title work and your situation, but cash closings can be much faster than listings because there’s no lender delay.
+**How do the POA rules affect a sale?**
 
-Q: Do you buy houses that need repairs? 
+Assessments and any transfer obligations come out of the proceeds, and architectural rules affect what a buyer can change. Get a statement of account and the recorded documents early, because associations are frequently slow to produce them.
 
-A: Yes—many sellers choose cash specifically to avoid repairs.
+**Are the POA rules I was given actually enforceable?**
 
-Q: Do I have to clean out the house? 
+Under SC Code 27-30-130 governing documents must be recorded to be enforceable. What is recorded at the county is the answer, and you can check it yourself.
 
-A: Often no. Tell us what you’re leaving and we’ll confirm it in writing.
+**Do you buy on the island despite the access arrangements?**
 
-Q: Do I pay commissions or fees? 
+Yes. Tell us about gate access in advance so a walkthrough does not cost a day.
 
-A: There is no agent commission in a direct sale. Any closing costs should be clearly disclosed.
-
-Q: What’s next?   
-A: Call or submit the form for a no-obligation offer.
+Call (843) 938-1978 or [request a cash offer](/contact/) for a written, no-obligation number on your Kiawah Island property.

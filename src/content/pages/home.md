@@ -1,5 +1,5 @@
 ---
-title: "Homebuyers SC \u2014 Get Cash For Your House FAST!"
+title: "Homebuyers SC , Get Cash For Your House FAST!"
 description: "WE CAN BUY YOUR HOME OVER THE PHONE! CALL (843) 507-5337 TODAY! Get Cash For Your House, FAST! CALL (843) 507-5337 TODAY!"
 kind: orphan
 oldUrl: "/home/"
@@ -10,7 +10,7 @@ WE CAN BUY YOUR HOME OVER THE PHONE! CALL (843) 507-5337 TODAY!
 
 CALL (843) 507-5337 TODAY!
 
-We buy homes in all conditions, shapes and sizes! Our experience of doing 500+ transactions gives us the ability to make this an easy process, and get you a FAIR offer on your home! 
+We buy homes in all conditions, shapes and sizes! Our experience of doing 500+ transactions gives us the ability to make this an easy process, and get you a written cash offer on your home! 
 
 * We pay cash
 * Commission free transaction with no closing costs
@@ -31,7 +31,7 @@ Some people may need to stay in the home for a week or a month after closing. Wh
 
 If you have any questions about the process, don’t hesitate to contact us at (843) 507-5337. 
 
-Homebuyers SC was created to help families with selling their real estate through any situation. Since they have opened, Homebuyers SC has allowed these families to have multiple options in selling their home. A lot of Homebuyers SC projects are purchased, rehabilitated and sold to wonderful families in the area! With most of these homes needing a good bit of work such as, foundation repairs, house fire repairs, flood and water damage, termite damage, mold/fungi repairs, and/or cosmetic repairs makes it difficult to get traditional financing on these homes. We are not afraid of anything to do with condition! We also have helped families that need to sell quickly and the house doesn't need much if any repairs! Homebuyers SC's main goal is to get the client's needs/goals met and buy their home at a fair price that benefits both the client and Homebuyers SC. We take pride in helping our clients with integrity, speed, and quality customer service through the process to make it as stress free as possible. With these characteristics, we looks forward to helping you or anyone that needs his assistance and appreciates the client referrals. 
+Homebuyers SC was created to help families with selling their real estate through any situation. Since they have opened, Homebuyers SC has allowed these families to have multiple options in selling their home. A lot of Homebuyers SC projects are purchased, rehabilitated and sold to wonderful families in the area! With most of these homes needing a good bit of work such as, foundation repairs, house fire repairs, flood and water damage, termite damage, mold/fungi repairs, and/or cosmetic repairs makes it difficult to get traditional financing on these homes. We are not afraid of anything to do with condition! We also have helped families that need to sell quickly and the house doesn't need much if any repairs! Homebuyers SC's main goal is to get the client's needs/goals met and buy their home at a price that works for both the client and Homebuyers SC. We take pride in helping our clients with integrity, speed, and quality customer service through the process to make it as stress free as possible. With these characteristics, we looks forward to helping you or anyone that needs his assistance and appreciates the client referrals. 
 
 [CLICK HERE to book a time for our buying specialist to come out and make you an offer!](https://calendly.com/homebuyersscllc)
 

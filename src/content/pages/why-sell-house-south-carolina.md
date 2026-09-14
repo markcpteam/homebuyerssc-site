@@ -6,7 +6,7 @@ oldUrl: "/why-sell-house-south-carolina/"
 ---
 [Homebuyers SC](/contact/) can help you and your family get out from under a home that has become a burden. Our professional team has helped hundreds of individuals, couples, and families in situations like yours, and we can offer you a fast, quick and convenient way to sell your home for cash. We are partners with you in the process and can offer you guidance and support along the way.
 
-Our experienced home buying professionals understand that each situation is unique, and selling your home is a very personal and important decision. No matter the reason – whether you are behind on mortgage payments, are frustrated with the traditional real estate sale, want to relocate, are ready to downsize, or are going through a divorce or separation – we can help. We will be there every step of the way and will help you start fresh with a fair cash offer for your home.
+Our experienced home buying professionals understand that each situation is unique, and selling your home is a very personal and important decision. No matter the reason, whether you are behind on mortgage payments, are frustrated with the traditional real estate sale, want to relocate, are ready to downsize, or are going through a divorce or separation, we can help. We will be there every step of the way and will help you start fresh with a written cash offer for your home.
 
 Why sell your home to Homebuyers SC?
 

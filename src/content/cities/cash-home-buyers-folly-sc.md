@@ -1,105 +1,97 @@
 ---
-title: "Cash Home Buyers in Folly Beach, SC \u2013 7-Day Close"
-description: "We buy houses for cash in Folly, SC in any condition. No repairs, no commissions, no showings, and you choose the closing date. Call (843) 938-1978."
-city: "Folly"
+title: "Cash Home Buyers in Folly Beach, SC"
+description: "Selling a house in Folly Beach, SC. Which county your property is in, what comes up most on houses here, and how to check any cash buyer."
+city: "Folly Beach"
 oldUrl: "/cash-home-buyers-folly-sc/"
 ---
-_If you need to sell a house in Folly Beach without repairs, showings, or waiting on a bank, Homebuyers SC buys homes for cash and keeps the process simple._
-• Sell as-is (no cleaning, no repairs)
+Homebuyers SC buys houses in Folly Beach as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
 
-• No commissions
+Folly Beach is a barrier island, and insurance is the single biggest factor in whether a house here sells to a financed buyer.
 
-• No showings
+## Which county is your Folly Beach property in?
 
-• Choose your closing date  
-  
+The county decides which offices you deal with, and on some Folly Beach addresses the answer is not obvious.
 
-Call (843) 938-1978 or request a cash offer online.
+| What you need | Where it lives |
+|---|---|
+| Probate, if the owner has died | Charleston County Probate Court |
+| Recorded deeds, liens, judgments | Charleston County Register of Deeds |
+| Delinquent property taxes | Charleston County delinquent tax office |
 
-**  
-**We buy houses in all conditions, including outdated homes, inherited properties, rentals
+**Insurance note.** The South Carolina Wind and Hail Underwriting Association, the state's market of last resort for wind and hail coverage, operates in designated coastal zones of Charleston County. It covers wind and hail only, not fire, liability, or flood, and it carries condition requirements including a sound roof. Confirm eligibility for your address with an insurance agent.
 
-(case-by-case), and homes needing major repairs (roof, foundation, water damage, etc.).
+## What comes up most on Folly Beach houses
 
-## Folly Beach Neighborhoods We Buy Houses In:
+- **Three separate coverages.** Homeowners, flood, and wind and hail are not the same policy. A seller who only knows about one of them is not ready for a buyer's questions.
+- **Flood zone and elevation certificate** matter enormously. An elevation certificate can change a premium substantially, and a missing one can end a deal.
+- **Salt, wind, and moisture** are hard on structures. Roof age, exterior envelope, and framing are the routine findings.
+- **Short-term rental rules** are specific here and they change. Get the current rule from the city in writing, because it decides who will buy the property.
 
-### **  
-We buy houses for cash in every Folly Beach neighborhood, including:  
-  
-**
+## How would you check us, or any buyer?
 
-* Center Street (downtown Folly)
-* East Folly Beach Shores (East End / The Washout)
-* East Folly Estates
-* Folly Creek Place
-* Folly Riverfront
-* Little Oak Island
-* Mariners Cay
-* Marshview Villas
-* Ocean Pointe Villas
-* Oak Island
-* Palmetto Pointe
-* Pavilion Watch
-* Pelican Pointe Villas
-* Pier Pointe Villas
-* Preserve at Clam Farm
-* Seacoast Villas
-* Seaside Villas
-* Seaside Villas II
-* Sunset Cay Marina
-* Sunset Point
-* Tabby Island
-* Turtle Bay
-* Waterfront Villas
-* West Indian / West End  
+Homebuyers SC, LLC has bought across Charleston, Berkeley, and Dorchester counties since 2017, over 500 purchases, BBB accredited with an A+ rating held since March 2023, and a 4.8 out of 5 rating from 25 Google reviews. Caleb Pearson is a licensed South Carolina real estate agent, license number 83101.
 
-### If your neighborhood isn't listed, call us anyway -- we buy throughout Folly!
+Do not take that on trust. Recorded deeds at your county's Register of Deeds show what any company has actually bought, licenses are searchable at the South Carolina Department of Labor, Licensing and Regulation, and reviews and complaints are public. Our [reviews page](/reviews/) sources every figure above, and [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/) sets out the three questions worth asking anyone, us included.
 
-* We pay **cash!**
-* Commission-free transaction
-* Fast, hassle-free closing
-* Your property sold AS-IS
+## What is the Folly Beach market doing right now?
 
-**No obligation. No spam.**
+There is no honest number to put here. Days on market and prices for Folly Beach move constantly and vary by submarket, and any local agent can pull current figures for your specific area from the MLS in minutes. That is the right source.
 
-**How it works:**
+Two questions matter more to your sale than any market statistic: would a lender finance your house today, and can it be insured. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/) and [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
 
-1) Tell us about the Folly Beach property (address + basics).
+## The process, briefly
 
-2) We evaluate and make a written cash offer.
+One walkthrough, a written offer with proof of funds usually within 24 to 48 hours, then an attorney-supervised closing on a date you pick, typically one to three weeks once title clears, or up to twelve months out if that suits you better. South Carolina requires a licensed attorney to supervise every closing, under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).
 
-3) You pick the closing date and we close with a local attorney.  
-  
+Full detail, including what sets the timeline and what you are never asked to do, is in [how selling to a cash home buyer works in South Carolina](/guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/).
 
-**Why cash vs listing:** Listing can be great if you have time and want top retail price. Cash sales are
+## Should you sell to a cash buyer at all?
 
-usually best when you want speed, privacy, and certainty and you don’t want repairs/showings/appraisal
+Often not. If the house is in good condition, a lender would finance it today, and you have time to wait, listing it will usually net you more. We would rather tell you that than write an offer you should not take. The arithmetic, including the case for listing, is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-delays.
+A cash sale tends to fit when the house needs work a lender will not accept, you are against a deadline, the property is tenant-occupied or in an estate, or a listing has already failed.
 
-**  
-Areas we buy:** Downtown/Peninsula, West Ashley, James Island, Johns Island, North Charleston, Mount
+## Folly Beach neighborhoods we buy in
 
-Pleasant, Summerville, Folly Beach.
+- Center Street (downtown Folly)
+- East Folly Beach Shores (East End / The Washout)
+- East Folly Estates
+- Folly Creek Place
+- Folly Riverfront
+- Little Oak Island
+- Mariners Cay
+- Marshview Villas
+- Ocean Pointe Villas
+- Oak Island
+- Palmetto Pointe
+- Pavilion Watch
+- Pelican Pointe Villas
+- Pier Pointe Villas
+- Preserve at Clam Farm
+- Seacoast Villas
+- Seaside Villas
+- Seaside Villas II
+- Sunset Cay Marina
+- Sunset Point
+- Tabby Island
+- Turtle Bay
+- Waterfront Villas
+- West Indian / West End
 
-**  
-FAQ:**
+If your neighborhood is not listed, call anyway. We buy throughout Folly Beach and the surrounding area.
 
-Q: How fast can you close? 
+## Questions we get about Folly Beach property
 
-A: Timing depends on title work and your situation, but cash closings can be much faster than listings because there’s no lender delay.
+**Do I need to have insurance in place to sell?**
 
-Q: Do you buy houses that need repairs? 
+Not to sell to us. A financed buyer needs it and their lender requires it, which is why insurability decides whether a Folly house can sell retail at all.
 
-A: Yes—many sellers choose cash specifically to avoid repairs.
+**I do not have an elevation certificate. Is that a problem?**
 
-Q: Do I have to clean out the house? 
+Not for a cash sale. For a financed buyer it can be the difference between a workable premium and an impossible one, so it is worth knowing whether one exists.
 
-A: Often no. Tell us what you’re leaving and we’ll confirm it in writing.
+**What if the house is a short-term rental?**
 
-Q: Do I pay commissions or fees? 
+Get the current registration status and rule from the city in writing. It affects who can buy the property and what they will pay.
 
-A: There is no agent commission in a direct sale. Any closing costs should be clearly disclosed.
-
-Q: What’s next?   
-A: Call or submit the form for a no-obligation offer.
+Call (843) 938-1978 or [request a cash offer](/contact/) for a written, no-obligation number on your Folly Beach property.

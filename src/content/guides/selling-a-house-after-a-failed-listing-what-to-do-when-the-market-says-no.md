@@ -1,79 +1,105 @@
 ---
-title: "Selling a House After a Failed Listing: What to Do When the Market Says “No”"
-description: "Few things are more frustrating than listing your house—only to watch it sit, stagnate, and eventually expire. Showings slow down. Feedback turns vague."
+title: "When a Listing Fails or Contracts Keep Dying in South Carolina"
+description: "Three failures for the same reason is a diagnosis, not bad luck. How to tell a pricing problem from a lender problem, and what a low appraisal actually means."
 pubDate: 2026-05-13
 group: process
 oldUrl: "/guides/selling-a-house-after-a-failed-listing-what-to-do-when-the-market-says-no/"
 ---
-Few things are more frustrating than listing your house—only to watch it sit, stagnate, and eventually expire. Showings slow down. Feedback turns vague. Price reductions don’t work. And suddenly, the listing is over with nothing to show for it.
+One failed contract is bad luck. Three that failed for the same reason is a diagnosis.
 
-A failed listing isn’t bad luck. It’s a signal. And ignoring that signal usually leads to another failed attempt.
+The most expensive mistake after a listing expires is assuming the problem was the price or the agent, relisting, and discovering the same obstacle six months later having paid another six months of carrying costs.
 
-## Why Houses Fail to Sell
+Homebuyers SC buys houses that have not sold through other routes, across Charleston, Berkeley, and Dorchester counties.
 
-Most listings don’t fail randomly. Common reasons include:
+## What kind of failure was it?
 
-  * The house needs repairs buyers don’t want to take on
+Start here, because each row has a different answer and only the first is about price.
 
-  * Price reductions still don’t match condition
+| What happened | What it means |
+|---|---|
+| **Few showings, no offers** | Pricing or presentation. This one does respond to a price cut |
+| **Showings and offers, deals dying at inspection** | A condition problem. Price cuts do not fix it |
+| **Deals dying at appraisal** | Value or unpermitted square footage |
+| **Buyers could not get insurance** | An insurability problem, which is a financing problem |
+| **Interest until the title work came back** | A title problem |
+| **Interest until they learned about the tenant or the estate** | A situation problem, not a property problem |
+| **Buyer's own house did not sell** | Genuinely bad luck. Relisting is reasonable |
 
-  * Inspection issues scare buyers away
+Ask your agent for the specific reason each contract terminated. That sentence is worth more than any amount of general advice.
 
-  * Financing falls apart repeatedly
+## What does a low appraisal actually mean?
 
-  * Location or layout limits buyer demand
+It is one of the most misread events in a sale, and it usually is not about your price.
 
-When a house fails once, the stigma often makes the second attempt harder.
+An appraisal that comes in below the contract price means the lender will not lend against that number. Your buyer can pay the difference in cash, you can reduce the price, you can meet in the middle, or the deal dies. Most buyers do not have the extra cash.
 
-## The Hidden Cost of Relisting
+Common causes:
 
-Relisting sounds logical—but it comes with downsides:
+- **Unpermitted square footage.** Space added without a permit may not be counted. You have square footage that does not exist for valuation. This is the single most common surprise. See [selling a house with unpermitted work](/guides/selling-a-house-with-unpermitted-work-what-homeowners-should-know/)
+- **Condition.** The appraiser called something that needs repair before funding
+- **Comparable sales** that do not support the price
+- **A thin market** for that specific property type nearby
 
-  * More time paying taxes, insurance, and utilities
+The important part: a low appraisal follows the property, not the buyer. A new buyer at the same price frequently hits the same number, which is why relisting without addressing the cause tends to repeat the outcome.
 
-  * Additional repair or staging costs
+## How do I diagnose it cheaply?
 
-  * Buyer skepticism (“Why didn’t it sell?”)
+All of this is free or nearly free, and it beats guessing.
 
-  * Pressure to discount even further
+1. **Get the reason each contract failed**, in writing from your agent.
+2. **Get an insurance quote yourself.** If you cannot get one, you have found the problem, and it is the one owners least expect. See [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
+3. **Pull the permit record** from the building department and compare the square footage against what was advertised.
+4. **Check the Register of Deeds** for what is recorded against the property.
+5. **Get a written repair estimate** so you know whether the condition issue is bounded or open-ended. See [do I need repairs before selling as-is](/guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/).
 
-Each month unsold increases frustration and cost.
+## Does relisting work?
 
-## Why “Just One More Agent” Often Fails
+It resets days on market and changes nothing else.
 
-Switching agents doesn’t change fundamentals. If buyers rejected the property before, they usually reject it again—unless price or condition changes significantly.
+If the underlying problem is condition, title, insurability, or unpermitted space, it will be there when you relist, and you will have paid several more months of mortgage, taxes, insurance, and utilities to find that out.
 
-If fixing the house or slashing the price isn’t realistic, the strategy—not the agent—is the problem.
+Relisting is reasonable when the failure was genuinely circumstantial: a buyer whose own sale collapsed, a seasonal lull, or a presentation problem you have since fixed.
 
-## Selling As-Is After a Failed Listing
+## What are the actual options?
 
-Cash home buyers and real estate investors look at properties differently.
+| Route | What it requires | Fits when |
+|---|---|---|
+| **Relist, same condition, lower price** | Nothing | The failure was pricing or presentation |
+| **Fix the specific cause, then relist** | Cash and time | One bounded item restores financeability |
+| **Sell as-is for cash** | Nothing upfront | The cause is condition, title, insurability, or a deadline |
 
-They:
+The middle row is worth pricing honestly. A single bounded repair that reopens the retail market is frequently the best return available. A repair whose scope grows once started, which is most structural and water work, usually is not.
 
-  * Don’t care about listing history
+The arithmetic for the third row is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/). Worth knowing when you compare: nationally, 7% of contracts were terminated in the three months to August 2026 and 14% had delayed settlements, so a failed contract is a normal risk of the listing route rather than evidence you did something wrong.
 
-  * Buy homes as-is
+## What if several problems overlap?
 
-  * Skip inspections and financing
+That is the usual case for a house that has failed repeatedly, and it is why the retail route keeps breaking. Each obstacle alone might be solvable inside a listing period. Together they exceed what one can absorb.
 
-  * Close quickly
+See [selling a property nobody seems to want](/guides/selling-a-property-nobody-wants-when-unmarketable-doesnt-mean-unsellable/).
 
-What retail buyers avoided may be exactly what an investor is looking for.
+## Frequently asked questions
 
-## Common Questions After a Failed Listing
+**Should I change agents?**
 
-**Will investors lowball me?**  
-Not necessarily. Many offers are competitive once commissions and repairs are removed.
+Only if the failure was marketing or communication. A different agent cannot make a lender accept a house it has already declined.
 
-**Do I need to relist?**  
-No. Off-market sales are common after failed listings.
+**Should I wait for the market?**
 
-**How fast can I close?**  
-Often within 1–3 weeks.
+Work out the cost of waiting: carrying costs for the period, plus the condition getting worse. Then compare. "Waiting for the market" without a defined end date is usually the expensive option.
 
-## The Bottom Line
+**Does a failed listing have to be disclosed?**
 
-A failed listing isn’t the end—it’s information. The market already told you what doesn’t work.
+The listing history is generally visible in the MLS record. What matters more is disclosing known defects. SC Code 27-50-40 requires a residential property condition disclosure statement and SC Code 27-50-30 exempts certain transfers. Ask your closing attorney what applies.
 
-Selling your house as-is to a real estate investor allows you to move forward without repeating the same cycle and expecting a different result.
+**Can I list and take cash offers at the same time?**
+
+Depends on your listing agreement. Read it, or ask before signing it.
+
+**What if the house needs work I cannot fund?**
+
+Then the decision is largely made. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/).
+
+**How fast can a cash sale close?**
+
+Usually one to three weeks once the closing attorney confirms clear title. In South Carolina that supervision is required under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).

@@ -1,102 +1,94 @@
 ---
-title: "Cash Home Buyers in Johns Island, SC \u2013 7-Day Close"
-description: "We buy houses for cash in Johns Island, SC in any condition. No repairs, no commissions, no showings, and you choose the closing date. Call (843) 938-1978."
+title: "Cash Home Buyers in Johns Island, SC"
+description: "Selling a house in Johns Island, SC. Which county your property is in, what comes up most on houses here, and how to check any cash buyer."
 city: "Johns Island"
 oldUrl: "/cash-home-buyers-johns-island-sc/"
 ---
-_If you need to sell a house in Johns Island without repairs, showings, or waiting on a bank, Homebuyers SC buys homes for cash and keeps the process simple._
-• Sell as-is (no cleaning, no repairs)
+Homebuyers SC buys houses in Johns Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
 
-• No commissions
+Johns Island has changed faster than almost anywhere in the tri-county area, and it still contains a great deal of rural, unincorporated Charleston County land with septic systems and private wells.
 
-• No showings
+## Which county is your Johns Island property in?
 
-• Choose your closing date  
-  
+The county decides which offices you deal with, and on some Johns Island addresses the answer is not obvious.
 
-Call (843) 938-1978 or request a cash offer online.
+| What you need | Where it lives |
+|---|---|
+| Probate, if the owner has died | Charleston County Probate Court |
+| Recorded deeds, liens, judgments | Charleston County Register of Deeds |
+| Delinquent property taxes | Charleston County delinquent tax office |
 
-**  
-**We buy houses in all conditions, including outdated homes, inherited properties, rentals
+**Insurance note.** The South Carolina Wind and Hail Underwriting Association, the state's market of last resort for wind and hail coverage, operates in designated coastal zones of Charleston County. It covers wind and hail only, not fire, liability, or flood, and it carries condition requirements including a sound roof. Confirm eligibility for your address with an insurance agent.
 
-(case-by-case), and homes needing major repairs (roof, foundation, water damage, etc.).
+## What comes up most on Johns Island houses
 
-## Johns Island Neighborhoods We Buy Houses In:
+- **Septic and well.** Many properties are not on public sewer or water. A failing septic system is a condition issue a lender will not ignore, and it is not visible.
+- **Heirs property is common here.** Family land passed down across generations without probate is one of the most frequent title problems on the island. See the heirs property guide below.
+- **Large and irregular parcels**, where the recorded description and the ground do not always agree. A survey is frequently worth it.
+- **Rapid development nearby**, which means road projects and construction that affect specific properties.
 
-###   
-We buy houses for cash in every Johns Island neighborhood, including:  
-  
+## How would you check us, or any buyer?
 
-* Barberry Woods
-* Briars Creek
-* Brownswood Village
-* Fenwick Hills
-* Fenwick Woods
-* Fosters Glenn
-* Gift Plantation
-* Grimball Gates
-* Headquarters Plantation
-* Kiawah River
-* Kiawah River Estates
-* Maybank Village
-* Rushland
-* St. Johns Crossing
-* Stafford Heights
-* Summertrees
-* Swygerts Landing
-* The Retreat at Johns Island
-* The Villages in St. Johns Woods
-* Whitney Lake
-* Winnsboro Lakes  
-  
+Homebuyers SC, LLC has bought across Charleston, Berkeley, and Dorchester counties since 2017, over 500 purchases, BBB accredited with an A+ rating held since March 2023, and a 4.8 out of 5 rating from 25 Google reviews. Caleb Pearson is a licensed South Carolina real estate agent, license number 83101.
 
-### If your neighborhood isn't listed, call us anyway -- we buy throughout Johns Island!
+Do not take that on trust. Recorded deeds at your county's Register of Deeds show what any company has actually bought, licenses are searchable at the South Carolina Department of Labor, Licensing and Regulation, and reviews and complaints are public. Our [reviews page](/reviews/) sources every figure above, and [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/) sets out the three questions worth asking anyone, us included.
 
-* We pay **cash!**
-* Commission-free transaction
-* Fast, hassle-free closing
-* Your property sold AS-IS
+## What is the Johns Island market doing right now?
 
-**No obligation. No spam.**
+There is no honest number to put here. Days on market and prices for Johns Island move constantly and vary by submarket, and any local agent can pull current figures for your specific area from the MLS in minutes. That is the right source.
 
-**How it works:**
+Two questions matter more to your sale than any market statistic: would a lender finance your house today, and can it be insured. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/) and [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
 
-1) Tell us about the Johns Island property (address + basics).
+## The process, briefly
 
-2) We evaluate and make a written cash offer.
+One walkthrough, a written offer with proof of funds usually within 24 to 48 hours, then an attorney-supervised closing on a date you pick, typically one to three weeks once title clears, or up to twelve months out if that suits you better. South Carolina requires a licensed attorney to supervise every closing, under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).
 
-3) You pick the closing date and we close with a local attorney.  
-  
+Full detail, including what sets the timeline and what you are never asked to do, is in [how selling to a cash home buyer works in South Carolina](/guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/).
 
-**Why cash vs listing:** Listing can be great if you have time and want top retail price. Cash sales are
+## Should you sell to a cash buyer at all?
 
-usually best when you want speed, privacy, and certainty and you don’t want repairs/showings/appraisal
+Often not. If the house is in good condition, a lender would finance it today, and you have time to wait, listing it will usually net you more. We would rather tell you that than write an offer you should not take. The arithmetic, including the case for listing, is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-delays.
+A cash sale tends to fit when the house needs work a lender will not accept, you are against a deadline, the property is tenant-occupied or in an estate, or a listing has already failed.
 
-**  
-Areas we buy:** Downtown/Peninsula, West Ashley, James Island, Johns Island, North Charleston, Mount
+## Johns Island neighborhoods we buy in
 
-Pleasant, Summerville.
+- Barberry Woods
+- Briars Creek
+- Brownswood Village
+- Fenwick Hills
+- Fenwick Woods
+- Fosters Glenn
+- Gift Plantation
+- Grimball Gates
+- Headquarters Plantation
+- Kiawah River
+- Kiawah River Estates
+- Maybank Village
+- Rushland
+- St. Johns Crossing
+- Stafford Heights
+- Summertrees
+- Swygerts Landing
+- The Retreat at Johns Island
+- The Villages in St. Johns Woods
+- Whitney Lake
+- Winnsboro Lakes
 
-**  
-FAQ:**
+If your neighborhood is not listed, call anyway. We buy throughout Johns Island and the surrounding area.
 
-Q: How fast can you close? 
+## Questions we get about Johns Island property
 
-A: Timing depends on title work and your situation, but cash closings can be much faster than listings because there’s no lender delay.
+**The land has been in my family for generations. Can I still sell?**
 
-Q: Do you buy houses that need repairs? 
+Possibly, and this is the question to take to an attorney first. Property passed down without probate often has more owners on paper than anyone realises, and South Carolina's heirs property law shapes what happens next.
 
-A: Yes—many sellers choose cash specifically to avoid repairs.
+**What if the property is on septic and a well?**
 
-Q: Do I have to clean out the house? 
+Very common on the island. A failing septic system is a condition issue a lender will not overlook, and it is not visible. We buy either way, and it affects the number.
 
-A: Often no. Tell us what you’re leaving and we’ll confirm it in writing.
+**The road outside is being widened. Does that hurt the sale?**
 
-Q: Do I pay commissions or fees? 
+It narrows the retail buyer pool. Get the project scope and timeline from SCDOT or the county in writing, because a documented project prices better than an unknown one.
 
-A: There is no agent commission in a direct sale. Any closing costs should be clearly disclosed.
-
-Q: What’s next?   
-A: Call or submit the form for a no-obligation offer.
+Call (843) 938-1978 or [request a cash offer](/contact/) for a written, no-obligation number on your Johns Island property.

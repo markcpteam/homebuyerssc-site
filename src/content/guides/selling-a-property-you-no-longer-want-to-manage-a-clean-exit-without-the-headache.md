@@ -1,87 +1,110 @@
 ---
-title: "Selling a Property You No Longer Want to Manage: A Clean Exit Without the Headache"
-description: "At some point, a property can stop being an asset and start feeling like a burden."
+title: "Getting Out of Being a Landlord in South Carolina"
+description: "Selling a rental you are done with. The lease transfers, the deposit carries triple-damages exposure, and a vacant rental costs more than a tenanted one."
 pubDate: 2026-05-13
 group: tenants
 oldUrl: "/guides/selling-a-property-you-no-longer-want-to-manage-a-clean-exit-without-the-headache/"
 ---
-At some point, a property can stop being an asset and start feeling like a burden. Ongoing maintenance, rising costs, problem tenants, or simply life changes push many owners to a clear conclusion: _I don’t want to manage this anymore._
+Deciding you are done being a landlord is a legitimate reason to sell, and it does not require the property to be a disaster. Plenty of owners sell rentals that are performing adequately, because the job stopped being worth the return.
 
-When that moment comes, selling the property quickly—without repairs or long timelines—can be the smartest decision.
+What matters is doing it in the right order, because the obligations do not pause while you decide.
 
-## When a Property Becomes Too Much
+Homebuyers SC buys rental property across Charleston, Berkeley, and Dorchester counties, tenanted or empty.
 
-Property owners often reach this point because of:
+## Do I have to wait for the tenant to leave?
 
-  * Landlord fatigue
+No, and waiting is usually the more expensive choice.
 
-  * Constant repairs and maintenance
+The lease transfers with the property and binds the buyer on its existing terms. That narrows your buyer pool to investors, because owner-occupants want vacant possession, but it does not prevent a sale.
 
-  * Declining rental returns
+| | Wait for vacancy, then list | Sell occupied |
+|---|---|---|
+| Time | The remaining lease, then turnover, then a listing | Usually 1 to 3 weeks |
+| Lost rent | Vacancy through turnover and marketing | None, rent continues to closing |
+| Turnover cost | Paint, flooring, cleaning, repairs | None |
+| Buyer pool | Owner-occupants and investors | Investors |
+| A difficult tenant | You deal with it first | The buyer takes it on |
+| Vacancy risk | Insurance non-renewal, deterioration, unauthorized occupancy | None |
 
-  * Distance from the property
+That last row is the one owners underestimate. A vacant rental in the Lowcountry is not a neutral holding state. Carriers restrict or decline coverage after a vacancy period, and a closed-up house here develops mold in a season. See [selling a vacant property](/guides/selling-a-vacant-or-abandoned-property-how-to-avoid-ongoing-costs-and-risks/).
 
-  * Life changes or shifting priorities
+## What are the obligations until closing?
 
-What once made sense no longer fits your life or financial goals.
+They do not suspend because you are selling. From the South Carolina Residential Landlord and Tenant Act, Title 27 Chapter 40:
 
-## The Hidden Costs of Holding On
+| Situation | What is required |
+|---|---|
+| Tenant has not paid rent | Written notice giving 5 days from the date due (27-40-710(B)). If the lease contains the required language, no separate notice is needed before starting eviction |
+| Other material lease violation | Written notice, terminating on a date "not less than fourteen days after receipt" if not cured in 14 days (27-40-710(A)) |
+| Ending a month-to-month tenancy | 30 days written notice (27-40-770) |
+| Ending a week-to-week tenancy | 7 days written notice (27-40-770) |
+| Security deposit | Return or itemize within 30 days of termination and delivery of possession and demand, whichever is later (27-40-410) |
+| Getting the deposit wrong | The tenant may recover "three times the amount wrongfully withheld and reasonable attorney's fees" (27-40-410) |
 
-Even when a property is rented or paid off, ownership still carries costs:
+Self-help eviction is not available in South Carolina. Locks, utilities, and belongings stay as they are, whatever the tenant has done.
 
-  * Maintenance and capital repairs
+*These are the statutory periods, not advice about your tenancy. Confirm with a licensed South Carolina attorney before serving anything.*
 
-  * Insurance and property taxes
+## The deposit is the thing that goes wrong
 
-  * Vacancies and tenant turnover
+More landlord-sellers get caught by the security deposit than by anything else in a sale.
 
-  * Time, stress, and mental load
+The deposit is the tenant's money. It is credited from you to the buyer on the settlement statement, and the buyer then owns the obligation to return or apply it. If you hand over the house and keep the deposit, you are holding money you are not entitled to hold when the tenancy eventually ends, with triple damages and attorney's fees attached.
 
-Over time, these costs erode returns and energy.
+Put it on the settlement statement. Tell the closing attorney early.
 
-## Why Traditional Sales Aren’t Always Worth It
+## What if the tenancy has broken down?
 
-Selling traditionally often means:
+You can sell without finishing an eviction, and for a badly broken tenancy that is frequently the cheaper route. Every month spent evicting is a month of mortgage, taxes, and insurance with no rent, followed by turnover costs on a unit a hostile tenant just left.
 
-  * Making repairs you’ll never enjoy
+See [selling a house after a tenant stops paying rent](/guides/selling-a-house-after-a-tenant-stops-paying-rent/) and, where the occupant has no lease at all, [selling a property with squatters](/guides/selling-a-property-with-squatters-how-to-sell-without-going-through-eviction/).
 
-  * Dealing with showings and inspections
+## What should I gather?
 
-  * Waiting for buyer financing
+- **The lease**, with every amendment, renewal, and addendum. Options to purchase hide in renewal addenda
+- **The rent roll and payment history**
+- **The security deposit ledger**, and where that money physically sits now
+- **Any notices served**, and any court filings
+- **Repair and maintenance records**, especially outstanding tenant requests
+- **Whether the tenant knows** the property is being sold
 
-  * Uncertain closing dates
+A documented tenancy gets a better price than an undocumented one, because the buyer is pricing certainty rather than guessing. If the lease cannot be found, say so. An undocumented tenancy is generally treated as month-to-month, which is more flexible, but the buyer needs to know that is what they have.
 
-For owners ready to be done, this process just prolongs the frustration.
+## What lowers the price?
 
-## Selling As-Is to a Cash Buyer
+| Usually does not hurt | Usually lowers it |
+|---|---|
+| A paying tenant at or near market rent | Rent well below market on a long remaining term |
+| A month-to-month tenancy | A tenant in arrears or in dispute |
+| Complete documentation | Missing lease or deposit records |
+| Ordinary wear | Deferred maintenance the rent stopped covering |
 
-Cash home buyers and real estate investors provide a direct exit.
+To an investor, an occupied property producing income from day one can be worth more than a vacant one. What costs you money is uncertainty.
 
-They:
+See [selling a house with tenants in South Carolina](/guides/selling-a-house-with-tenants-in-south-carolina-a-landlords-guide/) for the full rules, and [what transfers to the buyer](/guides/selling-a-house-with-tenants-in-place-what-property-owners-need-to-know/) for the closing mechanics.
 
-  * Buy properties as-is
+## Frequently asked questions
 
-  * Handle repairs after closing
+**Can I evict so the house shows better?**
 
-  * Close quickly
+No. Wanting to sell is not legal cause.
 
-  * Remove management responsibility immediately
+**Who returns the deposit when the tenant eventually moves?**
 
-This approach is ideal for owners who want closure—not another project.
+The owner at that time, which is the buyer, using the deposit credited to them at closing.
 
-## Common Questions From Property Owners
+**What if the tenant will not allow access?**
 
-**Do I need to fix anything before selling?**  
-No. As-is means exactly that.
+Reasonable notice is required for non-emergency entry, commonly 24 hours. A cash sale usually needs one walkthrough rather than a run of showings, which is part of why it is easier here.
 
-**What if the property is vacant or rented?**  
-Both are commonly purchased by investors.
+**What about back rent owed to me?**
 
-**How fast can the sale close?**  
-Often within 1–3 weeks.
+Decide in the contract whether you keep the claim. Most investor buyers do not want it.
 
-## The Bottom Line
+**What if I inherited the rental?**
 
-Owning property shouldn’t feel like a life sentence. If a property no longer fits your goals or lifestyle, selling can be a strategic—not emotional—decision.
+Probate authority and the lease run on separate clocks. See [selling an inherited house with tenants still inside](/guides/selling-an-inherited-house-with-tenants-still-inside/).
 
-A fast, as-is sale to a real estate investor provides certainty, simplicity, and freedom to focus on what’s next.
+**How fast can it close?**
+
+Usually one to three weeks once the closing attorney confirms clear title. In South Carolina that supervision is required under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).

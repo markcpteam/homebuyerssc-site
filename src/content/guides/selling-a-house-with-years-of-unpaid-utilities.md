@@ -1,85 +1,98 @@
 ---
-title: "Selling a House With Years of Unpaid Utilities"
-description: "Unpaid utility bills don’t just disappear."
+title: "Selling a House With Years of Unpaid Utilities in South Carolina"
+description: "In SC, unpaid sewer charges become a lien superior to everything but property taxes. What that means for your sale, and how balances get cleared at closing."
 pubDate: 2026-05-13
 group: foreclosure
 oldUrl: "/guides/selling-a-house-with-years-of-unpaid-utilities/"
 ---
-Unpaid utility bills don’t just disappear. Years of overdue water, sewer, gas, or electric charges can quietly pile up—turning a property into a financial mess that’s hard to unwind. In some municipalities, unpaid utilities become liens, blocking traditional home sales entirely.
+You can sell a South Carolina house with unpaid utility balances, and in most cases the balances are paid out of the sale proceeds at closing rather than out of your pocket beforehand. What you should not do is assume the debt will simply follow you personally. In South Carolina, unpaid sewer charges attach to the real estate itself, with a priority that surprises most owners.
 
-If utility debt has stacked up, selling the house as-is may be the fastest way out.
+Homebuyers SC has bought properties with utility liens and shut-off service across Charleston, Berkeley, and Dorchester counties since 2017.
 
-## How Utility Debt Becomes a Bigger Problem
+## Do unpaid utilities become a lien on the house in South Carolina?
 
-Long-term unpaid utilities often lead to:
+Sewer charges do, and the priority is unusually strong.
 
-  * Municipal liens attached to the property
+For a municipal system, SC Code 5-31-2040 provides that sewer service charges "not paid when due and payable shall be and constitute a lien upon the real estate," and that "the lien herein provided shall be superior to all other liens except liens for unpaid property taxes." SC Code 6-11-1240 says the same thing for special purpose and public service districts, which is how a large share of the tri-county area is served.
 
-  * Service shutoffs that prevent occupancy
+Read that priority again. Superior to all other liens except property taxes means it outranks the mortgage.
 
-  * Penalties and interest
+*The statutes cited here are the starting point, not the whole answer. How they apply turns on your specific facts, so confirm with a licensed South Carolina attorney before acting.*
 
-  * Delays during title searches
+| Utility | Does it typically attach to the property in SC? |
+|---|---|
+| Sewer | Yes. By statute, as a lien superior to everything but property taxes |
+| Water | Frequently, where water and sewer are billed by the same municipal system or district, and under local ordinance |
+| Electric and gas | Generally no. These are usually a personal account debt with the provider, not a lien on the house |
+| Solid waste and stormwater fees | Often billed on the county tax notice, in which case they behave like taxes |
 
-By the time owners address the issue, the balance is often far larger than expected.
+The practical consequence: electric and gas arrears are your problem as an account holder. Sewer arrears are the property's problem, and they show up in the title search whether or not anyone mentioned them.
 
-## Why Traditional Buyers Walk Away
+## Why does utility debt kill a traditional sale?
 
-Retail buyers and lenders typically won’t proceed when:
+Because it surfaces during the title search, usually late, and a lender will not fund a loan on a property with a superior lien still attached.
 
-  * Utilities are shut off
+- **Title work finds it.** The closing attorney's search picks up recorded municipal liens. If the number is large, the deal stalls while everyone works out who pays.
+- **The house may be unoccupiable.** Service shut off for nonpayment can make a house fail an appraisal or inspection for habitability, which independently ends the financing.
+- **Utilities off means the inspection is incomplete.** An inspector cannot test an HVAC system, water heater, or plumbing with no power or water. A lender that cannot get a complete inspection does not lend.
+- **The balance keeps growing.** Penalties and interest continue accruing while the house sits.
 
-  * Outstanding balances appear in title work
+This is the same mechanism that stops sales on houses with other unpaid obligations. See [selling a house with back taxes or liens](/guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/).
 
-  * Habitability is questioned
+## How do the balances get paid if I cannot pay them now?
 
-  * Closing timelines become uncertain
+Out of the proceeds, at closing, by the closing attorney. This is standard and it is what the attorney is there to do.
 
-Even motivated buyers back out once utility debt surfaces late in escrow.
+The sequence:
 
-## Selling As-Is With Utility Balances
+1. The closing attorney orders the title search and obtains payoff figures from each utility and taxing authority.
+2. Those payoffs are listed on the settlement statement as deductions from the sale price.
+3. The attorney pays them directly at closing and obtains releases.
+4. You receive what remains.
 
-Cash home buyers and real estate investors regularly purchase properties with unpaid utilities.
+You are not asked to bring money to the table unless the total owed exceeds the sale price, which is uncommon but worth checking early if the balances are large and the house is in poor condition.
 
-They:
+In South Carolina the closing must be supervised by a licensed attorney. That is settled law from *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987), and in this situation it works in your favor, because clearing liens correctly is exactly what that attorney does. Ask any buyer which closing attorney they use, along with the other questions in [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/).
 
-  * Buy homes as-is
+## Do I have to turn the utilities back on to sell?
 
-  * Work with title companies to identify balances
+Not for a cash sale. A buyer paying cash does not need a lender's inspection, so service being off is an inconvenience for the walkthrough rather than an obstacle.
 
-  * Pay off utility liens at closing
+Say so in advance. A buyer who shows up to a house with no water and no power and was not told will revise the offer, and reasonably so.
 
-  * Restore services after ownership transfers
+## What happens if I keep waiting?
 
-This removes the need for sellers to pay large balances upfront.
+The costs run one direction:
 
-## When Selling Makes the Most Sense
+- Penalties and interest continue on the balance.
+- Property taxes and insurance continue regardless of occupancy, and a vacant house is frequently non-renewed by its carrier. See [selling a house you cannot insure anymore](/guides/selling-a-house-you-cant-insure-anymore/).
+- A house with utilities off deteriorates quickly in the Lowcountry. No air conditioning through a Charleston summer means humidity, which means mold and swollen finishes.
+- Code enforcement may open a case on a property that is visibly neglected, which adds its own accruing penalties. See [selling a house with code violations](/guides/selling-a-house-with-code-violations-how-to-get-out-without-fixing-everything/).
 
-Selling is often the right move when:
+Nothing in that list improves by waiting, and the sewer lien in particular grows without any action on anyone's part.
 
-  * Utility balances are unaffordable
+## Frequently asked questions
 
-  * The property is vacant or inherited
+**Can unpaid utilities actually block the sale?**
 
-  * Other debts or repairs exist
+They delay it rather than block it. The balances are identified in title work and paid at closing. What blocks a sale is discovering them two days before closing instead of at the start.
 
-  * You want to avoid further penalties
+**Will this reduce my offer?**
 
-Delaying usually increases costs without improving outcomes.
+The balances come off the proceeds, so yes, you net less. That is true whether you pay them now or at closing. Paying at closing simply means you do not need the cash upfront.
 
-## Common Questions
+**What if the debt is from a tenant, not from me?**
 
-**Do I need to turn utilities back on to sell?**  
-No. Investors buy properties with utilities off.
+Sewer liens attach to the property regardless of who ran up the bill. Electric and gas accounts in a tenant's name generally do not. See [selling a house after a tenant stops paying rent](/guides/selling-a-house-after-a-tenant-stops-paying-rent/).
 
-**Can unpaid utilities block a sale?**  
-They can delay it—but experienced buyers resolve them at closing.
+**What if the house was inherited and the bills went unpaid during probate?**
 
-**Will this reduce my price?**  
-Balances are factored in, but often cheaper than paying them yourself.
+Common. The estate pays from the proceeds at closing like any other creditor. See [selling an inherited house in probate in South Carolina](/guides/selling-an-inherited-house-in-probate-in-south-carolina/).
 
-## The Bottom Line
+**How fast can it close?**
 
-Unpaid utilities are a hidden anchor on many distressed properties. Letting balances grow only limits options and increases stress.
+Usually one to three weeks once the closing attorney has payoff figures and clear title. Tracking down balances across several utilities is often what sets the pace.
 
-Selling your house as-is to a real estate investor allows utility debts to be resolved cleanly at closing—so you can move on without another bill hanging over you.
+**Do I need to know the exact amounts before I get an offer?**
+
+No. Bring what you know. The closing attorney obtains authoritative payoffs, and an estimate from you is enough to start.

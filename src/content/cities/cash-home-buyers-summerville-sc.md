@@ -1,111 +1,118 @@
 ---
-title: "Cash Home Buyers in Summerville, SC \u2013 7-Day Close"
-description: "We buy houses for cash in Summerville, SC in any condition. No repairs, no commissions, no showings, and you choose the closing date. Call (843) 938-1978."
+title: "Cash Home Buyers in Summerville, SC"
+description: "Selling a house in Summerville, SC. Which county your property is in, what comes up most on houses here, and how to check any cash buyer."
 city: "Summerville"
 oldUrl: "/cash-home-buyers-summerville-sc/"
 ---
-_If you need to sell a house in Summerville without repairs, showings, or waiting on a bank, Homebuyers SC buys homes for cash and keeps the process simple._
-• Sell as-is (no cleaning, no repairs)
+Homebuyers SC buys houses in Summerville as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
 
-• No commissions
+Summerville sits mostly in Dorchester County, with portions in Berkeley and Charleston. Which one your property is in decides which probate court, deeds office, and tax office you deal with, and sellers here get it wrong regularly.
 
-• No showings
+## Which county is your Summerville property in?
 
-• Choose your closing date  
-  
+The county decides which offices you deal with, and on some Summerville addresses the answer is not obvious.
 
-Call (843) 938-1978 or request a cash offer online.
+| What you need | Where it lives |
+|---|---|
+| Which county the parcel is in | **Establish this first.** Dorchester, Berkeley and Charleston all contain part of this area. Your property tax notice shows it |
+| Probate, if the owner has died | The probate court of that county |
+| Recorded deeds, liens, judgments | That county's Register of Deeds |
+| Delinquent property taxes | That county's delinquent tax office |
 
-**  
-**We buy houses in all conditions, including outdated homes, inherited properties, rentals
+**Insurance note.** This matters more than usual here. Eligibility for the South Carolina Wind and Hail Underwriting Association, the state's coastal wind and hail market of last resort, follows designated zones in Charleston County and does not extend to Berkeley or Dorchester. Two properties a few miles apart can face different insurance markets.
 
-(case-by-case), and homes needing major repairs (roof, foundation, water damage, etc.).
+## What comes up most on Summerville houses
 
-## Summerville Neighborhoods We Buy Houses In:
+- **Three counties.** Mostly Dorchester, with parts in Berkeley and Charleston. Establish yours before anything else.
+- **Wind pool eligibility differs.** The state wind and hail program covers designated coastal zones in Charleston County, not Berkeley or Dorchester. A Summerville address does not automatically sit outside it or inside it.
+- **Historic district housing** in the older core, with pier-and-beam construction and the moisture issues that follow.
+- **Large newer subdivisions** elsewhere, which are a different sale entirely.
 
-###   
-We buy houses for cash in every Summerville neighborhood, including:  
-  
+## What kinds of Summerville houses has Homebuyers SC actually bought?
 
-* Nexton
-* Cane Bay Plantation
-* Carnes Crossroads
-* Summers Corner
-* The Ponds
-* Wescott Plantation
-* Legend Oaks Plantation
-* White Gables
-* Ashborough East
-* Pine Forest Country Club
-* Kings Grant
-* Brandymill
-* Del Webb Nexton
-* Myers Mill
-* Reminisce
-* Bridges of Summerville
-* Scotts Mill
-* Summer Glen
-* Summer Trace
-* Sunburst Lakes
-* Watson Hill
-* Taylor Farms
-* Sangaree
-* Summerville Historic District
-* Martins Creek
-* Summerville Place
-* Walnut Farms
-* Tea Farm
-* Limehouse Village
-* Ashley Park  
-  
+Real purchases from our records, with addresses and any detail that could identify a seller removed.
 
-### If your neighborhood isn't listed, call us anyway -- we buy throughout Summerville!
+| The property | What it needed |
+|---|---|
+| A 1970s ranch, vacant | Heavy cleanup and landscaping needed across the whole lot before anything else could happen. Bought as-is with the clearing left to us. |
+| A mid-1980s house, owner still living there | Dated throughout and needing a full renovation. It had been listed on the MLS and had not sold in that condition. |
+| A mid-1980s house, vacant | Windows, flooring, paint, exterior work, and a pest treatment. None of it individually dramatic, all of it together enough that a lender would have balked. |
+| An early-2000s manufactured home on acreage | A recent metal roof and genuinely good condition. Not every purchase is a problem property. |
+| A 1970s house, vacant | Sound overall. Bought quickly because the seller wanted a date rather than a higher number. |
 
-* We pay **cash!**
-* Commission-free transaction
-* Fast, hassle-free closing
-* Your property sold AS-IS
+The pattern across them: condition problems a mortgage lender would not accept, on houses that were otherwise worth owning. That is the category we buy, and it is why the offer reflects the work rather than the finished product.
 
-**No obligation. No spam.**
+## How would you check us, or any buyer?
 
-**How it works:**
+Homebuyers SC, LLC has bought across Charleston, Berkeley, and Dorchester counties since 2017, over 500 purchases, BBB accredited with an A+ rating held since March 2023, and a 4.8 out of 5 rating from 25 Google reviews. Caleb Pearson is a licensed South Carolina real estate agent, license number 83101.
 
-1) Tell us about the Summerville property (address + basics).
+Do not take that on trust. Recorded deeds at your county's Register of Deeds show what any company has actually bought, licenses are searchable at the South Carolina Department of Labor, Licensing and Regulation, and reviews and complaints are public. Our [reviews page](/reviews/) sources every figure above, and [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/) sets out the three questions worth asking anyone, us included.
 
-2) We evaluate and make a written cash offer.
+## What is the Summerville market doing right now?
 
-3) You pick the closing date and we close with a local attorney.  
-  
+There is no honest number to put here. Days on market and prices for Summerville move constantly and vary by submarket, and any local agent can pull current figures for your specific area from the MLS in minutes. That is the right source.
 
-**Why cash vs listing:** Listing can be great if you have time and want top retail price. Cash sales are
+Two questions matter more to your sale than any market statistic: would a lender finance your house today, and can it be insured. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/) and [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
 
-usually best when you want speed, privacy, and certainty and you don’t want repairs/showings/appraisal
+## The process, briefly
 
-delays.
+One walkthrough, a written offer with proof of funds usually within 24 to 48 hours, then an attorney-supervised closing on a date you pick, typically one to three weeks once title clears, or up to twelve months out if that suits you better. South Carolina requires a licensed attorney to supervise every closing, under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).
 
-**  
-Areas we buy:** Downtown/Peninsula, West Ashley, James Island, Johns Island, North Charleston, Mount
+Full detail, including what sets the timeline and what you are never asked to do, is in [how selling to a cash home buyer works in South Carolina](/guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/).
 
-Pleasant, Summerville.
+## Should you sell to a cash buyer at all?
 
-**  
-FAQ:**
+Often not. If the house is in good condition, a lender would finance it today, and you have time to wait, listing it will usually net you more. We would rather tell you that than write an offer you should not take. The arithmetic, including the case for listing, is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-Q: How fast can you close? 
+A cash sale tends to fit when the house needs work a lender will not accept, you are against a deadline, the property is tenant-occupied or in an estate, or a listing has already failed.
 
-A: Timing depends on title work and your situation, but cash closings can be much faster than listings because there’s no lender delay.
+## Summerville neighborhoods we buy in
 
-Q: Do you buy houses that need repairs? 
+- Nexton
+- Cane Bay Plantation
+- Carnes Crossroads
+- Summers Corner
+- The Ponds
+- Wescott Plantation
+- Legend Oaks Plantation
+- White Gables
+- Ashborough East
+- Pine Forest Country Club
+- Kings Grant
+- Brandymill
+- Del Webb Nexton
+- Myers Mill
+- Reminisce
+- Bridges of Summerville
+- Scotts Mill
+- Summer Glen
+- Summer Trace
+- Sunburst Lakes
+- Watson Hill
+- Taylor Farms
+- Sangaree
+- Summerville Historic District
+- Martins Creek
+- Summerville Place
+- Walnut Farms
+- Tea Farm
+- Limehouse Village
+- Ashley Park
 
-A: Yes—many sellers choose cash specifically to avoid repairs.
+If your neighborhood is not listed, call anyway. We buy throughout Summerville and the surrounding area.
 
-Q: Do I have to clean out the house? 
+## Questions we get about Summerville property
 
-A: Often no. Tell us what you’re leaving and we’ll confirm it in writing.
+**Which county is my Summerville house in?**
 
-Q: Do I pay commissions or fees? 
+Mostly Dorchester, but parts of the town sit in Berkeley and Charleston. Your tax notice shows it, and it decides which probate court and deeds office you use.
 
-A: There is no agent commission in a direct sale. Any closing costs should be clearly disclosed.
+**The house is in the historic core and it is old. Will you buy it?**
 
-Q: What’s next?   
-A: Call or submit the form for a no-obligation offer.
+Yes. Pier-and-beam construction and crawlspace moisture are the usual findings on older Summerville housing.
+
+**Does the county affect my insurance?**
+
+It can, because the state wind and hail program's designated zones sit in Charleston County rather than Berkeley or Dorchester. Confirm for your specific address.
+
+Call (843) 938-1978 or [request a cash offer](/contact/) for a written, no-obligation number on your Summerville property.

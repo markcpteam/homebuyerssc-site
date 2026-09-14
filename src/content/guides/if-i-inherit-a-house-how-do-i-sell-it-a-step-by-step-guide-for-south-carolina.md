@@ -1,114 +1,150 @@
 ---
 title: "If I Inherit a House, How Do I Sell It? A Step-by-Step Guide for South Carolina"
-description: "If I Inherit a House, How Do I Sell It?"
+description: "The five steps to selling an inherited SC house, the probate authority rule most sellers miss, the heirs property law, and what you actually owe in taxes."
 pubDate: 2026-06-08
 group: inherited
 oldUrl: "/guides/if-i-inherit-a-house-how-do-i-sell-it-a-step-by-step-guide-for-south-carolina/"
 ---
-## If I Inherit a House, How Do I Sell It?
+**Quick answer:** To sell an inherited house in South Carolina you need to (1) establish how title passed, (2) get a personal representative appointed by the probate court, (3) confirm that the personal representative actually has authority to sell real property, which is a separate step most people miss, (4) clear the debts and liens attached to the house, and (5) decide whether to list it or sell it directly. If the house passed outside probate, this can take weeks. If it goes through probate, the creditor claim period alone runs eight months.
 
-**Quick answer:** To sell an inherited house in South Carolina, you generally need to (1) confirm legal ownership through probate or the will, (2) get the personal representative appointed by the probate court, (3) clear any debts, liens, or mortgages tied to the property, (4) decide whether to list it or sell directly for cash, and (5) close the sale and divide proceeds among the heirs. If the estate is straightforward, the whole process can take a few weeks; if it goes through full probate, plan on **eight months or longer.**
+Homebuyers SC has handled probate and inherited purchases across Charleston, Berkeley, and Dorchester counties since 2017, over 500 transactions in total.
 
-Inheriting a home is rarely simple. It usually arrives alongside grief, paperwork, and a property that may need work you didn't plan for. This guide walks through exactly what to expect and how to sell without unnecessary delays.
+## Step 1: How did you inherit the property?
 
-## Step 1: Determine How You Inherited the Property
+How you sell depends entirely on how title transferred. Three common scenarios in South Carolina:
 
-How you sell depends on how title transfers to you. Three common scenarios in South Carolina:
+- **Through a will.** The property passes as the will directs, but the will must be admitted to probate before the house can be sold.
+- **No will, or intestate.** State intestacy law decides who inherits, usually a surviving spouse and children, which frequently puts several heirs on one deed.
+- **Outside probate.** A house held in a living trust, owned jointly with right of survivorship, or transferred by a transfer-on-death deed passes directly and skips probate.
 
-  * **Through a will.** The home passes per the deceased's wishes, but the will must be validated in probate court before you can sell.
+This is the first question to answer, because it determines everything downstream.
 
-  * **No will (intestate).** State intestacy laws decide who inherits — usually a surviving spouse and children, which often puts multiple heirs on one property.
+## Step 2: Does the house have to go through probate?
 
-  * **Outside probate.** A home held in a living trust, owned jointly with right of survivorship, or with a transfer-on-death deed may transfer directly to you and skip probate.
+If the deceased owned the house in their own name alone, generally yes. Jointly owned real estate with right of survivorship passes to the surviving owner and skips probate.
 
-Which situation applies is the first thing that determines your timeline.
+South Carolina does have a simplified small estate procedure, and the threshold went up recently. Act 26 of 2025 raised it from $25,000 to $45,000, and SC Code 62-3-1201 now allows collection by affidavit thirty days after death when the entire probate estate does not exceed forty-five thousand dollars.
 
-## Step 2: Understand Whether the House Must Go Through Probate
+Here is the catch, and it is the single most common misunderstanding: **that affidavit covers personal property only.** Bank accounts, vehicles, securities, belongings. It does not transfer real estate. A house goes through probate regardless of how small the estate is.
 
-This is the question that trips up most people. In South Carolina, **if the deceased owned the home in their name alone, it generally must go through probate** before it can be sold. Real estate that was jointly owned passes directly to the surviving owner and skips probate.
+## Step 3: Get the personal representative appointed, then confirm authority to sell
 
-South Carolina does offer a [simplified small-estate process](https://homebuyerssc.com/sell-inherited-house-south-carolina/), but it has limits. As of May 2025, the small-estate affidavit threshold rose to **$45,000** — but that affidavit covers **personal property only.** Real estate almost always requires formal probate to transfer clear title to a buyer, even when the estate is small.
+Two separate things. Almost everyone knows the first. Very few know the second.
 
-Full probate in South Carolina takes a minimum of roughly **eight months** , because the law requires a creditor-claim period. Many estates take a year or more, especially if there are disputes or hard-to-locate heirs.
+**Appointment.** File a petition with the probate court in the county where the deceased lived, with the will if there is one, a certified death certificate, and a list of assets and debts. Charleston County Probate Court, Dorchester County, Berkeley County, depending on where they lived. Order 10 to 15 certified copies of the death certificate up front. The court, the banks, and the closing attorney will each want one.
 
-## Step 3: Get the Personal Representative Appointed
+**Authority to sell real property.** SC Code 62-3-715 gives the personal representative broad power to "sell, mortgage, or lease any real or personal property of the estate," but that power is expressly subject to a restriction. SC Code 62-3-711(b) provides: "Except where the will of the decedent authorizes to the contrary, a personal representative may not sell real property of the estate except as authorized pursuant to the procedures described in Sections 62-3-911 or Sections 62-3-1301 et seq."
 
-You cannot legally sell the house until the probate court appoints a **personal representative** (also called an executor or administrator). This person has the authority to sign the deed and transfer the property.
+| Your situation | What it means |
+|---|---|
+| The will expressly authorizes the personal representative to sell real property | You can proceed. This is the fastest path, and it is why the will's exact wording matters |
+| The will is silent, or there was no will | A petition to the probate court is required before the house can be sold |
+| Title passed outside probate | Probate may not control the sale at all. Confirm rather than assume |
 
-To get appointed, file a petition with the probate court in the county where the deceased lived, along with the will (if any), a certified death certificate, and a list of the estate's assets and debts. Order **10 to 15 certified copies** of the death certificate up front — the court, banks, and the title company will each want one.
+Read the will, and have the closing attorney read the will, before anyone signs a contract. A sale that closes without this is a title problem waiting to surface.
 
-Once appointed, the personal representative must protect the home: keep insurance active, pay property taxes, secure the property, and maintain it until closing.
+*The statutes cited here are the starting point, not the whole answer. How they apply turns on your specific facts, so confirm with a licensed South Carolina attorney before acting.*
 
-## Step 4: Settle Debts, Liens, and the Mortgage
+Once appointed, the personal representative also has to protect the house: keep insurance active, pay the property taxes, secure it, and maintain it until closing.
 
-Before any money reaches the heirs, the estate's debts come first. Walk through this checklist:
+## Step 4: Settle the debts, liens, and mortgage
 
-  * **Outstanding mortgage.** An inherited home often still carries a loan. The balance is paid from the sale proceeds at closing.
+The estate's debts come before anything reaches the heirs. Everything on this list is paid from the sale proceeds at closing rather than out of your pocket first.
 
-  * **Property tax arrears.** Unpaid taxes become a lien on the home. If taxes are seriously behind, the property could be headed toward a [tax sale](https://homebuyerssc.com/need-cash-now-south-carolina/), which makes acting quickly important.
+| What attaches to the house | Notes |
+|---|---|
+| Mortgage | Paid off at closing from proceeds |
+| Property tax arrears | A lien. Seriously delinquent taxes can head toward a tax sale, which puts a clock on things |
+| Unpaid sewer charges | In South Carolina these are a lien superior to everything except property taxes, and they outrank the mortgage |
+| Contractor liens, HOA dues, judgments | Surfaced by the title search |
+| Reverse mortgage | Typically becomes due in full at the owner's death, which sets its own deadline |
 
-  * **Liens and judgments.** A title search will surface any contractor liens, HOA dues, or court judgments attached to the property.
+The closing attorney obtains payoffs and clears these at closing. Knowing what is owed early is what prevents a stall. See [selling a house with back taxes or liens](/guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/) and [selling a house with years of unpaid utilities](/guides/selling-a-house-with-years-of-unpaid-utilities/).
 
-  * **Reverse mortgages.** These typically become due in full when the owner dies, which puts a clock on the sale.
+## Step 5: List it, sell it as-is, or keep it
 
-A title company sorts most of this out during closing, but knowing what's owed early prevents surprises that can stall a sale.
+| | List with an agent | Sell as-is for cash | Keep it |
+|---|---|---|---|
+| Price | Highest, if the house is in retail condition | Lower, reflecting repairs and margin | N/A |
+| Upfront cost | Repairs, staging, carrying costs for months | None | Repairs, or accept a lower rent |
+| Commission | Negotiable, paid from proceeds. Not set by law, so ask for the figure in writing | None | N/A |
+| Timeline | Listing period, then 30 to 45 days for the buyer's financing | Usually 1 to 3 weeks after authority is in place | Indefinite |
+| Contents and clean-out | Required before listing | Not required | Your problem eventually |
+| Fits when | Good condition, heirs aligned, no time pressure | Needs work, heirs out of state, or the estate cannot fund repairs | Everyone agrees and someone will manage it |
 
-## Step 5: Decide How to Sell
+Inherited houses are frequently dated, full of belongings, or in need of work nobody wants to fund, which is why the middle column is the common answer. The arithmetic is in [cash offer vs listing with a realtor in South Carolina](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-Once you have authority to sell and a clear picture of the debts, you have three realistic paths:
+## What about taxes on an inherited house?
 
-## Option 1: List With a Real Estate Agent
+Usually better news than people expect.
 
-Listing on the open market can bring the highest sale price, and it's a sensible choice if the home is in good condition and you're not in a hurry. The trade-offs are real, though: you'll likely pay around 5–6% in commissions, cover repairs and staging, keep the home insured and maintained for months of showings, and pay carrying costs the entire time it sits on the market. For an inherited home that needs work or sits empty, those costs add up fast.
+South Carolina has **no state inheritance tax and no estate tax.** Federal estate tax has a filing threshold of $15,000,000 for deaths in 2026, so the overwhelming majority of families owe nothing simply for inheriting.
 
-## Option 2: Sell the House As-Is for Cash
+The larger benefit is the **stepped-up basis.** The cost basis resets to the fair market value on the date of death, so selling soon after inheriting often produces little or no capital gain, because you are taxed only on appreciation after you inherited.
 
-A cash sale skips repairs, showings, and commissions. This is often the right fit for inherited homes because they're frequently dated, full of belongings, or in need of repairs the heirs don't want to fund. A reputable cash buyer purchases the property [as-is](https://homebuyerssc.com/why-sell-house-south-carolina/), and many will even let you leave behind unwanted items. At Homebuyers SC, settlement can be scheduled in **as few as two days** after the contract is signed — once you have legal authority to sell — which stops the bleed of taxes, insurance, and utilities on a house no one is living in.
+For example: a parent bought a Charleston house for $80,000 decades ago and it is worth $400,000 at their death. Your basis steps up to $400,000. Sell for $410,000 and you are taxed on $10,000, not on $330,000 of lifetime appreciation. Inherited property is treated as long-term for capital gains regardless of how briefly you hold it.
 
-## Option 3: Keep It
+If you sell while living in another state, expect withholding at closing under SC Code 12-8-580. Furnishing a gain affidavit means it is calculated on the gain rather than the full sale price, which usually makes a large difference in cash at closing. See [selling an inherited house when you live out of state](/guides/selling-an-inherited-property-out-of-state-without-the-hassle/).
 
-You can move in or turn it into a rental. Just weigh the ongoing costs, the condition of the home, and — if there are co-heirs — whether everyone agrees.
+**Practical tip:** get a dated appraisal as of the date of death to document the stepped-up basis, and keep it with the estate records. This is not tax advice, and nothing on this page is. Confirm the specifics with a CPA, and anything legal with a South Carolina attorney.
 
-## What About Taxes on an Inherited House?
+## Selling an inherited house with multiple heirs in South Carolina
 
-This is the most common tax worry, and the news is usually good. South Carolina has **no state inheritance tax and no estate tax,** and federal estate tax only applies to estates worth more than $15 million in 2026 — so the vast majority of families owe nothing simply for inheriting.
+Disagreement among heirs is the most common cause of delay. One wants to sell, one wants to keep it, one wants to rent it.
 
-The bigger benefit is the **stepped-up basis.** When you inherit a home, its cost basis resets to the fair market value on the date of death. That means if you sell soon after inheriting, you often owe little or no capital gains tax, because you're only taxed on appreciation that happens _after_ you inherit.
+South Carolina has a specific law for this, and it matters. The **Clementa C. Pinckney Uniform Partition of Heirs' Property Act**, SC Code 15-61-310 and following, changes how a forced sale works when property is held by family members as tenants in common without a will controlling it.
 
-For example: a parent bought a Charleston home for $80,000 decades ago, and it's worth $400,000 when they pass. Your basis steps up to $400,000. If you sell for $410,000, you're taxed only on the $10,000 gain — not the full $330,000 of appreciation over the years. Inherited property is also treated as long-term for capital gains purposes regardless of how briefly you hold it.
+Under that Act, before a court can order a partition sale:
 
-**Tip:** Get a dated appraisal at the time of death to document the stepped-up basis. Keep it with the death certificate and estate records for at least seven years. (This isn't tax advice — confirm specifics with a CPA.)
+- The court determines the property's value, generally by ordering an appraisal (15-61-360).
+- The cotenants who did not ask for the sale get the chance to buy out the share of the one who did, at the appraised value (15-61-370).
+- If no buyout happens, the court must consider dividing the property in kind before selling it (15-61-380).
+- The court weighs whether a sale would cause manifest prejudice to the cotenants as a group (15-61-390).
 
-## Selling an Inherited House With Multiple Heirs
+Practically: a single heir cannot simply force an immediate fire sale over the objections of the rest. That protects families, and it also means partition is slow and expensive as a strategy.
 
-When siblings or relatives co-own an inherited home, disagreements are the most common source of delay. One person wants to sell, another wants to keep it, and a third wants to rent it out.
+What actually resolves stalemates faster is agreeing on a number. Use a neutral appraisal, put decisions in writing, and recognize that a single cash sale converts a house that cannot be divided into money that can. See [selling a house in probate with multiple heirs](/guides/selling-a-house-in-probate-with-multiple-heirs-how-to-avoid-conflict-and-delays/).
 
-A few things help: agree early on a shared goal, use a neutral appraisal to set a fair price everyone trusts, and put decisions in writing. If heirs truly can't agree, any co-owner can file a **partition action** , asking a court to force a sale — but that's expensive, slow, and divisive. Selling to a single cash buyer often resolves stalemates because it converts a hard-to-split house into cash that's easy to divide. Read more in our guide on [selling a probate property without disputes](https://homebuyerssc.com/guides/).
+## How long does it take to sell an inherited house in SC?
 
-## How Long Does It Take to Sell an Inherited House in SC?
+| Situation | Realistic timeline |
+|---|---|
+| Held in a trust, or jointly owned with survivorship | Can sell almost immediately once title transfers |
+| Cash sale, once authority to sell is established | 1 to 3 weeks |
+| Traditional listing during probate | Listing period, plus 30 to 45 days for the buyer's financing |
+| Probate where the creditor claim period governs | 8 months from first publication of notice (SC Code 62-3-801(a)) |
+| Contested probate, missing heirs, or a partition action | A year or more |
 
-  * **Home held in a trust or jointly owned:** Can sell almost immediately once title transfers.
-
-  * **Cash sale after probate authority is granted:** As little as a few days to a couple of weeks.
-
-  * **Traditional listing during probate:** Several months, plus the 60–90 days a financed buyer typically needs to close.
-
-  * **Contested or complex probate:** A year or more.
-
-The single biggest variable is probate. Everything downstream waits on the court appointing a personal representative.
+The single biggest variable is probate, and within probate, the authority-to-sell question in Step 3.
 
 ## Frequently Asked Questions
 
-**Can I sell an inherited house before probate is finished in South Carolina?** Usually no. You need the probate court to appoint a personal representative who has authority to sign the deed. You can, however, line up a buyer and get under contract while probate is being finalized.
+**Can I sell an inherited house before probate is finished in South Carolina?**
 
-**Do I have to pay the mortgage on a house I inherited?** The mortgage doesn't disappear. It's paid off from the sale proceeds at closing. If you keep the home, you'll need to take over the payments.
+Often yes, once a personal representative is appointed and has authority to sell. You can also go under contract while probate is still running, with the contract written to account for the court's timeline. See [selling an inherited house in probate in South Carolina](/guides/selling-an-inherited-house-in-probate-in-south-carolina/).
 
-**What if the inherited house needs major repairs?** You don't have to fix it. Selling [as-is to a cash buyer](https://homebuyerssc.com/how-it-works/) means the buyer takes on the repairs, and you avoid spending money on a home you're selling anyway.
+**Do I have to pay the mortgage on a house I inherited?**
 
-**Will I owe taxes when I sell?** Thanks to the stepped-up basis, most people who sell soon after inheriting owe little or no capital gains tax. South Carolina has no inheritance or estate tax. Confirm your situation with a tax professional.
+It does not disappear. It is paid from the sale proceeds at closing. If you keep the house, you take over the payments.
 
-## Ready to Sell an Inherited House in South Carolina?
+**What if the inherited house needs major repairs, or is full of belongings?**
 
-Selling an inherited home doesn't have to mean months of repairs, showings, and carrying costs during an already difficult time. Homebuyers SC is a family-run, local company that has handled **500+ transactions since 2017** , including probate and inherited properties throughout Charleston, Mount Pleasant, Summerville, and across the Lowcountry. We buy as-is, pay cash, charge no commissions, and let you pick the closing date.
+You do not have to fix it or empty it. A cash buyer takes the repairs and the contents. See [selling a hoarder house without cleaning it out](/guides/selling-a-hoarder-house-how-to-sell-without-cleaning-everything-out/).
 
-**Call Homebuyers SC at (843) 938-1978 today** for a free, no-obligation cash offer, or [contact us online](https://homebuyerssc.com/contact/) to get started.
+**What if there is a tenant in the house?**
+
+The lease survives the sale. See [selling an inherited house with tenants still inside](/guides/selling-an-inherited-house-with-tenants-still-inside/).
+
+**Will I owe taxes when I sell?**
+
+The stepped-up basis often means a small taxable gain on a sale soon after inheriting, and South Carolina has no inheritance or estate tax. Whether that is true for you depends on your own return, so confirm it with a CPA before counting on it.
+
+**Does the closing have to happen in South Carolina?**
+
+The closing must be supervised by a licensed South Carolina attorney, under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987). Your signature does not have to happen here.
+
+## Ready to sell an inherited house in South Carolina?
+
+Homebuyers SC is a local, family-run company that has completed over 500 transactions since 2017, including probate and inherited properties throughout Charleston, Mount Pleasant, Summerville, and the wider Lowcountry. It buys as-is, pays cash, charges no commissions, and lets you choose the closing date.
+
+Call (843) 938-1978 for a free, no-obligation cash offer, or [contact us online](/contact/).

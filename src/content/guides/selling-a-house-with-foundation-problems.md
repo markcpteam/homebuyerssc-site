@@ -1,90 +1,93 @@
 ---
-title: "Selling a House With Foundation Problems"
-description: "Foundation problems are one of the fastest ways to stop a home sale."
+title: "Selling a House With Foundation Problems in Charleston, SC"
+description: "Foundation movement is common in Lowcountry soil. Why lenders refuse these houses, what repair really costs, and how to sell as-is without an engineer's report."
 pubDate: 2026-05-13
 group: repairs
 oldUrl: "/guides/selling-a-house-with-foundation-problems/"
 ---
-Foundation problems are one of the fastest ways to stop a home sale. Cracks, settling, sloping floors, or doors that no longer close properly signal expensive repairs—and buyers know it. Once foundation issues are discovered, traditional buyers and lenders usually exit immediately.
+You can sell a house with foundation problems in South Carolina as-is, without a repair and without an engineer's report. What you cannot usually do is sell it to a buyer using a mortgage, because the lender, not the buyer, decides whether the collateral is acceptable.
 
-If your home has foundation problems, selling as-is is often the only realistic option.
+Foundation movement is common in the Lowcountry. Homebuyers SC has bought houses with settling, failed crawlspace piers, and slab movement across Charleston, Berkeley, and Dorchester counties since 2017.
 
-## What Foundation Problems Typically Include
+## Why do Charleston houses have foundation problems so often?
 
-Foundation issues commonly show up as:
+It is less about construction quality than about what the house is sitting on.
 
-  * Cracks in walls or floors
+- **Soil.** Much of the tri-county area is built on soft, saturated, or filled ground, including marsh fill in parts of the peninsula and along the tidal creeks. Soft soil compresses unevenly, and uneven compression is what movement looks like from inside the house.
+- **Water table.** A high water table and heavy seasonal rainfall move moisture through the soil beneath a house repeatedly. Soil that swells and shrinks moves whatever is on top of it.
+- **Crawlspace construction.** A large share of older Lowcountry housing is pier-and-beam over a crawlspace rather than slab. Piers settle, brick piers deteriorate in persistent moisture, and sill and floor framing above them rots. This is the single most common finding in older houses here.
+- **Age.** A house built before modern footing requirements was not engineered for the soil it sits on.
 
-  * Uneven or sloping floors
+What you notice first is usually not the foundation. It is doors that stop latching, floors that slope noticeably without a level, cracks reopening after being patched, and gaps at baseboards or crown molding.
 
-  * Sticking doors or windows
+## Why does a foundation problem end a retail sale?
 
-  * Visible foundation movement
+Because financing stops.
 
-  * Water intrusion around the base of the home
+When an appraiser or inspector flags foundation movement, the lender's position is that its security is compromised. The loan is declined, or conditioned on the repair being completed before closing. The buyer's enthusiasm is not the variable. Most buyers cannot pay cash, so most buyers are removed.
 
-These problems suggest structural risk, not cosmetic flaws.
+Two related failures usually arrive with it:
 
-## Why Traditional Buyers Walk Away
+- **Appraisal.** The appraiser may flag the condition and require an inspection, or value the house low enough that the deal dies on price.
+- **Insurance.** Standard homeowners policies exclude earth movement, and a carrier that sees an active foundation problem on an older or flood-exposed house may decline or non-renew. An uninsurable house is an unfinanceable one, independently of the lender's own view. See [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
 
-Retail buyers and lenders are extremely cautious with foundation issues because:
+This is why cutting the price does not save these deals. The obstacle is a lender requirement, not a number.
 
-  * Repair costs are unpredictable
+## Should I repair the foundation before selling?
 
-  * Financing is often denied
+Do the arithmetic first, because the sequence costs more than people expect and the scope reliably grows.
 
-  * Appraisals fail or come in low
+| Step | What it involves |
+|---|---|
+| Structural engineer's evaluation | Paid upfront. Most reputable contractors will not scope the work without one |
+| Contractor bids | Foundation work is specialized, and bids for the same house vary widely in method and price |
+| Permits | Structural and foundation work is permitted work in Charleston, Berkeley, and Dorchester counties |
+| The repair | Piering, underpinning, pier replacement, or slab work. Frequently tens of thousands of dollars |
+| What is found underneath | Crawlspace work routinely uncovers rot, moisture damage, plumbing, or pest damage that was not in the bid |
+| Time | Weeks to months, while you continue carrying taxes, insurance, and utilities |
+| Disclosure afterward | A repaired foundation is still disclosable, and buyers still discount it |
+| Net effect on value | Repair restores financeability. It rarely adds value beyond what it cost |
 
-  * Buyers fear long-term stability problems
+Repairing makes sense when you have the cash on hand, the time to wait, and a house that is otherwise strong enough that restoring financeability unlocks a materially higher price. For most owners facing this, at least one of those three is missing. [Do I need repairs before selling as-is](/guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/) goes through the same question more broadly.
 
-Even buyers willing to take on repairs usually can’t secure a loan.
+## How does selling as-is with foundation problems work?
 
-## The True Cost of Foundation Repair
+A cash buyer estimates what the house is worth once the foundation is sound and the related damage is fixed, subtracts that cost and their margin, and offers the remainder. No lender is involved, so no lender condition can block it.
 
-Foundation repairs often require:
+You are not asked to obtain an engineer's report, get bids, pull permits, repair anything, or clean the house out.
 
-  * Engineering evaluations
+In South Carolina the closing must be supervised by a licensed attorney, which is settled law from *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987), not local practice. Ask a buyer which closing attorney they use before accepting an offer, along with the other questions in [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/).
 
-  * Specialized contractors
+## Do I have to disclose foundation problems?
 
-  * Permits and inspections
+Yes. South Carolina requires a residential property disclosure covering known material defects. Selling as-is does not remove that, and neither does having never had it formally diagnosed. If you know the floors slope and the doors stick, you know something. The statute is SC Code 27-50-40, and SC Code 27-50-30 lists transfers that are exempt from it, including a transfer "by a fiduciary in the course of the administration of a decedent's estate, guardianship, conservatorship, or trust" and transfers by foreclosure sale. An exemption from the statutory form is not permission to conceal a known problem, and whether one applies to your sale is a question for your closing attorney.
 
-  * Tens of thousands of dollars
+*The statutes cited here are the starting point, not the whole answer. How they apply turns on your specific facts, so confirm with a licensed South Carolina attorney before acting.*
 
-Worse, repairs don’t always guarantee full value recovery at resale.
+Disclosing up front is also self-protective. A buyer who learns late renegotiates late, which is the more common way these sales collapse.
 
-## Selling As-Is With Foundation Issues
+## Frequently asked questions
 
-Cash home buyers and real estate investors actively purchase homes with foundation problems.
+**Is the movement still active, or is it historic?**
 
-They:
+It matters to the repair cost, not to whether you can sell. Active movement is disclosable and affects the offer. See [selling a house with structural movement issues](/guides/selling-a-house-with-structural-movement-issues/).
 
-  * Buy homes as-is
+**Do I need an engineer's report to sell?**
 
-  * Factor repairs into their offer
+Not for a cash sale. A buyer paying cash does their own assessment. An engineer's report is something a lender requires, which is a path you are stepping off.
 
-  * Don’t rely on lender approval
+**How much less will I get?**
 
-  * Close quickly
+The offer reflects the repair cost plus the buyer's margin. Compare it against what you would net after paying for the engineer, the repair, the overruns, and several more months of carrying costs, not against a renovated house.
 
-What’s a deal-breaker for a homeowner is a calculated risk for an investor.
+**What if the house also has framing or floor damage?**
 
-## When Selling Makes the Most Sense
+Common, since the two travel together in crawlspace houses. See [selling a house with structural issues in Charleston](/guides/selling-a-property-with-structural-issues-how-to-sell-when-buyers-say-no/).
 
-Selling as-is is often the right move when:
+**What if there is standing water or moisture in the crawlspace?**
 
-  * Repair costs exceed your budget
+Say so. It is priced in rather than disqualifying, and it is discovered immediately anyway. See [selling a house with mold or water damage](/guides/selling-a-house-with-mold-issues/).
 
-  * Time pressure exists
+**How fast can it close?**
 
-  * The home is inherited or vacant
-
-  * You want certainty instead of a major construction project
-
-Trying to fix foundation issues before selling often increases risk.
-
-## The Bottom Line
-
-Foundation problems don’t get better on their own—and fixing them just to sell rarely makes financial sense.
-
-Selling your house as-is to a real estate investor provides a clean, predictable exit when structural concerns scare off traditional buyers.
+Usually one to three weeks once the closing attorney confirms clear title. Liens, probate, and tenants extend that.

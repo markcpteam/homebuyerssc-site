@@ -34,3 +34,39 @@
 
 # Old /blog/ post paths -> /guides/
 /blog/*  /guides/:splat  301
+
+# New proof pages (aliases)
+/how-to-choose/  /how-to-choose-a-cash-home-buyer/  301
+/choosing-a-cash-buyer/  /how-to-choose-a-cash-home-buyer/  301
+
+# Empty article merged into the main SC probate guide
+/guides/selling-a-probate-property-how-to-avoid-delays-disputes-and-stress/  /guides/selling-an-inherited-house-in-probate-in-south-carolina/  301
+
+# --- Batch 3 consolidation: thin articles merged into topic hubs ---
+/guides/a-smarter-alternative-to-an-estate-sale-selling-the-property-as-is/  /guides/selling-a-property-after-inheriting-a-messy-estate-how-to-simplify-the-chaos/  301
+/guides/selling-a-house-after-a-delayed-disaster-insurance-claim/  /guides/selling-a-house-you-cant-insure-anymore/  301
+/guides/selling-a-house-after-a-low-appraisal-what-to-do-next/  /guides/selling-a-house-after-a-failed-listing-what-to-do-when-the-market-says-no/  301
+/guides/selling-a-house-after-an-insurance-claim-was-denied-what-to-do-next/  /guides/selling-a-house-you-cant-insure-anymore/  301
+/guides/selling-a-house-before-a-tax-sale-how-to-stop-the-clock-and-protect-your-equity/  /guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/  301
+/guides/selling-a-house-facing-lawsuits-or-judgments-how-to-get-out-before-things-escalate/  /guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/  301
+/guides/selling-a-house-fast-when-relocation-leaves-no-time/  /guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/  301
+/guides/selling-a-house-for-immediate-cash-when-speed-is-the-priority/  /guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/  301
+/guides/selling-a-house-in-foreclosure-options-homeowners-still-have/  /guides/stopping-foreclosure-in-south-carolina-options-timeline/  301
+/guides/selling-a-house-thats-become-a-financial-drain/  /guides/selling-a-house-due-to-financial-hardship-regaining-control-before-it-gets-worse/  301
+/guides/selling-a-house-with-abandoned-belongings/  /guides/selling-a-property-after-inheriting-a-messy-estate-how-to-simplify-the-chaos/  301
+/guides/selling-a-house-with-chronic-maintenance-problems/  /guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/  301
+/guides/selling-a-house-with-flood-risk-or-flood-zone-issues/  /guides/selling-a-house-you-cant-insure-anymore/  301
+/guides/selling-a-house-with-major-repairs-needed-why-as-is-makes-sense/  /guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/  301
+/guides/selling-a-house-with-severe-water-damage/  /guides/selling-a-house-with-mold-issues/  301
+/guides/selling-a-house-with-years-of-deferred-maintenance/  /guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/  301
+/guides/selling-a-house-you-cant-afford-to-repair-why-fixing-it-isnt-always-the-answer/  /guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/  301
+/guides/selling-a-house-you-cant-maintain-anymore/  /guides/downsizing-your-home-how-to-sell-quickly-without-the-stress/  301
+/guides/selling-a-property-after-a-bad-tenant-experience/  /guides/selling-a-property-you-no-longer-want-to-manage-a-clean-exit-without-the-headache/  301
+/guides/selling-a-property-after-multiple-failed-deals/  /guides/selling-a-house-after-a-failed-listing-what-to-do-when-the-market-says-no/  301
+/guides/selling-a-property-with-long-term-code-enforcement-issues/  /guides/selling-a-house-with-code-violations-how-to-get-out-without-fixing-everything/  301
+/guides/selling-a-property-with-long-term-vacancy/  /guides/selling-a-property-you-no-longer-want-to-manage-a-clean-exit-without-the-headache/  301
+/guides/selling-a-property-youre-tired-of-paying-taxes-on/  /guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/  301
+/guides/selling-an-inherited-property-you-dont-want-turning-responsibility-into-relief/  /guides/selling-a-property-after-inheriting-a-messy-estate-how-to-simplify-the-chaos/  301
+/guides/why-its-often-smarter-to-sell-a-fixer-upper-as-is-in-2026-instead-of-renovating/  /guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/  301
+/guides/why-listing-your-home-during-a-divorce-can-be-painful-and-why-a-cash-investor-can-make-the-process-easier/  /guides/selling-a-house-after-divorce-a-clean-break-without-the-chaos/  301
+/guides/why-selling-to-an-investment-company-is-the-easiest-way-to-sell-an-unwanted-property/  /guides/are-cash-home-buyers-legit-how-to-spot-a-scam/  301

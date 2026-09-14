@@ -1,84 +1,95 @@
 ---
-title: "Are Cash Home Buyers Legit? How To Spot A Scam"
-description: "Quick Answer Most cash home buyers operating in South Carolina are legitimate, but a small number of bad actors give the industry a reputation problem."
+title: "Are Cash Home Buyers Legitimate? How to Check, in South Carolina"
+description: "Three checks separate a real buyer from a lead reseller, and all three take one phone call. Plus the free SC public records that verify what anyone tells you."
 pubDate: 2026-05-13
 group: process
 oldUrl: "/guides/are-cash-home-buyers-legit-how-to-spot-a-scam/"
 ---
-## Quick Answer
+Most cash home buyers operating in South Carolina are real businesses. The useful distinction is not legitimate versus fraudulent, it is **direct buyer versus wholesaler versus lead reseller**, because all three use the same marketing and only one of them is actually buying your house.
 
-Most cash home buyers operating in South Carolina are legitimate, but a small number of bad actors give the industry a reputation problem. Real cash buyers will show proof of funds, work with a licensed SC real estate attorney, give you time to review the contract, and never ask for upfront fees. Scams usually involve pressure tactics, vague paperwork, requests for personal or banking info early in the process, or "deposits" you have to pay to lock in an offer. The good news: a few minutes of due diligence will tell you almost everything you need to know. If you're vetting local [cash home buyers in Mount Pleasant](https://homebuyerssc.com/cash-home-buyers-mount-pleasant-sc/), the steps below will help you sort the real ones from the rest.
+Three checks separate them, and all three fit in one phone call.
 
-## How to Verify a Cash Home Buyer Is Legit
+Homebuyers SC is a direct buyer and has completed over 500 cash purchases across Charleston, Berkeley, and Dorchester counties since 2017.
 
-  1. **Ask for proof of funds in writing.** A legitimate buyer will share a bank statement or a letter from their financial institution dated within the last 30 days. If they dodge the question or send something vague, that's a red flag.
+## The three questions that settle it
 
-  2. **Check the company's registration.** Use the South Carolina Secretary of State's business search to confirm the company is registered and in good standing.
+1. **"Will you be the buyer on the contract, closing in your own name, or do you intend to assign this contract to someone else?"** A direct buyer answers immediately. A wholesaler talks about their "network of buyers" or "investor list." Both answers are useful, as long as you get a straight one.
+2. **"Can you send proof of funds?"** A bank statement or a letter from a financial institution. A real buyer has it ready.
+3. **"Which closing attorney will you use?"** In South Carolina this is not optional, and the answer tells you a great deal.
 
-  3. **Read local reviews.** Look at Google, Facebook, and the Better Business Bureau. Focus on the pattern of reviews, not just the rating — a long track record with mostly positive feedback is more telling than a perfect score on a brand-new profile.
+## Why does the closing attorney question work so well?
 
-  4. **Confirm they use a licensed SC real estate attorney.** Every property sale in South Carolina must close through an attorney. Ask who they use and verify that person is a real, practicing attorney with a valid bar number.
+Because South Carolina is one of the states where it is not a matter of preference.
 
-  5. **Review the contract before signing.** A real cash buyer gives you time to read the contract and welcomes questions. If you feel rushed or pressured, slow down — or have your own attorney review it.
+In *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987), the South Carolina Supreme Court held that real estate closings must be conducted under the supervision of a licensed attorney, on consumer protection grounds.
 
-  6. **Verify the closing happens at a real office.** You should be closing in person (or via remote notary) through the attorney's office — not at a coffee shop, a stranger's house, or by mailing documents to an unverified address.
+So a buyer who is vague about who is handling the closing, or who talks about an out-of-state title company, is either unfamiliar with how South Carolina works or routing you somewhere worth asking about. Established local buyers use established local closing attorneys and name them without hesitation.
 
-  7. **Never pay fees or wire money to the buyer.** A legitimate cash buyer is paying you. You should not be paying them anything — no "deposits," no "processing fees," no "title hold fees." None.
+## What are the three kinds of business?
 
-## Common Red Flags and Mistakes
+| Type | What they do | What it means for you |
+|---|---|---|
+| **Direct buyer** | Buys with their own funds, holds or renovates, resells later | One party, one price, they control whether it closes |
+| **Wholesaler** | Puts your house under contract, then sells that contract to a third party for a fee | The real buyer is someone you have not met. Deals fail when nobody takes the assignment |
+| **Lead reseller** | Collects your information and sells it to several investors | Your phone starts ringing. Nobody has committed to buying anything |
 
-  * **Trusting a verbal offer.** Get every number in writing. Verbal offers can change on closing day.
+None of these is illegal. Wholesaling is a legitimate business. The problem is being told you are dealing with one and actually dealing with another.
 
-  * **Skipping proof of funds.** If someone won't show it, they probably don't have it — and you may be dealing with a wholesaler hoping to flip the contract.
+## How do I verify what someone tells me?
 
-  * **Wiring money or paying any "deposit" to secure the sale.** This is the number-one scam pattern. Buyers pay sellers, not the other way around.
+All of this is free and public in South Carolina.
 
-  * **Signing under pressure.** "This offer expires in two hours" is a sales tactic, not a legal deadline. A real buyer will give you time.
+| What to check | Where | What you learn |
+|---|---|---|
+| Have they actually bought houses here? | County Register of Deeds records | Whether recorded deeds match the volume they claim |
+| Real estate license, if claimed | SC Department of Labor, Licensing and Regulation licensee lookup | Whether it is real and active |
+| Residential builder license, if they claim to renovate | LLR, Residential Builders Commission. A license is required for residential work over $5,000 | Whether it is real, plus any Board Orders |
+| Business standing | Better Business Bureau | Accreditation, rating, complaint history |
+| Reviews | Google Business Profile, and read the less positive ones | How they behave when something goes wrong |
+| Company registration | SC Secretary of State business filings | Whether the entity exists and how long it has |
 
-  * **Accepting an offer from a buyer you can't locate.** No physical address, no local references, no in-person walkthrough — walk away.
+For reference, Homebuyers SC, LLC is BBB accredited with an A+ rating held since March 2023, holds a 4.8 out of 5 rating from 25 Google reviews, and founder Caleb Pearson is a licensed South Carolina real estate agent, license number 83101. Those are stated so you can check them. Our [reviews page](/reviews/) lists where each figure comes from.
 
-  * **Falling for "foreclosure rescue" pitches.** Some scammers target homeowners behind on payments with promises to "save" the house in exchange for the deed. Once they have the title, they keep the equity.
+## What are the actual warning signs?
 
-  * **Letting urgency override common sense.** Even with a tight timeline, an extra hour to verify the buyer is worth thousands.
+- **Pressure to sign today.** A real offer is still a real offer tomorrow.
+- **A large deposit requested from you.** You are the seller. You should not be paying the buyer anything.
+- **Vagueness about who is buying.** See question one.
+- **No physical address**, or an out-of-state address with no local presence.
+- **Being asked to sign before seeing the whole contract**, including what happens if the buyer walks.
+- **An offer that drops late, repeatedly.** Renegotiating on something genuinely discovered is normal. A pattern is not.
+- **Anyone asking you to sign over the deed** in exchange for a promise to save your house from foreclosure. This is how equity gets taken.
 
-## When Urgency Makes Sellers Most Vulnerable
+That last one matters most if you are behind on payments. See [stopping foreclosure in South Carolina](/guides/stopping-foreclosure-in-south-carolina-options-timeline/).
 
-The most common scam targets aren't naive — they're stressed. If you [need cash now](https://homebuyerssc.com/need-cash-now/) for a medical bill, a job relocation, or to stop a financial spiral, urgency can make red flags blur together. Slow down for the time it takes to verify proof of funds and check a single review. That ten-minute pause has saved more than one Lowcountry homeowner from a six-figure mistake.
+## Is a cash offer worth less than listing?
 
-## Working With a Buyer You Can Actually Trust
+Yes, and any buyer telling you otherwise is not being straight with you.
 
-Homebuyers SC has been buying homes across Charleston, Mount Pleasant, Summerville, and surrounding areas for years, with hundreds of completed transactions and a long track record of local references. Every closing happens through a licensed SC attorney, every offer is backed by proof of funds, and there are no fees, commissions, or surprise costs at closing. [Get in touch](https://homebuyerssc.com/contact/) to ask any questions. Call (843) 938-1978 or send a message through the contact form for a no-pressure conversation.
+A cash offer is below what a renovated house would fetch on the open market. That difference is what you trade for speed, no repairs, no showings, no commission, and a sale that closes. Whether that trade is worth it depends entirely on your situation, and sometimes it is not.
 
-## Frequently Asked Questions
+It is usually worth it when the house needs work you cannot fund, you are on a deadline, the property is tenant-occupied or inherited, or a failed listing has already cost you months. It is usually not worth it when the house is in good condition, you are not in a hurry, and a lender would finance it today. In that case, list it.
 
-## What's the most common cash home buyer scam?
+The arithmetic is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/), and the questions to ask any buyer are in [how to choose a cash home buyer in Charleston](/how-to-choose-a-cash-home-buyer/).
 
-"Foreclosure rescue" schemes are the most common — a scammer offers to "save" a home in distress in exchange for signing over the deed, then keeps the equity. Pressure tactics and upfront-fee requests are close behind.
+## Frequently asked questions
 
-## Should I ever pay an upfront fee to a cash buyer?
+**How do I know the offer is reasonable?**
 
-No. A real cash buyer is paying you. Any request for a deposit, processing fee, title fee, or wire transfer from you to them is a scam.
+Ask the buyer to show the arithmetic: what they think the house is worth renovated, what they estimate the repairs cost, and what margin they are keeping. A buyer who will not show that is asking you to trust a number you cannot check.
 
-## How do I verify a company is legitimate in South Carolina?
+**Should I get more than one offer?**
 
-Check the SC Secretary of State business search, look up the BBB profile, search for local reviews, and confirm the closing attorney is licensed and in good standing with the SC Bar.
+Yes. Any buyer who discourages that has told you something about themselves.
 
-## What does proof of funds look like?
+**Do I have to pay anything?**
 
-Usually a recent bank statement (within 30 days) or a signed letter from a bank or lender confirming the buyer has the funds available to close.
+On a straightforward cash purchase the buyer covers closing costs and there is no commission. If you are asked to pay a fee to receive an offer, stop.
 
-## Can I back out after signing the contract?
+**What if my house has a tenant, code violations, or is in probate?**
 
-It depends on the contract terms. Most include contingencies and an inspection period. Read every clause before signing, and ask about cancellation terms upfront.
+Common, and none of them prevent a sale, though they change the timeline. See [selling a house with tenants in South Carolina](/guides/selling-a-house-with-tenants-in-south-carolina-a-landlords-guide/), [code violations](/guides/selling-a-house-with-code-violations-how-to-get-out-without-fixing-everything/), and [selling an inherited house in probate](/guides/selling-an-inherited-house-in-probate-in-south-carolina/).
 
-## Is wholesaling the same as a scam?
+**How long does a cash sale take in South Carolina?**
 
-Not necessarily, but it's not the same as a true cash sale. A wholesaler ties up your property under contract and tries to assign it to a real buyer. The risk is delay or fall-through, not theft.
-
-## What does the BBB rating actually mean?
-
-It measures complaint history, response patterns, and business practices over time. Look at how the company responds to complaints — that often tells you more than the letter grade.
-
-## What should I do if I think I'm being scammed?
-
-Stop all communication, do not sign anything, and contact the South Carolina Attorney General's Consumer Protection Division. If you've already paid money, contact your bank immediately and file a police report.
+Usually one to three weeks once the closing attorney confirms clear title. See [how fast can I sell my house in South Carolina](/guides/how-fast-can-i-sell-my-house-in-south-carolina-timeline-guide/).

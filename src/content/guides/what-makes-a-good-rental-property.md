@@ -1,98 +1,110 @@
 ---
-title: "What Makes a Good Rental Property?"
-description: "What Makes a Good Rental Property?"
+title: "Is Your South Carolina Rental Property Worth Keeping?"
+description: "A decision framework for owners weighing keep versus sell. The 6% assessment ratio, coastal insurance, deposit exposure, and the costs that get left out."
 pubDate: 2026-05-18
 group: tenants
 oldUrl: "/guides/what-makes-a-good-rental-property/"
 ---
-**What Makes a Good Rental Property? Buying a Vacation Home in South Carolina**
+Most articles about rental property are written for people deciding what to buy. This one is for owners deciding whether to keep what they already have, which is a different question with a different answer.
 
-Quick answer: A good vacation rental property in South Carolina combines a walkable location near a beach or attraction, a family-friendly layout (typically 3+ bedrooms, 2+ baths), legal short-term rental status under local ordinance, must-have amenities like fast Wi-Fi and a pool, and realistic cash flow modeled at 50–60 percent occupancy. In the Charleston area, the strongest vacation rental markets are Folly Beach, Isle of Palms, Sullivan's Island, Mount Pleasant, and downtown Charleston.
+A rental is worth keeping when the return justifies the work and the risk. That is not the same as being profitable on paper, and the difference is where owners get stuck for years.
 
-South Carolina's coast pulls in more than 30 million visitors a year, and a steady share of them never set foot in a hotel. They book vacation rentals. That demand has turned short-term rental investing into one of the most talked-about real estate plays in the Lowcountry — but not every house makes a good rental. Here is how to tell the difference before you make an offer.
+Homebuyers SC buys rental property across Charleston, Berkeley, and Dorchester counties, tenanted or vacant.
 
-**Is South Carolina a Good Market for Vacation Rental Investing?**
+## Run the real numbers, not the pro forma
 
-Yes. South Carolina ranks among the strongest vacation rental markets in the Southeast because of three factors: consistent year-round tourism, a long shoulder season, and limited beachfront supply near Charleston. Summer brings beach travelers. Spring and fall fill up with weddings, golf trips, and food-and-history tourists. Winter draws snowbirds from the Northeast and Midwest. That spread of demand cushions cash flow in a way pure summer markets cannot.
+Most owners can recite the rent. Fewer have put every cost in one place. Do that first, using twelve months of actuals rather than estimates.
 
-Mount Pleasant, James Island, and downtown Charleston also attract corporate travelers, traveling nurses, and military families tied to Joint Base Charleston, adding stability beyond tourism.
+| Cost | Notes |
+|---|---|
+| Mortgage, if any | Principal and interest |
+| **Property taxes** | Under SC Code 12-43-220 an owner-occupied legal residence is assessed at 4% of fair market value and other real property at 6%. A rental does not get the 4% ratio |
+| **Insurance** | Coastal South Carolina is a harder and dearer market than most of the country, and a landlord policy differs from a homeowners policy |
+| **Flood coverage** | Separate, and required for a federally backed mortgage in a Special Flood Hazard Area |
+| Management | If you do not want the job |
+| Maintenance | Twelve-month actuals, including the things that only happen every few years |
+| Vacancy and turnover | Lost rent between tenants, plus paint, flooring, cleaning |
+| Capital items | Roof, HVAC, water heater. These are not maintenance, they are scheduled replacements |
 
-## **What Are the Five Things That Make a Good Vacation Rental?**
+That tax row catches people who compare a rental's bill against their own house's and conclude something is wrong. Nothing is wrong. It is a different ratio.
 
-## _1\. Where Should You Buy a Vacation Rental in the Charleston Area?_
+## What actually makes a rental worth keeping?
 
-The best vacation rental locations in the Charleston area are within walking distance of a beach, restaurant district, or major attraction. A house three blocks from the beach can earn 30 to 40 percent more than the same house ten blocks away. Top submarkets include Folly Beach, Isle of Palms, Sullivan's Island, and downtown Charleston near King Street.
+| Points toward keeping | Points toward selling |
+|---|---|
+| It genuinely cash flows after every line above | It cash flows only if you ignore capital items |
+| The condition is current | Deferred maintenance has been accumulating |
+| It is insurable at a sane premium | Coverage is getting harder or dearer each renewal |
+| Good tenants, documented lease, deposits handled correctly | Turnover, arrears, or missing paperwork |
+| You are willing to do the job | You are doing it reluctantly |
+| It is close enough to manage | You are managing it from another state |
+| The location has durable demand | Demand depends on something that could change |
 
-Before you offer, walk the route from the property to the nearest attraction. If you would not do it carrying a cooler, neither will your guests.
+The bottom-left row is the one owners skip. Being a landlord is a job with legal obligations attached, and a rental that pays adequately while making you miserable is not obviously a good asset.
 
-## 2\. What Size and Layout Performs Best as a Vacation Rental?
+## Where demand is durable in the Charleston area
 
-The strongest performers in Charleston, Berkeley, and Dorchester counties are three- to five-bedroom homes with at least two bathrooms, outdoor space, and family-friendly parking. Sleeping capacity drives nightly rate more than square footage — a two-bedroom condo with a sleeper sofa rarely outperforms a three-bedroom cottage.
+For short-term rentals specifically, demand tends to be strongest where guests can walk to a beach, a restaurant district, or an attraction. Folly Beach, Isle of Palms, Sullivan's Island, and downtown Charleston are the established submarkets. Mount Pleasant, James Island, and downtown also draw corporate and medical travel and demand tied to Joint Base Charleston, which adds bookings outside the tourist season.
 
-Avoid homes that need major capital work. Roof, HVAC, and foundation surprises eat the first year of profit. Cosmetic updates are fine; systems replacements rarely are.
+Two cautions:
 
-## 3\. What Are the Short-Term Rental Rules in Charleston, Folly Beach, and Isle of Palms?
+- **Short-term rental rules are local and they change.** Charleston-area jurisdictions differ considerably on registration, caps, and whether a use is permitted at all. Get the current rule from the jurisdiction rather than from anything written earlier, including this. See [selling a property with zoning or use issues](/guides/selling-a-property-with-zoning-or-use-issues/).
+- **Occupancy assumptions are where underwriting goes wrong.** Rather than using a general figure, ask a local property manager for actual occupancy on comparable properties in that specific submarket, then model something more conservative than what they quote.
 
-Each municipality regulates short-term rentals differently, and the rules are not getting looser. Folly Beach caps STR permits in certain residential zones. Isle of Palms requires registration and limits density on some streets. The City of Charleston restricts whole-home short-term rentals heavily and generally requires owner occupancy. Sullivan's Island restricts rentals to terms longer than 29 days in most areas.
+## What are the obligations you are signing up for?
 
-Before signing anything, contact the local zoning office in writing and confirm the property is eligible for the rental use you have in mind. Do not rely on the listing agent or the seller. Ordinances change, and so do interpretations.
+From the South Carolina Residential Landlord and Tenant Act, Title 27 Chapter 40:
 
-## 4\. What Amenities Drive the Most Bookings?
+| Situation | What is required |
+|---|---|
+| Tenant has not paid rent | Written notice giving 5 days from the date due (27-40-710(B)) |
+| Other material lease violation | 14 days to cure, after written notice (27-40-710(A)) |
+| Ending a month-to-month tenancy | 30 days written notice (27-40-770) |
+| Security deposit | Return or itemize within 30 days of termination and delivery of possession and demand, whichever is later (27-40-410) |
+| Getting the deposit wrong | The tenant may recover "three times the amount wrongfully withheld and reasonable attorney's fees" (27-40-410) |
 
-The amenities that drive bookings in coastal South Carolina are fast Wi-Fi, a fully equipped kitchen, a private pool, outdoor showers, screened porches, beach gear (chairs, umbrellas, bikes), and pet-friendly setups. A private pool can lift summer rates 25 to 50 percent in the right submarket.
+Self-help eviction is not available in South Carolina. Eviction runs through magistrate's court.
 
-Skip amenities that photograph well but do not earn. Hot tubs sound great until you price the maintenance. Game rooms only matter if your target guest is families with teenagers.
+*These are statutory periods, not advice about your tenancy. Confirm with a licensed South Carolina attorney before serving anything.*
 
-## 5\. How Do You Calculate Cash Flow on a Vacation Rental?
+## The costs owners leave out
 
-To calculate cash flow on a vacation rental, model annual revenue at 50 to 60 percent occupancy — not peak-season rates. Subtract cleaning fees, property management (typically 20 to 30 percent if hands-off), HOA dues, property tax, coastal insurance, flood insurance, maintenance, hurricane preparation, and vacancy. The remainder is your real net.
+- **Capital replacement.** A roof and an HVAC system have finite lives. Not budgeting for them makes any rental look profitable until the year it is not.
+- **Insurance trajectory**, not just today's premium. Coastal premiums and non-renewals move in one direction as a property ages.
+- **Your own time**, which has value even when it is not invoiced.
+- **The eventual sale.** A rental with deferred maintenance can fall out of the financeable category, which narrows your buyer pool exactly when you want out. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/).
+- **Illiquidity.** A property cannot be sold in parts, and selling on a deadline costs money.
 
-Coastal South Carolina insurance premiums have climbed sharply in recent years. Get a real quote before making an offer, not after.
+## If the answer is sell, what then?
 
-## What Mistakes Should First-Time Vacation Home Buyers Avoid?
+You do not have to wait for the lease to end. The lease transfers to the buyer on its existing terms, which narrows the buyer pool to investors but does not prevent a sale, and a tenanted property producing income can be worth more to an investor than a vacant one.
 
-The most expensive vacation rental mistakes have nothing to do with the building itself:
+Waiting for vacancy costs lost rent, turnover, and vacancy risk, and in this climate an empty house deteriorates quickly. See [getting out of being a landlord](/guides/selling-a-property-you-no-longer-want-to-manage-a-clean-exit-without-the-headache/) and [selling a house with tenants in South Carolina](/guides/selling-a-house-with-tenants-in-south-carolina-a-landlords-guide/).
 
-• Buying emotionally because you love the area, not because the numbers work.
+*Nothing here is investment or tax advice. Homebuyers SC is a real estate company, not a financial advisor or an accountant. Talk to a CPA about the tax side of holding or selling an investment property.*
 
-• Ignoring HOA covenants that quietly ban rentals under 30 days.
+## Frequently asked questions
 
-• Underestimating furnishing costs, which typically run $20,000 to $50,000 for a full short-term rental setup.
+**How do I know if it is actually profitable?**
 
-• Picking a saturated micro-market with no differentiator in the listing.
+Twelve months of actual costs, including a reserve for capital items, against twelve months of actual rent received rather than scheduled rent.
 
-• Skipping a full inspection because the property "looks great."
+**Should I raise the rent instead of selling?**
 
-A vacation rental is a small business with a building attached. Treat the purchase that way.
+Possibly, and on a fixed-term lease you cannot until it ends. On a month-to-month tenancy it requires proper written notice under 27-40-770. Weigh it against the turnover risk.
 
-## How Do You Finance a Vacation Rental Property?
+**What if the property needs work I have been putting off?**
 
-Second-home loans typically require 10 to 25 percent down. True investment-property loans require more — often 25 to 30 percent — and carry higher interest rates. In competitive Charleston-area markets, cash and near-cash offers consistently beat financed offers, sometimes at lower price points.
+That is the fork. Price the work in writing, then compare it against a cash offer today. See [do I need repairs before selling as-is](/guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/).
 
-Many investors fund a vacation rental purchase by selling an existing property — a starter home they have outgrown, an inherited house, or a rental that no longer fits the strategy. The challenge is timing. A traditional sale can take months, which is a long time to wait when the right beach property is on the market.
+**What about depreciation and capital gains if I sell?**
 
-## Frequently Asked Questions
+Real considerations with specific rules, and a CPA question about your own return. If you are a nonresident at the time of sale, expect withholding at closing under SC Code 12-8-580.
 
-## How much does it cost to buy a vacation rental in Charleston, SC?
+**Can I sell with a tenant in place?**
 
-Single-family vacation rentals near Charleston-area beaches generally range from $500,000 to over $2 million, depending on location, size, and proximity to the water. Condos and townhomes start lower. Folly Beach, Isle of Palms, and Sullivan's Island command the highest prices due to limited supply and strong short-term rental demand.
+Yes. See [what transfers to the buyer](/guides/selling-a-house-with-tenants-in-place-what-property-owners-need-to-know/).
 
-## Are short-term rentals legal in Charleston, SC?
+**How fast can a sale close?**
 
-Short-term rentals are legal in much of the Charleston region but are heavily regulated. The City of Charleston requires permits and generally limits whole-home short-term rentals to owner-occupied properties. Folly Beach, Isle of Palms, and Sullivan's Island each have their own ordinances. Always verify eligibility with the local zoning office before purchasing.
-
-## What is the average occupancy rate for vacation rentals in coastal South Carolina?
-
-Coastal South Carolina vacation rentals typically run 55 to 70 percent annual occupancy in established beach markets, with peak demand in June, July, and October. Conservative underwriting at 50 to 60 percent occupancy is recommended.
-
-## Can a vacation rental be a tax write-off?
-
-Vacation rental properties used primarily for rental income can deduct mortgage interest, property tax, insurance, maintenance, depreciation, and management fees. Personal use of the property changes the calculation significantly. A CPA familiar with short-term rental tax rules should review the structure before purchase.
-
-## How fast can I sell my current home to buy a vacation rental?
-
-A traditional listing typically takes 60 to 120 days from list to close. Cash buyers like Homebuyers SC can close in as little as 7 days with no repairs or showings, which often makes the difference in a competitive vacation home market.
-
-## About Homebuyers SC
-
-**Homebuyers SC is a family-run cash home buying company founded by Caleb Pearson, serving Charleston, Berkeley, and Dorchester counties. We buy houses as-is with no repairs, no showings, and fast closings. If you are selling to free up capital for a vacation rental investment, we can give you a no-pressure cash offer in 24 hours.**
+Usually one to three weeks once the closing attorney confirms clear title. In South Carolina that supervision is required under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).

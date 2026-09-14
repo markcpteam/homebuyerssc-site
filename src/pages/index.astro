@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import LegalNote from '../components/LegalNote.astro';
 import { getCollection } from 'astro:content';
 import { GROUPS, BIZ } from '../consts';
 import TrustBar from '../components/TrustBar.astro';
@@ -105,4 +106,5 @@ const reasons = [
     </ul>
     </div>
   </section>
+  <LegalNote />
 </Base>

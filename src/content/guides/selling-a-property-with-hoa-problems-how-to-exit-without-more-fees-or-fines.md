@@ -1,87 +1,95 @@
 ---
-title: "Selling a Property With HOA Problems: How to Exit Without More Fees or Fines"
-description: "HOA issues can turn a normal property into a financial trap."
+title: "Selling a House With HOA Problems in South Carolina"
+description: "SC requires HOA governing documents to be recorded to be enforceable, and rules re-recorded by January 10 each year. Unpaid dues, violations, and how to sell."
 pubDate: 2026-05-13
 group: legal
 oldUrl: "/guides/selling-a-property-with-hoa-problems-how-to-exit-without-more-fees-or-fines/"
 ---
-HOA issues can turn a normal property into a financial trap. Fines, violations, special assessments, and ongoing disputes add up quickly—and once an HOA is involved, selling the house the traditional way becomes far more difficult.
+An HOA dispute rarely stops a sale outright. Unpaid dues and assessments come out of the proceeds at closing like any other lien, and a violation notice is a disclosure item rather than a barrier.
 
-If HOA problems are stacking up, selling the property fast may be the most practical way out.
+What surprises owners is that South Carolina has specific recording requirements for HOA governing documents, and a rule that was never properly recorded may not be enforceable. That is worth checking before you assume you owe what you are being told you owe.
 
-## Common HOA Problems That Trigger Forced Sales
+Homebuyers SC buys houses in HOA communities across Charleston, Berkeley, and Dorchester counties.
 
-Homeowners often run into trouble with HOAs due to:
+## What does South Carolina require of an HOA?
 
-  * Unpaid dues or special assessments
+The South Carolina Homeowners Association Act, SC Code Title 27, Chapter 30, sets recording requirements that bear directly on enforceability.
 
-  * Violation notices for maintenance or appearance
+Under SC Code 27-30-130, "a homeowners association's governing documents must be recorded in the clerk of court's, Register of Mesne Conveyance (RMC), or register of deeds office in the county where the property is located." The statute also sets a January tenth deadline for recording, with rules, regulations, and amendments needing to be recorded to remain enforceable going forward.
 
-  * Rental restrictions
+Two practical consequences:
 
-  * Disputes over repairs or approvals
+- **You can check.** The county Register of Deeds is public. What is recorded is what is recorded.
+- **A rule that was never recorded may not be enforceable.** That does not make a dispute go away, and it is a fact worth establishing before paying a fine you may not owe.
 
-  * Aggressive fine structures
+*Whether a particular rule or assessment is enforceable against you is a legal question that turns on the documents and the facts. Ask a licensed South Carolina attorney before relying on this, and before refusing to pay anything.*
 
-Unlike other debts, HOA fees and fines can escalate rapidly and lead to liens or foreclosure actions.
+## What are the common problems?
 
-## Why Traditional Buyers Walk Away
+| Problem | What it does to a sale |
+|---|---|
+| **Unpaid dues or assessments** | Typically a lien under the governing documents. Paid from proceeds at closing |
+| **Special assessment** | A large one-off, sometimes for a roof or structural project. Changes what a buyer is taking on |
+| **Violation notices and fines** | Disclosure item. Accrued fines may be claimed at closing |
+| **Architectural violations** | An addition, fence, or paint colour never approved. Can require correction |
+| **Litigation involving the association** | A buyer's lender may balk, particularly on a condo |
+| **Underfunded reserves** | Affects financeability on condos more than on single-family |
+| **Rental restrictions** | Matters enormously to an investor buyer. Get the current rule in writing |
 
-Most retail buyers don’t want HOA complications. Problems arise when:
+The last row is worth flagging if you are selling to an investor. A community that restricts or caps rentals changes who will buy the property and at what price.
 
-  * HOA violations appear during title search
+## What should I gather before selling?
 
-  * Outstanding balances delay closing
+- **The recorded governing documents**, from the county Register of Deeds, and the current rules
+- **A statement of account** from the association or its management company: dues, assessments, fines, and anything in collections
+- **Any violation notices**, with dates
+- **Minutes or notices about special assessments**, current or anticipated
+- **The rental policy**, in writing
+- **The estoppel or resale certificate process**, and what it costs and how long it takes
 
-  * Lenders hesitate to finance properties with HOA disputes
+That last one matters to your timeline. Most associations will not issue a payoff or resale statement instantly, and the closing attorney needs it.
 
-  * Buyers fear future restrictions or assessments
+## Do unpaid dues stop a closing?
 
-Deals fall apart late—after time and money are already invested.
+No. They are identified by the closing attorney, paid from the proceeds, and released. You do not need to pay them first.
 
-## Selling As-Is With HOA Issues
+What can genuinely stall a closing is the association being slow to produce a statement, or a dispute about the amount. Start that process early.
 
-Cash home buyers and real estate investors are often willing to purchase HOA properties with unresolved issues.
+In South Carolina every closing is supervised by a licensed attorney, from *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987), and that attorney is who obtains the association payoff and handles it. See [selling a house with back taxes or liens](/guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/).
 
-They:
+## Should I fix the violation before selling?
 
-  * Buy homes as-is
+| Fix it when | Sell as-is when |
+|---|---|
+| It is cheap and closes the matter | Correction means undoing a structure or an improvement |
+| Fines are accruing and correction stops them | The dispute is about enforceability, which takes time |
+| You are listing the house | You want out, and the buyer can take it on |
+| A lender for your buyer would require it | You are selling to a cash buyer who prices it |
 
-  * Factor unpaid dues and fines into the offer
+An unapproved fence or paint colour is often cheaper to resolve than to argue about. An unapproved addition is a different scale of problem, and it may also be an unpermitted work problem. See [selling a house with unpermitted work](/guides/selling-a-house-with-unpermitted-work-what-homeowners-should-know/).
 
-  * Resolve HOA balances at closing
+## Frequently asked questions
 
-  * Accept properties others avoid
+**Can the HOA block my sale?**
 
-This allows homeowners to sell without paying everything upfront.
+Associations generally cannot prevent a sale, though a right of first refusal appears in some governing documents. Read yours, because if one exists it affects your timeline.
 
-## When Selling Is the Smartest Option
+**Are the fines paid at closing?**
 
-Selling quickly makes sense when:
+Anything that is a lien is. Disputed fines are a negotiated term, so establish the number before contracting.
 
-  * HOA fines are increasing
+**What if I disagree with the fines?**
 
-  * Special assessments are unaffordable
+Check what is actually recorded, and take the enforceability question to an attorney. Do not simply stop paying on the assumption you are right.
 
-  * The property no longer fits your lifestyle
+**Do I have to disclose HOA problems?**
 
-  * Legal action is threatened
+SC Code 27-50-40 requires a residential property condition disclosure statement covering categories that include homeowners association governance, and SC Code 27-50-30 exempts certain transfers. Ask your closing attorney what applies to you.
 
-Waiting usually means higher costs and fewer options.
+**What about a special assessment that has been announced but not billed?**
 
-## Frequently Asked Questions
+Disclose it. A buyer discovering a five-figure assessment after closing is a dispute you do not want.
 
-**Do I have to pay HOA dues before selling?**  
-Often, no. They’re paid from proceeds at closing.
+**How fast can it close?**
 
-**Can an HOA block a sale?**  
-They can delay it—but experienced buyers work through the process.
-
-**Will HOA problems reduce my price?**  
-They’re factored in, but often less costly than holding long-term.
-
-## The Bottom Line
-
-HOA problems rarely disappear on their own. The longer they linger, the more expensive and stressful they become.
-
-Selling your property as-is to a real estate investor can stop the fines, clear the debt, and give you a clean exit—before HOA issues spiral further.
+Usually one to three weeks once the closing attorney confirms clear title, and the association's payoff statement is normally what sets the pace. See [how fast can I sell my house in South Carolina](/guides/how-fast-can-i-sell-my-house-in-south-carolina-timeline-guide/).

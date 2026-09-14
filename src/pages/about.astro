@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import LegalNote from '../components/LegalNote.astro';
 import OfferBox from '../components/OfferBox.astro';
 import { BIZ } from '../consts';
 import team from '../team.json';
@@ -33,4 +34,5 @@ const persons = people.map((p:any) => ({
 
   <OfferBox heading="Want to talk to one of us?" />
   <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@graph':persons})} />
+  <LegalNote />
 </Base>

@@ -1,6 +1,6 @@
 ---
-title: "Homebuyers SC \u2013 Cash For Your House"
-description: "Homebuyers SC – Cash For Your House"
+title: "Homebuyers SC: Cash For Your House"
+description: "Homebuyers SC, Cash For Your House"
 kind: orphan
 oldUrl: "/testimonials/"
 ---

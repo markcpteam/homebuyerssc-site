@@ -121,7 +121,7 @@ If you wish to unsubscribe from our email campaigns, please click on the Unsubsc
 
 of any marketing email sent from us.
 
-If you wish to stop receiving text messages from us, reply STOP , QUIT , CANCEL, OPT-OUT , or
+If you wish to stop receiving text messages from us, reply STOP, QUIT, CANCEL, OPT-OUT, or
 
 UNSUBSCRIBE to any text message sent from us. For more information, see our Mobile Messaging Terms
 

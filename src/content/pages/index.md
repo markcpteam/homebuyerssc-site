@@ -22,7 +22,7 @@ oldUrl: "/"
 
 **We buy homes in all conditions, shapes and sizes!  
 Our experience in over 500+ transactions gives us the ability to make this an   
-easy process, and get you a FAIR offer on your home!**
+easy process, and get you a written cash offer on your home!**
 
 ## Why Homebuyers SC?
 ### Get money, fast
@@ -42,4 +42,4 @@ Some clients may need to stay in the home for a week or a month after closing. W
 Homebuyers SC is a family-run business that understands life is full of unexpected and sometimes difficult situations for homeowners in the Charleston area.
 
   
-We buy houses and will offer you a fast, fair, and local way to sell your home for cash so you can move on to the next step in your journey.
+We buy houses and offer a fast, local way to sell your home for cash so you can move on to the next step in your journey.

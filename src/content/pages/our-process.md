@@ -1,5 +1,5 @@
 ---
-title: "Homebuyers SC \u2013 Cash For Your House"
+title: "Homebuyers SC: Cash For Your House"
 description: "HOW IT WORKS Choosing to sell your home to us is a simple and hassle-free process."
 kind: orphan
 oldUrl: "/our-process/"

@@ -1,80 +1,108 @@
 ---
 title: "How Selling to a Cash Home Buyer Works in South Carolina"
-description: "How Selling to a Cash Home Buyer Works in South Carolina"
+description: "Walkthrough, written offer, attorney-supervised closing, funds. The seven steps, what sets the timeline, and what a legitimate buyer will and will not ask of you."
 pubDate: 2026-05-13
 group: process
 oldUrl: "/guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/"
 ---
-## Quick Answer
+A cash sale in South Carolina has fewer steps than a listing, and the ones it has are different. No repairs, no staging, no showings, no appraisal, no lender underwriting. What it does have, and cannot skip, is an attorney-supervised closing and a title search.
 
-Selling to a cash home buyer in South Carolina usually takes one to three weeks from first call to closing — instead of the two to three months a traditional listing can take. You skip repairs, showings, and agent commissions, and the buyer pays in cash with no lender contingency. The process is straightforward: share your property details, get a written offer, sign a simple contract, and close at a local attorney's office. If you need to move quickly or your house isn't in shape for the MLS, working with experienced [cash home buyers in Charleston](https://homebuyerssc.com/cash-home-buyers-charleston-sc/) can save weeks of stress.
+Homebuyers SC has completed over 500 cash purchases across Charleston, Berkeley, and Dorchester counties since 2017.
 
-## The 6 Steps to Selling for Cash in SC
+## The seven steps
 
-  1. **Reach out with your property details.** Call or fill out an online form with your address, basic info (beds, baths, square footage), and a few notes on the condition. You don't need to clean, stage, or take pro photos.
+1. **You make contact and describe the property.** Condition, situation, timeline. Being straightforward here is worth money to you, because a buyer who is surprised later renegotiates.
+2. **A walkthrough.** Usually one visit, typically 20 to 40 minutes. Nobody is judging the housekeeping, and nothing needs cleaning or repairing beforehand.
+3. **A written offer, usually within 24 to 48 hours**, with proof of funds. Ask how the number was reached: what the house is worth repaired, what the repairs cost, what margin is being kept.
+4. **You decide.** A real offer is still real tomorrow. Getting a second opinion is reasonable and a legitimate buyer will not object.
+5. **Contract, then the closing attorney takes over.** They order the title search and check for liens, judgments, and anything recorded against the property.
+6. **Title work clears.** Usually three to seven business days on a clean title. This is what sets your timeline.
+7. **Closing.** Thirty to sixty minutes. Funds are wired or issued by certified check the same day.
 
-  2. **Schedule a walkthrough.** A representative will visit the property — usually a quick 15- to 30-minute look. In some cases, photos or a virtual tour are enough.
+## Why must an attorney be involved?
 
-  3. **Receive a no-obligation cash offer.** Within 24 to 48 hours after the walkthrough, you'll get a written offer. A legitimate buyer will share proof of funds along with it.
+Because in South Carolina it is not optional.
 
-  4. **Pick your closing date.** If you accept, you choose when to close — often anywhere from 7 days to a couple of months out, depending on what works for your timeline.
+In *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987), the South Carolina Supreme Court held that real estate closings must be conducted under the supervision of a licensed attorney, on consumer protection grounds. You cannot close a South Carolina house through an out-of-state title company the way you might elsewhere.
 
-  5. **Sign the contract and let the attorney handle the rest.** South Carolina is an attorney-state, so a licensed real estate attorney closes the sale. Title work, lien checks, and the deed all run through their office.
+For a seller this is a protection. The attorney is independent, finds every recorded lien, obtains authoritative payoffs, pays them at closing, obtains releases, prepares and records the deed, and disburses what is left to you.
 
-  6. **Close and get paid.** On closing day, you sign final paperwork and receive funds by wire or certified check — usually the same day.
+## What sets the timeline?
 
-## Common Mistakes to Avoid
+Almost always title, not the buyer.
 
-  * **Not asking for proof of funds.** A real cash buyer will share a recent bank statement or letter from their financial institution. If they hesitate, walk away.
+| What can extend it | Why |
+|---|---|
+| **Liens, judgments, back taxes** | Payoff figures have to be obtained from each creditor |
+| **Probate** | Authority to sell has to be established. Under SC Code 62-3-711(b) appointment alone is not enough |
+| **Heirs property** | Undocumented ownership across generations. The slowest category |
+| **An unreleased old mortgage** | Paperwork with a lender that may no longer exist |
+| **HOA payoff statements** | Associations are frequently slow to issue them |
+| **Tenants** | Lease and deposit documentation |
+| **An open insurance claim** | Who keeps the proceeds is a deal term |
 
-  * **Mistaking a wholesaler for an end buyer.** Wholesalers tie up your property under contract and then try to flip it to a real buyer. That can delay or kill your sale.
+Surfacing any of these at the first conversation rather than at the title search is the single best thing you can do for your own timeline.
 
-  * **Skipping the contract review.** Read the contingencies, inspection clauses, and earnest money terms before signing anything.
+## What you are not asked to do
 
-  * **Assuming all "we buy houses" companies are the same.** Check reviews, ask for local references, and look up the company's Better Business Bureau profile.
+- Repair anything, including structural, roof, systems, or water damage
+- Clean, stage, or remove belongings. Contents can stay
+- Hold showings or open houses
+- Obtain an inspection, an engineer's report, or an appraisal
+- Turn utilities back on, though it helps a walkthrough if they are on
+- Pay a commission, or pay anything upfront
 
-  * **Only getting one offer.** Even if you like the first number, a second opinion helps you confirm you're getting fair value.
+If you are asked to pay a fee to receive an offer, stop. See [are cash home buyers legitimate](/guides/are-cash-home-buyers-legit-how-to-spot-a-scam/).
 
-  * **Forgetting about payoff balances.** If you have a mortgage, the closing attorney pays it off from the sale proceeds — your check at closing is the difference.
+## Can I sell from out of state?
 
-## When a Cash Sale Makes the Most Sense
+Yes, and it is routine. One thing to be clear about so nobody promises you the wrong thing: **South Carolina does not currently permit remote online notarization.** You cannot sign over video.
 
-Cash sales shine when speed and certainty matter more than squeezing out every last dollar. Common situations include inherited property you can't maintain, a job relocation, divorce, or a home with deferred maintenance that won't pass a traditional inspection. If you [need cash now](https://homebuyerssc.com/need-cash-now/), a fast close can put proceeds in your account in a week or two — well before a listed property would even have an accepted offer.
+What happens instead is that the closing attorney sends the documents, you sign before a notary physically present with you wherever you live, and you return them by overnight courier. Funds are wired. Many out-of-state sellers never set foot in the state.
 
-## Ready to Get a Cash Offer?
+If you are a nonresident at the time of sale, expect withholding at closing under SC Code 12-8-580, calculated on the gain if you furnish a gain affidavit and on the full amount realized if you do not. Confirm with a CPA. See [selling an inherited house when you live out of state](/guides/selling-an-inherited-property-out-of-state-without-the-hassle/).
 
-If you're weighing your options for selling a house in the Lowcountry, the team at Homebuyers SC has been buying homes across Charleston, Mount Pleasant, Summerville, and surrounding areas for years. There's no obligation to accept the offer — and no fees, commissions, or repair costs if you do. [Get in touch](https://homebuyerssc.com/contact/) to start the conversation. Call (843) 938-1978 or send a message through the contact form to receive a free, no-pressure cash offer.
+## How fast is fast, and how slow can it be?
 
-## Frequently Asked Questions
+Both directions are available, which people do not expect.
 
-## How fast can I actually close on a cash sale?
+- **Fast.** Homebuyers SC has closed purchases in as few as 35 days end to end, from first contact to funds. Once the closing attorney confirms clear title, the closing itself is usually one to three weeks away.
+- **Slow, on purpose.** A closing date set to suit you, up to twelve months out. That matters when you are coordinating a purchase, a move, a school year, a probate step, or giving a tenant time to find housing.
 
-Most cash sales in South Carolina close in 7 to 14 days. If you need more time — say, to coordinate a move — closing can be scheduled out 30, 60, or even 90 days.
+Speed is available. It is not a requirement, and a buyer who cannot accommodate a later date is not being flexible with you.
 
-## Will I get less than market value?
+## Is this the right route for me?
 
-Cash offers are typically below retail listing price because the buyer absorbs repair costs, holding costs, and the risk of resale. The trade-off is speed, certainty, and zero out-of-pocket expense for you.
+Often not, and a straight answer is worth more than a pitch.
 
-## Do I have to pay any fees or commissions?
+**List the house** if it is in good condition, a lender would finance it today, you have time to wait, and you can fund repairs and carrying costs. The higher gross price generally survives the commission and the costs.
 
-No. Reputable cash buyers cover closing costs and don't charge commissions. The number on the offer is the number you walk away with (minus any mortgage payoff or liens).
+**A cash sale usually wins** when the house needs work a lender will not accept, you are against a deadline, the property is tenant-occupied or in an estate, you cannot fund repairs, or a listing has already failed.
 
-## What if my house needs major repairs?
+The arithmetic is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/), and it includes the honest case for listing.
 
-Cash buyers purchase homes as-is. You don't need to fix the roof, replace HVAC, or even clean out the property. Anything you leave behind becomes the buyer's responsibility.
+## Frequently asked questions
 
-## Is this process legal in South Carolina?
+**How is the offer calculated?**
 
-Yes. Every cash sale must go through a licensed South Carolina real estate attorney who handles title, escrow, and deed transfer — the same legal framework as any traditional sale.
+What the house is worth once repaired, minus the repair cost, minus carrying and resale costs, minus the buyer's margin. Any buyer should walk you through those lines.
 
-## Can I sell if I'm behind on my mortgage?
+**Is the offer negotiable?**
 
-Yes. As long as the sale price covers the loan payoff (or you're willing to bring a small amount to closing), you can sell. Many homeowners use a cash sale to avoid foreclosure.
+Yes. If you have a competing offer, or information the buyer has not seen, bring it.
 
-## What about inherited or probate property?
+**Who pays closing costs?**
 
-You can sell once probate has been opened and you have authority to act on behalf of the estate. A good cash buyer will work alongside your probate attorney to keep things moving.
+On a straightforward purchase Homebuyers SC covers standard closing costs including the attorney's fee, and there is no commission. Get any buyer's answer in writing.
 
-## Do I still need a real estate agent?
+**What if I change my mind?**
 
-No. Working directly with a cash buyer cuts out the agent — and the 5–6% commission that comes with listing.
+Read the contract before signing, specifically what happens if either party walks and how long the property is tied up.
+
+**Do I need my own attorney?**
+
+The closing attorney supervises the closing. If your situation is complicated, probate, divorce, bankruptcy, or litigation, having your own attorney is sensible and worth the cost.
+
+**What if I still owe money on the house?**
+
+The mortgage is paid off from the proceeds at closing. You receive what remains. See [selling a house with back taxes or liens](/guides/selling-a-house-with-back-taxes-or-liens-how-to-move-forward-without-paying-them-first/).

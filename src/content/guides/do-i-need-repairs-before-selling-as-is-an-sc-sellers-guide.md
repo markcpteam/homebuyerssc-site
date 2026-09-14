@@ -1,84 +1,104 @@
 ---
-title: "Do I Need Repairs Before Selling As-Is? An SC Seller's Guide"
-description: "Quick Answer Selling a home \"as-is\" means selling it in its current condition with no repairs."
+title: "Do I Need Repairs Before Selling As-Is in South Carolina?"
+description: "The only repair worth making is one that restores financeability. How to tell which category your house is in, price the work honestly, and decide."
 pubDate: 2026-05-13
 group: process
 oldUrl: "/guides/do-i-need-repairs-before-selling-as-is-an-sc-sellers-guide/"
 ---
-## Quick Answer
+There is one question that decides this, and it is not "will buyers like it."
 
-Selling a home "as-is" means selling it in its current condition with no repairs. If you're selling to a cash buyer, the answer is almost always no — they expect to handle repairs themselves and price the offer accordingly. If you're listing on the MLS, "as-is" technically lets you skip repairs, but financed buyers will still require certain items fixed for their lender to approve the loan. The smart question isn't "should I make repairs" but "do the repairs return more than they cost?" Most don't. If your home isn't market-ready and you're working with [cash home buyers in Summerville](https://homebuyerssc.com/cash-home-buyers-summerville-sc/), you can skip repairs entirely and still close in a couple of weeks.
+**Would a mortgage lender finance this house today, as it stands?** If yes, repairs are a value decision and you can weigh them normally. If no, repairs are not optional cosmetics, they are what stands between you and every buyer who needs a mortgage, which is most buyers. You either fund them or you sell to a cash buyer.
 
-## How to Decide Whether Repairs Are Worth It
+Homebuyers SC buys houses in any condition across Charleston, Berkeley, and Dorchester counties, with no repairs required.
 
-  1. **Identify the issues honestly.** Walk through the house with a contractor, a friend in real estate, or even a prospective cash buyer. Make a list of cosmetic items (paint, flooring, landscaping) separately from structural items (roof, HVAC, foundation, electrical, plumbing).
+## Which category is my house in?
 
-  2. **Get real repair estimates.** Guesses are worthless here. Get at least one written quote for any item over a few hundred dollars. Major systems can run $5,000–$20,000+, and discovering that mid-listing is painful.
+| Category | What it looks like | What to do |
+|---|---|---|
+| **Cosmetic only** | Dated finishes, worn paint, tired landscaping. Everything works | Clean and declutter. Most updates do not return their cost |
+| **Bounded repair** | One clear item: a water heater, a section of roof, a panel | Price it. If it restores financeability, it is usually worth doing |
+| **Unbounded repair** | Structure, active water, systems at end of life, unpermitted work | The scope grows once opened. This is where as-is usually wins |
+| **Not financeable** | No working systems, uninsurable, structural, severe deferred maintenance | Cash buyer, or a major project |
 
-  3. **Estimate the post-repair value lift.** Ask a local agent what a comparable repaired home sells for. The honest answer is usually less than people expect.
+Most owners agonising over repairs are in row one or row three, and the answers are opposite.
 
-  4. **Subtract repair cost from the lift.** If $20,000 of repairs adds $25,000 in sale price, that's only $5,000 net — and you've taken on weeks of stress and risk.
+## What makes a house unfinanceable?
 
-  5. **Add the time and risk factor.** Repairs take weeks or months. During that time you're paying mortgage, taxes, insurance, and utilities. Permits can stall projects. Contractors can no-show.
+Worth knowing precisely, because it is the dividing line.
 
-  6. **Compare to a cash offer.** Get an as-is cash number for the home in its current state. That's your baseline.
+- Missing or non-functioning heat, electrical, or plumbing
+- Structural defects: foundation movement, framing damage, a failing roof
+- Active water intrusion, and the mold that follows
+- No carrier will insure it, which ends any mortgage independently
+- Unpermitted square footage that caps the appraisal
+- Enough individually minor deferred items that an appraiser calls the condition
 
-  7. **Decide on net dollars plus timeline.** If repairs net you more than a few thousand and you have the time and patience, list traditionally. If they don't — or you can't front the cost — sell as-is.
+See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/) and [selling an uninsurable house](/guides/selling-a-house-you-cant-insure-anymore/).
 
-## Common Mistakes Sellers Make
+## How do I price the work honestly?
 
-  * **Doing repairs that don't return their cost.** Most kitchens, bathrooms, and additions return 50–70 cents on the dollar at resale, not 100%.
+Sellers under-budget repairs reliably, because the scope grows once a contractor opens a wall.
 
-  * **DIYing visible work poorly.** Crooked tile, sloppy paint lines, and amateur drywall can actively lower offers compared to leaving the original alone.
+1. **Get written quotes**, not estimates, for anything above a few hundred dollars. Two where you can.
+2. **Add a contingency.** Everyone in construction does. You should too.
+3. **Add the permit time.** Structural, electrical, and plumbing work is permitted work across the tri-county area.
+4. **Add the carrying cost** for the whole repair period plus the listing period afterward: mortgage, taxes, insurance, utilities.
+5. **Add the risk.** Nationally, 7% of contracts were terminated in the three months to August 2026, and 14% had delayed settlements. If yours fails after the repairs, you have spent the money and are back at the start.
 
-  * **Fixing cosmetics while ignoring structural problems.** Buyers and inspectors look past fresh paint when the roof is shot.
+Then compare that total against a cash offer available now. That is the actual comparison, and it is frequently much closer than the headline prices suggest. The full arithmetic is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-  * **Believing "every dollar comes back."** It rarely does. Run the numbers before swinging a hammer.
+## Which repairs are actually worth making?
 
-  * **Trying to fix everything for a tough inspection.** If the home has serious issues, no amount of cosmetic work will satisfy a thorough inspector.
+| Worth doing | Rarely worth doing |
+|---|---|
+| Anything that restores financeability or insurability | A kitchen or bathroom renovation before selling |
+| Stopping active damage: a roof leak, a water source | Cosmetic updates chosen to taste |
+| Cleaning, decluttering, yard tidying | Partial work on a house that needs a gut rehab |
+| A bounded system replacement that a lender requires | Work you will do yourself badly, which lowers offers |
+| Documenting what you have already fixed | Repairs funded by borrowing against the house |
 
-  * **Skipping the repair estimate.** Sellers who guess at costs almost always under-budget by 30–50%.
+The roof deserves separate mention. It is the most common insurance trigger in this market, and an uninsurable house is unfinanceable. A roof is sometimes the one repair that reopens the entire retail market.
 
-  * **Investing in repairs the lender wouldn't approve anyway.** If the home can't qualify for FHA or conventional financing, you're spending money to chase a buyer pool that can't close.
+## What about deferred maintenance that built up over years?
 
-## When Selling As-Is Makes the Most Sense
+This is the common Lowcountry version, and it behaves differently from a single defect.
 
-If the home was inherited, sat empty for a while, or just isn't worth the money to fix, an as-is sale to a cash buyer is usually the right move. The same goes when a [parent or relative has passed](https://homebuyerssc.com/parent-or-relative-deceased/) and the heirs don't want to spend months managing a property from out of state. Cash buyers handle the repairs, the cleanout, and the timeline — you just decide when to close.
+Individually, none of it disqualifies the house. Collectively, it reaches a threshold where an appraiser calls the condition and a lender declines. The owner experiences this as "nothing is really wrong" while contracts keep failing.
 
-## Get an As-Is Cash Offer
+The honest assessment: once a house is past that threshold, catching up is a renovation project rather than a repair list, and the money is better weighed against a cash offer than spent item by item. See [selling a property that needs a full gut rehab](/guides/selling-a-property-that-needs-a-full-gut-rehab/).
 
-If you'd rather skip the repair stress, Homebuyers SC purchases homes throughout Charleston, Mount Pleasant, Summerville, and the surrounding areas in any condition — no cleaning, repairs, or staging required. [Get in touch](https://homebuyerssc.com/contact/) for a free, no-obligation cash offer. Call (843) 938-1978 or send a message through the contact form and we'll walk you through your options.
+## Do I still have to disclose what I did not fix?
 
-## Frequently Asked Questions
+Yes, what you know about.
 
-## What does "as-is" actually mean in real estate?
+SC Code 27-50-40 requires a residential property condition disclosure statement covering specified categories, and lets an owner indicate actual knowledge of a condition or make no representation about it. SC Code 27-50-30 exempts certain transfers, including a transfer by a fiduciary administering a decedent's estate and transfers by foreclosure sale.
 
-It means the seller will not make repairs or offer credits. The buyer accepts the home in its current condition, with whatever issues come with it.
+Selling as-is does not remove a disclosure obligation, and a buyer purchasing because the house needs work is not surprised by it. What causes problems is a known defect discovered late.
 
-## Will a cash buyer really take my house with all its problems?
+*Whether and how disclosure applies to your sale is a question for a licensed South Carolina attorney. Ask your closing attorney before completing the form.*
 
-Yes. Reputable cash buyers purchase homes with foundation issues, mold, fire damage, dated systems, hoarder situations, and structural problems. The offer reflects the condition.
+## Frequently asked questions
 
-## Do I have to disclose known problems if I'm selling as-is?
+**Will I get more if I fix it up first?**
 
-Yes. South Carolina law requires sellers to complete a Residential Property Condition Disclosure Statement regardless of whether the sale is as-is. "As-is" applies to repair obligations, not disclosure.
+More gross, sometimes. More net, less often. The repair has to increase the price by more than it cost plus the extra carrying time, and cosmetic work usually does not clear that bar.
 
-## Which repairs actually return their cost at sale?
+**Should I get a pre-listing inspection?**
 
-The most reliable winners are usually exterior items: minor curb appeal, basic landscaping, paint, and small entry-door updates. Big-ticket renovations (kitchens, bathrooms, additions) rarely return 100%.
+It removes surprises and gives you a documented scope, which helps whichever route you take. It also creates knowledge you then have to disclose, which is a reason to do it deliberately.
 
-## Will a lender finance an as-is sale?
+**What if I do the work myself?**
 
-Sometimes. Conventional loans are more flexible than FHA or VA, which require certain habitability standards. Major issues (active roof leaks, missing flooring, no working HVAC) typically disqualify the home from financed buyers.
+Visible DIY work can lower offers rather than raise them, and unpermitted structural or electrical work creates its own problem. See [selling a house with unpermitted work](/guides/selling-a-house-with-unpermitted-work-what-homeowners-should-know/).
 
-## Does selling as-is mean accepting a lowball offer?
+**What if I cannot afford any of it?**
 
-No. A fair as-is offer reflects current condition minus the cost and risk of repairs. A lowball offer is one that goes well below that — and you can always get a second opinion.
+Then the decision is made for you, and it is not a failure. A cash buyer prices the work and takes it on.
 
-## What if I've started repairs but can't finish?
+**What if a contractor started and stopped?**
 
-That's a common situation, and cash buyers handle it routinely. You can sell the home in its partially-renovated state with no penalty.
+Different situation. See [selling a house after a contractor walked off the job](/guides/selling-a-house-after-a-contractor-walked-off-the-job/).
 
-## Should I get an inspection before selling as-is?
+**How fast can a cash sale close?**
 
-If you're selling to a cash buyer, no — they'll do their own evaluation. If you're listing traditionally, a pre-listing inspection can help you decide which (if any) repairs are worth tackling before going to market.
+Usually one to three weeks once the closing attorney confirms clear title. In South Carolina that supervision is required under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987).

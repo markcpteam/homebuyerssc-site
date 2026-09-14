@@ -1,87 +1,100 @@
 ---
-title: "Selling a Vacant or Abandoned Property: How to Avoid Ongoing Costs and Risks"
-description: "A vacant house may look harmless—but over time, it becomes a financial and legal liability."
+title: "Selling a Vacant Property in South Carolina Before It Costs You More"
+description: "Vacancy triggers insurance non-renewal, the 6% tax ratio, and code enforcement. Why an empty Lowcountry house deteriorates fast, and how to sell it as-is."
 pubDate: 2026-05-13
 group: vacant
 oldUrl: "/guides/selling-a-vacant-or-abandoned-property-how-to-avoid-ongoing-costs-and-risks/"
 ---
-A vacant house may look harmless—but over time, it becomes a financial and legal liability. Whether the property was inherited, relocated from, or simply left unused, vacant homes cost money and invite problems.
+An empty house in the Lowcountry does not hold still. It costs money every month, it deteriorates faster than owners expect, and at a certain point the insurance and condition problems compound into a house no lender will finance.
 
-If you own a vacant or abandoned property, selling it quickly can stop the drain before it worsens.
+That last point is the one worth acting on. A vacant house tends to move from "we will deal with it later" to "only a cash buyer can purchase this" without anyone deciding it should.
 
-## Why Vacant Properties Become Costly Fast
+Homebuyers SC buys vacant and long-empty property across Charleston, Berkeley, and Dorchester counties.
 
-Even when no one lives there, vacant homes still require:
+## What does vacancy actually cost?
 
-  * Property taxes
+| Cost | What happens |
+|---|---|
+| **Insurance** | Standard homeowners policies commonly restrict or exclude coverage after a property has been vacant for a set period, and carriers non-renew. Vacant property policies exist and cost more |
+| **Property taxes** | Under SC Code 12-43-220, an owner-occupied legal residence is assessed at **4%** of fair market value and other real property at **6%**. A house nobody occupies as a legal residence generally does not qualify for the 4% ratio |
+| **Utilities** | Turning them off is worse than leaving them on here. Air conditioning is what keeps humidity from destroying the interior |
+| **Maintenance and yard** | Neglect draws code enforcement in many jurisdictions |
+| **Deterioration** | Humidity, pests, and moisture move quickly in an unconditioned Lowcountry house |
+| **Liability** | You own the property and the risk that comes with it |
+| **Occupancy risk** | An obviously empty house attracts unauthorized occupants |
 
-  * Insurance (often higher for vacant homes)
+The insurance and tax rows are the two that surprise people, because they arrive as paperwork rather than as visible damage.
 
-  * Utilities
+## Why does an empty house here deteriorate faster than elsewhere?
 
-  * Lawn care and basic maintenance
+Humidity. A closed-up house with no air conditioning running through a Charleston summer develops the conditions for mold, swollen woodwork, and failing finishes in a single season. Add a roof leak nobody is there to notice and the damage compounds in months rather than years.
 
-On top of that, vacant houses are more vulnerable to vandalism, theft, squatting, and weather damage.
+This is why "we will sell it next spring" frequently means selling a materially worse house next spring.
 
-## The Risks of Letting a House Sit Empty
+See [selling a house with mold issues](/guides/selling-a-house-with-mold-issues/) and [getting out of being a landlord](/guides/selling-a-property-you-no-longer-want-to-manage-a-clean-exit-without-the-headache/).
 
-The longer a home sits vacant, the more issues arise:
+## When does a vacant house stop being financeable?
 
-  * Leaks go unnoticed
+When enough of these are true at once:
 
-  * Mold develops
+- No working heat, electrical, or plumbing, which many loan programs require
+- Active water intrusion or resulting mold
+- A roof at or past the end of its life
+- No carrier willing to write a policy, which alone ends any mortgage
+- Structural movement from settlement or moisture
 
-  * Code violations accumulate
+At that point your buyer pool is investors regardless of price. See [selling a house no lender will finance](/guides/selling-a-house-no-one-will-finance-your-best-options/) and [selling a house you cannot insure anymore](/guides/selling-a-house-you-cant-insure-anymore/).
 
-  * Insurance coverage becomes restricted
+## What should I do right now if the house is empty?
 
-  * Neighborhood complaints increase
+In order, and the first three are cheap.
 
-What starts as a temporary situation can turn into an expensive headache.
+1. **Call the insurer and tell them it is vacant.** Not disclosing vacancy is how a claim gets denied. Ask what your policy requires and what a vacant property policy would cost.
+2. **Keep the power on and the air conditioning running** at a moderate setting. This is the cheapest preservation available in this climate.
+3. **Ask the county assessor** what assessment ratio will apply, so you know the real holding cost.
+4. **Secure it.** Locks, and no visible signs that nobody has been there.
+5. **Have someone look at it regularly**, or pay someone to.
+6. **Decide on a date.** A vacant house without a decision attached is the expensive version.
 
-## Why Traditional Sales Often Don’t Work
+## Listing it or selling as-is?
 
-Vacant homes often struggle on the open market because:
+| | List it | Sell as-is |
+|---|---|---|
+| Condition required | Financeable and insurable today | Any |
+| Money upfront | Repairs, clean-out, utilities through the listing | None |
+| Time | Days on market plus 30 to 45 days for a lender | 1 to 3 weeks |
+| Holding costs during | Continue, including the higher tax ratio | Stop at closing |
+| Contents | Cleared before listing | Can stay |
+| Fits when | The house is sound and the vacancy is recent | It has been empty a while, or needs work |
 
-  * Buyers worry about unseen damage
+**List it if** it is sound, insurable, and a lender would finance it today. The higher price generally survives.
 
-  * Lenders hesitate to finance
+**Sell as-is if** the condition or the contents are the actual obstacle, or if the holding costs are the thing you want to stop. The arithmetic is in [cash offer vs listing with an agent in Charleston](/guides/cash-offer-vs-realtor-what-you-net-in-south-carolina/).
 
-  * Repairs are usually needed
+If it is full as well as empty, that is a separate obstacle with an easy answer. See [selling a hoarder house without cleaning it out](/guides/selling-a-hoarder-house-how-to-sell-without-cleaning-everything-out/) and [selling an inherited house full of belongings](/guides/selling-a-property-after-inheriting-a-messy-estate-how-to-simplify-the-chaos/).
 
-  * Showings highlight neglect
+## Frequently asked questions
 
-As a result, listings sit longer and sell for less.
+**Do I need to clean it out first?**
 
-## Selling a Vacant House As-Is
+Not for a cash sale. Take what matters to you and leave the rest.
 
-Cash home buyers and real estate investors specialize in vacant properties.
+**What if utilities are already off?**
 
-They:
+Not an obstacle to selling. It matters for a walkthrough, so say so in advance. Turning power back on before a sale is usually worth it if the house has been closed up a long time.
 
-  * Buy homes in any condition
+**What if someone is living there without permission?**
 
-  * Close quickly
+Removal is a court process in South Carolina and you cannot do it yourself, but you can sell without finishing it. See [selling a property with squatters](/guides/selling-a-property-with-squatters-how-to-sell-without-going-through-eviction/).
 
-  * Don’t require repairs or clean-up
+**What if it is an inherited house nobody has dealt with?**
 
-  * Handle problem properties others avoid
+Then the authority to sell is the first question, before anything about the building. See [the heir's checklist](/guides/selling-an-inherited-house-in-south-carolina-heirs-guide/).
 
-This allows owners to exit without sinking more money into a deteriorating asset.
+**Is there a code enforcement risk?**
 
-## Frequently Asked Questions
+In many jurisdictions, yes, and citations can accrue while the property sits. See [selling a house with code violations](/guides/selling-a-house-with-code-violations-how-to-get-out-without-fixing-everything/).
 
-**Do I need to turn utilities back on?**  
-No. Cash buyers purchase homes as-is.
+**How fast can it close?**
 
-**What if the house has code violations?**  
-Investors often handle these issues after closing.
-
-**How fast can a vacant property sell?**  
-Many close within 1–3 weeks.
-
-## The Bottom Line
-
-Vacant properties don’t improve with time—they deteriorate. Holding onto an unused home only increases costs and risk.
-
-If you’re tired of paying for a house no one lives in, selling as-is to a real estate investor can eliminate the problem and free up your capital quickly.
+Usually one to three weeks once the closing attorney confirms clear title. In South Carolina that attorney supervision is required under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987). See [how fast can I sell my house in South Carolina](/guides/how-fast-can-i-sell-my-house-in-south-carolina-timeline-guide/).

@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import LegalNote from '../../components/LegalNote.astro';
 import Base from '../../layouts/Base.astro';
 import OfferBox from '../../components/OfferBox.astro';
 import { GROUPS, BIZ } from '../../consts';
@@ -30,4 +31,5 @@ const crumbs=[{name:'Home',url:BIZ.site+'/'},{name:'Guides',url:BIZ.site+'/guide
   <ul>{recent.map(p => <li><a href={`/guides/${p.id}/`}>{p.data.title}</a></li>)}</ul>
   <h2>Every guide</h2>
   <ul>{[...all].sort((a,b)=>a.data.title.localeCompare(b.data.title)).map(p => <li><a href={`/guides/${p.id}/`}>{p.data.title}</a></li>)}</ul>
+  <LegalNote />
 </Base>

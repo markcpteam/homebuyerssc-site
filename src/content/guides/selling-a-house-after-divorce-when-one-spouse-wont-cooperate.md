@@ -1,83 +1,100 @@
 ---
-title: "Selling a House After Divorce When One Spouse Won’t Cooperate"
-description: "Divorce is difficult enough. When one spouse refuses to cooperate on selling the house, the situation can turn toxic fast."
+title: "Selling a House in a South Carolina Divorce When One Spouse Will Not Cooperate"
+description: "The family court controls the house during a divorce, not either spouse. What the court can order, why partition is usually the wrong tool, and what to do first."
 pubDate: 2026-05-13
 group: divorce
 oldUrl: "/guides/selling-a-house-after-divorce-when-one-spouse-wont-cooperate/"
 ---
-Divorce is difficult enough. When one spouse refuses to cooperate on selling the house, the situation can turn toxic fast. Missed deadlines, mounting expenses, and stalled negotiations keep both parties financially and emotionally stuck.
+If a divorce is pending, the house is part of it, and neither spouse gets to decide alone. The South Carolina family court has authority over marital property, and that is the route through which an uncooperative co-owner is dealt with.
 
-While every case is different, selling the house is often still possible—and sometimes the only way forward.
+That is frustrating, and it is also a protection, because it works the same way in reverse.
 
-## Why One Spouse May Refuse to Sell
+Homebuyers SC buys houses in divorce situations across Charleston, Berkeley, and Dorchester counties, once the parties or the court have authorized a sale.
 
-Common reasons include:
+## Who can actually sell?
 
-  * Emotional attachment to the home
+| Situation | Who has to agree |
+|---|---|
+| Both names on the deed, no divorce filed | Both. Neither can convey the whole property alone |
+| Divorce pending | The family court has authority over marital property. Temporary orders frequently restrict what either party may do with it |
+| Divorce final, decree awards the house to one spouse | That spouse, once the deed reflects it. The deed has to actually be changed |
+| Divorce final, decree orders a sale | Whatever the decree specifies, and it usually sets the terms |
+| Only one name on the deed | More complicated than it looks. A spouse may still have marital rights in the property |
 
-  * Fear of financial uncertainty
+That last row catches people. A deed in one name does not automatically make a house one spouse's to sell during a divorce.
 
-  * Desire to delay proceedings
+*Marital property, equitable apportionment, and what a court will order are fact-specific and squarely within a family law attorney's work. Nothing here is legal advice. Talk to a licensed South Carolina attorney about your case.*
 
-  * Leverage in divorce negotiations
+## What can the court do about a spouse who will not cooperate?
 
-Unfortunately, this resistance usually hurts both parties.
+This is the question worth taking to your attorney, because family court has tools a private negotiation does not:
 
-## The Cost of Delay
+- Order the house sold and set the terms
+- Decide how proceeds are divided
+- Address a party who obstructs a sale it has ordered
+- Award the house to one party, with a buyout of the other's interest
+- Put temporary orders in place about who pays what while the case runs
 
-While the home sits in limbo:
+What matters practically is that this happens through your attorney and the court, on the court's timeline. It is not fast, and trying to force it outside the process usually costs more than waiting.
 
-  * Mortgage payments continue
+## What about a partition action?
 
-  * Property taxes and insurance accrue
+Partition is the tool for co-owners generally. During a divorce, the family court route is normally the one, and your attorney will tell you which applies.
 
-  * Maintenance issues grow
+One South Carolina wrinkle worth knowing if the property came through a family death rather than a marriage: the **Clementa C. Pinckney Uniform Partition of Heirs' Property Act**, SC Code 15-61-310 and following, requires a court to determine value by appraisal, offer the other cotenants a buyout at that value, and consider dividing the property in kind before ordering a sale. That protects families from forced fire sales and it also makes partition slow and expensive. See [selling a house in probate with multiple heirs](/guides/selling-a-house-in-probate-with-multiple-heirs-how-to-avoid-conflict-and-delays/).
 
-  * Legal fees increase
+## What happens to the house while this runs?
 
-Delays rarely benefit either spouse.
+The costs do not pause, and this is the argument for resolving it rather than waiting the other party out.
 
-## When Selling Is Still an Option
+| What continues | Notes |
+|---|---|
+| Mortgage | Missed payments damage both parties' credit, regardless of who was supposed to pay |
+| Property taxes and insurance | Continue. A house standing empty may be repriced or non-renewed |
+| Utilities and maintenance | Somebody has to, and often nobody does |
+| Deferred maintenance | Compounds, and eventually decides your buyer pool |
+| Equity | Erodes through all of the above |
 
-Depending on jurisdiction and court orders:
+A house that sits through a long divorce frequently comes out the other side needing work it did not need at the start, which lowers what both parties receive. Pointing that out to the other side is occasionally what unsticks it, because it is a shared loss rather than an argument about fault.
 
-  * Courts may mandate a sale
+## What can I do now?
 
-  * A neutral third-party sale may be ordered
+1. **Talk to your family law attorney** about what the court can order and how long it takes. Everything else follows from that answer.
+2. **Find out what is recorded** against the property at the county Register of Deeds: liens, judgments, a lis pendens.
+3. **Get a realistic value**, in current condition. A number both sides can see is often what makes agreement possible.
+4. **Keep the mortgage current if you can**, because the credit damage lands on both of you.
+5. **Get a written cash offer** if you want a concrete alternative to put in front of the court or the other party. A specific number and a specific closing date is more persuasive than an argument about what the house might fetch.
 
-  * Proceeds may be held in escrow
+That last point is the practical one. "We could list it and maybe get X in a few months" is a debate. "Here is a written offer, closing on a date we choose" is a proposal.
 
-  * One spouse may be bought out
+## Once a sale is authorized, what does it look like?
 
-Selling becomes a legal solution—not just a financial one.
+The closing attorney, required in South Carolina under *State v. Buyers Service Co.*, 292 S.C. 426, 357 S.E.2d 15 (1987), handles the deed, the payoffs, and the disbursement, including dividing proceeds as the decree or agreement directs.
 
-## Why As-Is Sales Reduce Conflict
+A cash sale removes the parts of a listing that go badly in a divorce: showings that require cooperation, repairs that require agreement on spending, an inspection that reopens negotiation, and a financed buyer who can walk at week six. See [selling the house in a South Carolina divorce](/guides/selling-a-house-after-divorce-a-clean-break-without-the-chaos/) and [selling a house after divorce, a clean break](/guides/selling-a-house-after-divorce-a-clean-break-without-the-chaos/).
 
-Selling as-is to a cash buyer minimizes:
+## Frequently asked questions
 
-  * Repair disputes
+**Can I sell my half?**
 
-  * Pricing arguments
+Not in any practical sense. Nobody buys an undivided half interest in a house with a dispute attached.
 
-  * Showings and access issues
+**Can I force a sale?**
 
-  * Timeline uncertainty
+Through the court, potentially. Not on your own. Ask your attorney what is realistic in your case and how long it takes.
 
-The cleaner the process, the fewer opportunities for conflict.
+**What if my spouse will not let a buyer in?**
 
-## Common Questions
+Access is one of the things a court can address. It is also one reason a cash sale is easier here, since it usually needs one walkthrough rather than a run of showings.
 
-**Can I sell without my ex’s consent?**  
-It depends on ownership and court orders—but courts often allow forced sales.
+**What if the mortgage is only in my name?**
 
-**Do we have to fix the house first?**  
-No. As-is sales avoid repair disagreements.
+You are liable for it regardless of who lives there or what the decree says about payment. Nonpayment starts a foreclosure clock. See [stopping foreclosure in South Carolina](/guides/stopping-foreclosure-in-south-carolina-options-timeline/).
 
-**How long does it take?**  
-Often faster than traditional listings.
+**Can we sell before the divorce is final?**
 
-## The Bottom Line
+Sometimes, with both parties agreeing or the court authorizing it. Your attorney will tell you what your case allows.
 
-An uncooperative spouse can delay a sale—but not indefinitely. Courts prioritize resolution, not stalemate.
+**How fast can it close once everyone has agreed?**
 
-A fast, as-is sale can break the deadlock and allow both parties to move forward financially and personally.
+Usually one to three weeks once the closing attorney confirms clear title and the authority to sell. See [how fast can I sell my house in South Carolina](/guides/how-fast-can-i-sell-my-house-in-south-carolina-timeline-guide/).
