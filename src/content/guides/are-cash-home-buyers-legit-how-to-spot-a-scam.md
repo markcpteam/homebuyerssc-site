@@ -9,7 +9,7 @@ Most cash home buyers operating in South Carolina are real businesses. The usefu
 
 Three checks separate them, and all three fit in one phone call.
 
-Homebuyers SC is a direct buyer and has completed over 500 cash purchases across Charleston, Berkeley, and Dorchester counties since 2017.
+Homebuyers SC is a direct buyer and has completed over 500 purchases across Charleston, Berkeley, and Dorchester counties since 2017.
 
 ## The three questions that settle it
 

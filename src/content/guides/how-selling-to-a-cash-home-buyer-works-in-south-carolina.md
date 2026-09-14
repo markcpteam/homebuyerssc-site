@@ -7,7 +7,7 @@ oldUrl: "/guides/how-selling-to-a-cash-home-buyer-works-in-south-carolina/"
 ---
 A cash sale in South Carolina has fewer steps than a listing, and the ones it has are different. No repairs, no staging, no showings, no appraisal, no lender underwriting. What it does have, and cannot skip, is an attorney-supervised closing and a title search.
 
-Homebuyers SC has completed over 500 cash purchases across Charleston, Berkeley, and Dorchester counties since 2017.
+Homebuyers SC has completed over 500 purchases across Charleston, Berkeley, and Dorchester counties since 2017.
 
 ## The seven steps
 

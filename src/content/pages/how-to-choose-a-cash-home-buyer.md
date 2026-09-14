@@ -20,7 +20,7 @@ Three different kinds of business use the same marketing, and they are not the s
 
 None of these is illegal. Wholesaling is a legitimate business. The problem is being told you are dealing with one and actually dealing with another.
 
-Homebuyers SC is a direct buyer. The company has completed over 500 cash purchases across Charleston, Berkeley, and Dorchester counties since 2017 and renovates and resells the properties it buys.
+Homebuyers SC is a direct buyer. The company has completed over 500 purchases across Charleston, Berkeley, and Dorchester counties since 2017 and renovates and resells the properties it buys.
 
 ## What questions should I ask a cash home buyer?
 

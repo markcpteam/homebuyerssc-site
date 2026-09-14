@@ -4,7 +4,7 @@ description: "Homebuyers SC holds a 4.8 out of 5 rating from 25 Google reviews a
 kind: main
 oldUrl: "/reviews/"
 ---
-**Homebuyers SC holds a 4.8 out of 5 star rating from 25 Google reviews.** The company is an accredited business with the Better Business Bureau and has held an A+ rating since March 2023. Homebuyers SC, LLC has operated in the South Carolina Lowcountry since 2017 and has completed over 500 cash home purchases across Charleston, Berkeley, and Dorchester counties.
+**Homebuyers SC holds a 4.8 out of 5 star rating from 25 Google reviews.** The company is an accredited business with the Better Business Bureau and has held an A+ rating since March 2023. Homebuyers SC, LLC has operated in the South Carolina Lowcountry since 2017 and has completed over 500 purchases across Charleston, Berkeley, and Dorchester counties.
 
 Founder Caleb Pearson is a licensed South Carolina real estate agent, license number 83101.
 
@@ -14,7 +14,7 @@ Founder Caleb Pearson is a licensed South Carolina real estate agent, license nu
 |---|---|---|
 | Google Business Profile | 4.8 out of 5 stars, 25 reviews | September 2026 |
 | Better Business Bureau | Accredited Business, A+ rating, accredited since March 2023 | September 2026 |
-| Company records | 500+ cash purchases completed since 2017 | September 2026 |
+| Company records | Over 500 purchases completed since 2017 | September 2026 |
 | South Carolina Real Estate Commission | Caleb Pearson, license #83101 | September 2026 |
 
 Every figure on this page is checkable. If a number here is out of date, the fault is ours, and we would rather you tell us than assume.
@@ -55,7 +55,7 @@ Yes. Homebuyers SC, LLC has been an accredited business with the Better Business
 
 **How long has Homebuyers SC been buying houses?**
 
-Since 2017. Over 500 cash purchases completed across Charleston, Berkeley, and Dorchester counties.
+Since 2017. Over 500 purchases completed across Charleston, Berkeley, and Dorchester counties.
 
 **Are these reviews from real sellers?**
 

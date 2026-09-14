@@ -7,7 +7,7 @@ oldUrl: "/guides/if-i-inherit-a-house-how-do-i-sell-it-a-step-by-step-guide-for-
 ---
 **Quick answer:** To sell an inherited house in South Carolina you need to (1) establish how title passed, (2) get a personal representative appointed by the probate court, (3) confirm that the personal representative actually has authority to sell real property, which is a separate step most people miss, (4) clear the debts and liens attached to the house, and (5) decide whether to list it or sell it directly. If the house passed outside probate, this can take weeks. If it goes through probate, the creditor claim period alone runs eight months.
 
-Homebuyers SC has handled probate and inherited purchases across Charleston, Berkeley, and Dorchester counties since 2017, over 500 transactions in total.
+Homebuyers SC has handled probate and inherited purchases across Charleston, Berkeley, and Dorchester counties since 2017, over 500 purchases in total.
 
 ## Step 1: How did you inherit the property?
 
@@ -145,6 +145,6 @@ The closing must be supervised by a licensed South Carolina attorney, under *Sta
 
 ## Ready to sell an inherited house in South Carolina?
 
-Homebuyers SC is a local, family-run company that has completed over 500 transactions since 2017, including probate and inherited properties throughout Charleston, Mount Pleasant, Summerville, and the wider Lowcountry. It buys as-is, pays cash, charges no commissions, and lets you choose the closing date.
+Homebuyers SC is a local, family-run company that has completed over 500 purchases since 2017, including probate and inherited properties throughout Charleston, Mount Pleasant, Summerville, and the wider Lowcountry. It buys as-is, pays cash, charges no commissions, and lets you choose the closing date.
 
 Call (843) 938-1978 for a free, no-obligation cash offer, or [contact us online](/contact/).

@@ -45,7 +45,7 @@ The 12-month figure is the one worth dwelling on, because it is the opposite of 
 | Purchases closed in as few as 35 days, first contact to funds | Homebuyers SC company records | September 2026 |
 | Closing dates accommodated up to 12 months | Homebuyers SC policy | September 2026 |
 | 7% of contracts terminated, 14% delayed, 6% delayed by appraisal | National Association of Realtors, Realtors Confidence Index Survey, August 2026 | September 2026 |
-| 500+ purchases since 2017, Charleston, Berkeley, Dorchester counties | Homebuyers SC records, and county Register of Deeds filings, which are public | September 2026 |
+| Over 500 purchases since 2017, Charleston, Berkeley, Dorchester counties | Homebuyers SC records, and county Register of Deeds filings, which are public | September 2026 |
 
 Our own figures are company records. The national ones are published and linked. If any number here goes out of date, that is our fault and we would rather you tell us.
 

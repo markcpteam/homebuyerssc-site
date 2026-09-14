@@ -15,7 +15,7 @@ Whether you are overwhelmed with mortgage payments or want a quick sale to reloc
 
 ### Licensed South Carolina Real Estate Agent
 
-Licensed South Carolina real estate agent with 15+ years of investing experience. He is currently branded with EXP Realty Inc (License #83101). Caleb founded Homebuyers SC, LLC in 2017 after recognizing that many of his sellers wanted a faster, less stressful alternative to listing on the open market. Through Homebuyers SC alone, Caleb has been involved in 500+ home purchases across Charleston, Berkeley and Dorchester counties. 
+Licensed South Carolina real estate agent with 15+ years of investing experience. He is currently branded with EXP Realty Inc (License #83101). Caleb founded Homebuyers SC, LLC in 2017 after recognizing that many of his sellers wanted a faster, less stressful alternative to listing on the open market. Through Homebuyers SC alone, Caleb has been involved in over 500 purchases across Charleston, Berkeley and Dorchester counties. 
 
 Caleb is a loving husband and the stepfather of two beautiful stepdaughters, as well as two adorable twin baby girls. His hobbies are spending time at the beach with his family and also playing basketball and golf. He was a collegiate basketball player in Virginia from 2012-2017. 
 
