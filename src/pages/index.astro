@@ -20,6 +20,23 @@ const reasons = [
 ---
 <Base title="Sell My House Fast For Cash in South Carolina | Homebuyers SC"
       description={`We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call ${BIZ.phone}.`} bare>
+  <!-- Video band. Autoplay only works when the video starts muted; every modern
+       browser blocks autoplay with sound. The old Leadpages embed was muted too.
+       Controls are on so a viewer can turn sound on. -->
+  <div class="videoband">
+    <div class="wrap">
+      <div class="videoframe">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/TpNm96tLPM4?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1"
+          title="Homebuyers SC, LLC"
+          loading="eager"
+          allow="autoplay; encrypted-media; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
   <div class="hero">
     <div class="wrap hero-grid">
       <div>
@@ -37,26 +54,9 @@ const reasons = [
         </div>
       </div>
       <div class="hero-card" id="offer">
-        <h2>What is the house?</h2>
-        <p>Tell us the address and what is going on. No obligation, no pressure, and we will get back to you within one business day.</p>
+        <h2>Tell us about your property!</h2>
+        <p>Tell us the address and your current situation. No obligation, no pressure, and we will get back to you within one business day.</p>
         <OfferForm uid="hero" compact submitLabel="Get my cash offer" />
-      </div>
-    </div>
-  </div>
-
-  <!-- Video band. Autoplay only works when the video starts muted; every modern
-       browser blocks autoplay with sound. The old Leadpages embed was muted too.
-       Controls are on so a viewer can turn sound on. -->
-  <div class="videoband">
-    <div class="wrap">
-      <div class="videoframe">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/XHnV2ooev50?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1"
-          title="Homebuyers SC, LLC"
-          loading="eager"
-          allow="autoplay; encrypted-media; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -126,8 +126,8 @@ const reasons = [
 </Base>
 
 <style>
-  .videoband{background:var(--deep);padding:1.1rem 0}
-  .videoframe{max-width:800px;margin:0 auto;aspect-ratio:16/9;border-radius:10px;overflow:hidden;
+  .videoband{background:var(--deep);padding:.9rem 0}
+  .videoframe{max-width:530px;margin:0 auto;aspect-ratio:16/9;border-radius:10px;overflow:hidden;
               background:#000;box-shadow:0 6px 24px rgba(0,0,0,.28)}
   .videoframe iframe{width:100%;height:100%;border:0;display:block}
   @media(max-width:700px){
