@@ -11,6 +11,9 @@ export const BIZ = {
   bbbRating: 'A+',
   bbbSince: 'March 2023',
   site: 'https://homebuyerssc.com',
+  // Paste the Google Maps JavaScript API key here to switch on address suggestions.
+  // Empty is safe: the address box stays an ordinary text field.
+  googleMapsKey: 'AIzaSyDiak_huJm7PhMScepej0NchXjHWGBlAoc',
   author: { name: 'Caleb Pearson', role: 'Founder', license: '83101', years: '15' },
 };
 export const GROUPS: Record<string,{label:string, blurb:string}> = {

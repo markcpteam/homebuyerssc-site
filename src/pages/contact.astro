@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { BIZ } from '../consts';
+import OfferForm from '../components/OfferForm.astro';
 ---
 <Base title="Contact Homebuyers SC | Free Cash Offer in 24 Hours"
       description={`Request a no-obligation cash offer on your South Carolina house. Call ${BIZ.phone} or send us the address and we will get back to you within one business day.`}>
@@ -8,16 +9,7 @@ import { BIZ } from '../consts';
   <p class="lede">Tell us the address and a little about the situation. No obligation, no fee, and we will get back to you within one business day.</p>
   <p><strong>Prefer to talk? Call <a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a>.</strong></p>
 
-  <form class="offer" name="cash-offer" method="POST" data-netlify="true" netlify-honeypot="company-website" action="/thank-you/">
-    <input type="hidden" name="form-name" value="cash-offer" />
-    <p hidden><label>Do not fill this in: <input name="company-website" /></label></p>
-    <div><label for="name">Your name</label><input id="name" name="name" required autocomplete="name" /></div>
-    <div><label for="phone">Phone</label><input id="phone" name="phone" type="tel" required autocomplete="tel" /></div>
-    <div><label for="email">Email</label><input id="email" name="email" type="email" required autocomplete="email" /></div>
-    <div><label for="address">Property address</label><input id="address" name="address" required autocomplete="street-address" /></div>
-    <div><label for="situation">What is going on with the property?</label><textarea id="situation" name="situation" rows="5" placeholder="Condition, timeline, tenants, anything we should know"></textarea></div>
-    <button type="submit">Request my cash offer</button>
-  </form>
+  <OfferForm uid="contact" />
 
   <h2>Where we are</h2>
   <p>{BIZ.legalName}<br />{BIZ.street}<br />{BIZ.city}, {BIZ.region} {BIZ.zip}<br /><a href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a></p>

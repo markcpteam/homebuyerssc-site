@@ -1,12 +1,10 @@
 ---
 import { BIZ } from '../consts';
+import OfferForm from './OfferForm.astro';
 const { heading = 'Need to sell this house?' } = Astro.props;
 ---
 <div class="offerbox">
   <h2>{heading}</h2>
   <p>We buy houses across Charleston, Berkeley, and Dorchester counties for cash, exactly as they sit. No repairs, no cleaning, no commissions, and you choose the closing date.</p>
-  <div class="row">
-    <a href="/contact/" class="btn">Get my cash offer</a>
-    <span>or call <a class="tel" href={`tel:${BIZ.phoneRaw}`}>{BIZ.phone}</a></span>
-  </div>
+  <OfferForm compact submitLabel="Get my cash offer" />
 </div>

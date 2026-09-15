@@ -154,6 +154,26 @@ form.offer input,form.offer textarea{width:100%;padding:.75rem .85rem;border:1.5
   border-radius:8px;font:inherit;background:#fff}
 form.offer input:focus,form.offer textarea:focus{outline:0;border-color:var(--blue);
   box-shadow:0 0 0 3px rgba(41,177,238,.18)}
+form.offer button[type=submit]{background:var(--green);color:#fff;border:0;border-radius:8px;
+  padding:.85rem 1.1rem;font:inherit;font-weight:800;font-size:1.02rem;cursor:pointer}
+form.offer button[type=submit]:hover{background:var(--green-dk)}
+.offer-alt{margin:.2rem 0 0;font-size:.87rem;color:var(--body)}
+
+/* the offer form when it sits inside a card or a callout */
+form.offer-compact{max-width:100%;margin-top:1rem;gap:.7rem}
+form.offer-compact input,form.offer-compact textarea{padding:.6rem .7rem}
+form.offer-compact label{font-size:.85rem}
+
+/* address suggestions */
+.addr-field{position:relative}
+.addr-list{position:absolute;z-index:40;left:0;right:0;top:100%;margin:.2rem 0 0;padding:.25rem;
+  list-style:none;background:#fff;border:1.5px solid var(--line);border-radius:8px;
+  box-shadow:0 8px 24px rgba(31,44,56,.14);max-height:15rem;overflow-y:auto}
+.addr-list li{padding:.5rem .6rem;border-radius:6px;cursor:pointer;font-size:.94rem;line-height:1.35}
+.addr-list li:hover,.addr-list li.is-active{background:var(--blue-pale)}
+.addr-hint{margin:.3rem 0 0;font-size:.8rem;color:var(--mut,#6B7F92)}
+
+.offerbox form.offer{margin-top:1.1rem}
 
 /* footer */
 .site-foot{background:var(--deep);color:#AFC0D0;margin-top:3rem;padding:2.6rem 0 1.2rem;font-size:.93rem}

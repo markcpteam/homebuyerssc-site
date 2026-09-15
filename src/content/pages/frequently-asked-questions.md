@@ -66,7 +66,7 @@ Yes, most Homebuyers SC closings can be completed remotely. You only need to mee
 
 ## Can I sell my house to Homebuyers SC if I'm behind on my mortgage?
 
-Yes, and you should call us immediately if you are. Homebuyers SC has extensive experience negotiating with lenders on behalf of homeowners facing foreclosure, and in many cases we can help reduce the penalties you owe.
+Yes, and you should call or text us immediately if you are. Homebuyers SC has extensive experience negotiating with lenders on behalf of homeowners facing foreclosure, and in many cases we can help reduce the penalties you owe.
 
 ## Can Homebuyers SC buy a house with tax liens or other liens?
 

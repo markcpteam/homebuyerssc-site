@@ -1,0 +1,123 @@
+---
+import { BIZ } from '../consts';
+interface Props { uid?: string; compact?: boolean; submitLabel?: string; }
+const {
+  uid = Math.random().toString(36).slice(2, 8),
+  compact = false,
+  submitLabel = 'Request my cash offer',
+} = Astro.props;
+const key = BIZ.googleMapsKey || '';
+---
+<form class={`offer${compact ? ' offer-compact' : ''}`} name="cash-offer" method="POST"
+      data-netlify="true" netlify-honeypot="company-website" action="/thank-you/">
+  <input type="hidden" name="form-name" value="cash-offer" />
+  <p hidden><label>Do not fill this in: <input name="company-website" /></label></p>
+
+  <div><label for={`name-${uid}`}>Your name</label>
+    <input id={`name-${uid}`} name="name" required autocomplete="name" /></div>
+
+  <div><label for={`phone-${uid}`}>Phone</label>
+    <input id={`phone-${uid}`} name="phone" type="tel" required autocomplete="tel" /></div>
+
+  <div><label for={`email-${uid}`}>Email</label>
+    <input id={`email-${uid}`} name="email" type="email" required autocomplete="email" /></div>
+
+  <div class="addr-field">
+    <label for={`address-${uid}`}>Property address</label>
+    <input id={`address-${uid}`} name="address" required autocomplete="street-address"
+           data-address-autocomplete data-gmaps-key={key}
+           role="combobox" aria-expanded="false" aria-autocomplete="list"
+           aria-controls={`addr-list-${uid}`} autocapitalize="words" spellcheck="false" />
+    <ul class="addr-list" id={`addr-list-${uid}`} role="listbox" hidden></ul>
+    <p class="addr-hint">Start typing and pick your address, or just type it in.</p>
+  </div>
+
+  <div><label for={`situation-${uid}`}>What is going on with the property?</label>
+    <textarea id={`situation-${uid}`} name="situation" rows={compact ? 3 : 5}
+              placeholder="Condition, timeline, tenants, anything we should know"></textarea></div>
+
+  <button type="submit">{submitLabel}</button>
+  <p class="offer-alt">Prefer to talk? Call or text <a href={`tel:${BIZ.phoneRaw}`}><strong>{BIZ.phone}</strong></a>.</p>
+</form>
+
+<script>
+// Address suggestions from Google Places.
+// The field is an ordinary text box first and foremost: if the key is missing,
+// the network fails, or nothing matches what they typed, the typed text submits as-is.
+const inputs = document.querySelectorAll('input[data-address-autocomplete]');
+if (inputs.length) {
+  const key = (inputs[0] as HTMLInputElement).dataset.gmapsKey;
+  if (key) {
+    let loader: Promise<any> | null = null;
+    const loadPlaces = () => {
+      if (!loader) {
+        loader = new Promise((resolve, reject) => {
+          const s = document.createElement('script');
+          s.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key)}&libraries=places&loading=async&v=weekly`;
+          s.async = true;
+          s.onload = () => resolve((window as any).google);
+          s.onerror = reject;
+          document.head.appendChild(s);
+        });
+      }
+      return loader;
+    };
+
+    inputs.forEach((el) => {
+      const input = el as HTMLInputElement;
+      const list = document.getElementById(input.getAttribute('aria-controls') || '') as HTMLUListElement | null;
+      if (!list) return;
+      let token: any = null, timer: any = null, items: string[] = [], active = -1;
+
+      const close = () => { list.hidden = true; list.innerHTML = ''; items = []; active = -1; input.setAttribute('aria-expanded','false'); };
+      const choose = (i: number) => { if (items[i] != null) { input.value = items[i]; token = null; close(); } };
+      const paint = () => {
+        list.innerHTML = '';
+        items.forEach((txt, i) => {
+          const li = document.createElement('li');
+          li.textContent = txt; li.setAttribute('role','option');
+          li.setAttribute('aria-selected', String(i === active));
+          if (i === active) li.classList.add('is-active');
+          li.addEventListener('mousedown', (ev) => { ev.preventDefault(); choose(i); });
+          list.appendChild(li);
+        });
+        list.hidden = items.length === 0;
+        input.setAttribute('aria-expanded', String(items.length > 0));
+      };
+
+      const fetchSuggestions = async (q: string) => {
+        try {
+          const g = await loadPlaces();
+          const { AutocompleteSuggestion, AutocompleteSessionToken } = await g.maps.importLibrary('places');
+          if (!token) token = new AutocompleteSessionToken();
+          const { suggestions } = await AutocompleteSuggestion.fetchAutocompleteSuggestions({
+            input: q, region: 'us', language: 'en-US', sessionToken: token,
+          });
+          items = (suggestions || [])
+            .map((s: any) => s.placePrediction && s.placePrediction.text && s.placePrediction.text.toString())
+            .filter(Boolean).slice(0, 5);
+          active = -1;
+          paint();
+        } catch (e) {
+          close(); // silent: the field still works as a plain text box
+        }
+      };
+
+      input.addEventListener('input', () => {
+        clearTimeout(timer);
+        const q = input.value.trim();
+        if (q.length < 4) { close(); return; }
+        timer = setTimeout(() => fetchSuggestions(q), 250);
+      });
+      input.addEventListener('keydown', (e) => {
+        if (list.hidden) return;
+        if (e.key === 'ArrowDown') { e.preventDefault(); active = Math.min(active + 1, items.length - 1); paint(); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); active = Math.max(active - 1, 0); paint(); }
+        else if (e.key === 'Enter' && active >= 0) { e.preventDefault(); choose(active); }
+        else if (e.key === 'Escape') { close(); }
+      });
+      input.addEventListener('blur', () => setTimeout(close, 150));
+    });
+  }
+}
+</script>
