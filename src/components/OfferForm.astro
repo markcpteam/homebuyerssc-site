@@ -44,38 +44,49 @@ const key = BIZ.googleMapsKey || '';
 // Address suggestions from Google Places.
 // The field is an ordinary text box first and foremost: if the key is missing,
 // the network fails, or nothing matches what they typed, the typed text submits as-is.
-const inputs = document.querySelectorAll('input[data-address-autocomplete]');
-if (inputs.length) {
-  const key = (inputs[0] as HTMLInputElement).dataset.gmapsKey;
+const addrInputs = document.querySelectorAll('input[data-address-autocomplete]');
+if (addrInputs.length) {
+  const key = addrInputs[0].dataset.gmapsKey;
   if (key) {
-    let loader: Promise<any> | null = null;
+    let loader = null;
+    const mapsReady = () => !!(window.google && window.google.maps && window.google.maps.importLibrary);
     const loadPlaces = () => {
       if (!loader) {
         loader = new Promise((resolve, reject) => {
+          const waitFor = (deadline) => {
+            if (mapsReady()) return resolve();
+            if (Date.now() > deadline) return reject(new Error('maps not ready'));
+            setTimeout(() => waitFor(deadline), 50);
+          };
+          if (mapsReady()) return resolve();
           const s = document.createElement('script');
-          s.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key)}&libraries=places&loading=async&v=weekly`;
+          s.src = 'https://maps.googleapis.com/maps/api/js?key=' + encodeURIComponent(key) + '&libraries=places&loading=async&v=weekly';
           s.async = true;
-          s.onload = () => resolve((window as any).google);
-          s.onerror = reject;
+          // google.maps is not always populated the instant onload fires, so poll briefly
+          s.onload = () => waitFor(Date.now() + 8000);
+          s.onerror = () => reject(new Error('maps script failed'));
           document.head.appendChild(s);
         });
       }
       return loader;
     };
 
-    inputs.forEach((el) => {
-      const input = el as HTMLInputElement;
-      const list = document.getElementById(input.getAttribute('aria-controls') || '') as HTMLUListElement | null;
+    addrInputs.forEach((input) => {
+      const list = document.getElementById(input.getAttribute('aria-controls') || '');
       if (!list) return;
-      let token: any = null, timer: any = null, items: string[] = [], active = -1;
+      let token = null, timer = null, items = [], active = -1;
 
-      const close = () => { list.hidden = true; list.innerHTML = ''; items = []; active = -1; input.setAttribute('aria-expanded','false'); };
-      const choose = (i: number) => { if (items[i] != null) { input.value = items[i]; token = null; close(); } };
+      const close = () => {
+        list.hidden = true; list.innerHTML = ''; items = []; active = -1;
+        input.setAttribute('aria-expanded', 'false');
+      };
+      const choose = (i) => { if (items[i] != null) { input.value = items[i]; token = null; close(); } };
       const paint = () => {
         list.innerHTML = '';
         items.forEach((txt, i) => {
           const li = document.createElement('li');
-          li.textContent = txt; li.setAttribute('role','option');
+          li.textContent = txt;
+          li.setAttribute('role', 'option');
           li.setAttribute('aria-selected', String(i === active));
           if (i === active) li.classList.add('is-active');
           li.addEventListener('mousedown', (ev) => { ev.preventDefault(); choose(i); });
@@ -85,16 +96,16 @@ if (inputs.length) {
         input.setAttribute('aria-expanded', String(items.length > 0));
       };
 
-      const fetchSuggestions = async (q: string) => {
+      const fetchSuggestions = async (q) => {
         try {
-          const g = await loadPlaces();
-          const { AutocompleteSuggestion, AutocompleteSessionToken } = await g.maps.importLibrary('places');
-          if (!token) token = new AutocompleteSessionToken();
-          const { suggestions } = await AutocompleteSuggestion.fetchAutocompleteSuggestions({
-            input: q, region: 'us', language: 'en-US', sessionToken: token,
+          await loadPlaces();
+          const places = await window.google.maps.importLibrary('places');
+          if (!token) token = new places.AutocompleteSessionToken();
+          const res = await places.AutocompleteSuggestion.fetchAutocompleteSuggestions({
+            input: q, region: 'us', language: 'en-US', sessionToken: token
           });
-          items = (suggestions || [])
-            .map((s: any) => s.placePrediction && s.placePrediction.text && s.placePrediction.text.toString())
+          items = (res.suggestions || [])
+            .map((sg) => sg.placePrediction && sg.placePrediction.text && sg.placePrediction.text.toString())
             .filter(Boolean).slice(0, 5);
           active = -1;
           paint();
@@ -106,7 +117,7 @@ if (inputs.length) {
       input.addEventListener('input', () => {
         clearTimeout(timer);
         const q = input.value.trim();
-        if (q.length < 4) { close(); return; }
+        if (q.length < 3) { close(); return; }
         timer = setTimeout(() => fetchSuggestions(q), 250);
       });
       input.addEventListener('keydown', (e) => {
