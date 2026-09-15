@@ -101,7 +101,9 @@ p{margin:0 0 1.1rem}
 /* sections */
 section{padding:2.6rem 0}
 section.tint{background:var(--soft);border-block:1px solid var(--line)}
-.lede{font-size:1.12rem;color:var(--body);max-width:62ch}
+.lede{font-size:1.12rem;color:var(--body);max-width:62ch;text-wrap:balance}
+/* keeps a sentence from dropping one lonely word onto its own line */
+h1,h2,h3,.hero .sub{text-wrap:balance}
 .prose{max-width:70ch}
 .prose ul,.prose ol{padding-left:1.25rem}
 .prose li{margin:.35rem 0}
