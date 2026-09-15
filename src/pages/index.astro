@@ -135,4 +135,12 @@ const reasons = [
     .videoband .wrap{padding:0}
     .videoframe{border-radius:0;box-shadow:none;max-width:100%}
   }
+
+  /* On the homepage these intro sentences sit above full-width sections, so they
+     should run the whole width instead of being penned into a narrow column.
+     "pretty" stops a single word dropping onto its own line without squeezing
+     every line in, which is what "balance" was doing. */
+  @media(min-width:900px){
+    section .lede{max-width:none;text-wrap:pretty}
+  }
 </style>
