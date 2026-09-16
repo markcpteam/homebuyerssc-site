@@ -121,11 +121,25 @@ h1,h2,h3,.hero .sub{text-wrap:balance}
 /* cards */
 .grid{display:grid;gap:1.1rem;grid-template-columns:repeat(auto-fill,minmax(265px,1fr))}
 .card{border:1px solid var(--line);border-radius:var(--r);padding:1.15rem 1.25rem;background:#fff;
-  transition:border-color .12s, box-shadow .12s}
+  transition:border-color .12s, box-shadow .12s;
+  /* anchors the invisible overlay below, which makes the whole card clickable */
+  position:relative}
 .card:hover{border-color:var(--blue);box-shadow:0 4px 16px rgba(41,177,238,.13)}
 .card h2,.card h3{font-size:1.04rem;margin:0 0 .35rem}
 .card h2 a,.card h3 a{text-decoration:none;color:var(--ink)}
 .card h2 a:hover,.card h3 a:hover{color:var(--blue-dk)}
+/* The card looks like a button, so the whole card should behave like one.
+   This stretches the heading's link across the entire card as an invisible
+   layer. The visible text and the link itself are unchanged, so screen
+   readers and search engines still read a normal link with real words in it. */
+.card h2 a::after,.card h3 a::after{content:'';position:absolute;inset:0;
+  border-radius:var(--r)}
+/* Keyboard users tab to the link, not the card, so the focus ring has to be
+   drawn on the card instead or it would outline just the few words. */
+.card:focus-within{border-color:var(--blue);box-shadow:0 4px 16px rgba(41,177,238,.13)}
+.card h2 a:focus-visible::after,.card h3 a:focus-visible::after{
+  outline:3px solid var(--blue-dk);outline-offset:2px}
+.card h2 a:focus,.card h3 a:focus{outline:none}
 .card p{font-size:.93rem;margin:0;color:var(--body)}
 .card .count{font-size:.82rem;color:var(--body);opacity:.8;margin-top:.5rem}
 
