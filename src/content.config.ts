@@ -5,15 +5,15 @@ const guides = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/guides' }),
   schema: z.object({
     title: z.string(), description: z.string(),
-    pubDate: z.coerce.date(), group: z.string(), oldUrl: z.string(),
+    pubDate: z.coerce.date(), group: z.string(), oldUrl: z.string().optional(),
   }),
 });
 const cities = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/cities' }),
-  schema: z.object({ title: z.string(), description: z.string(), city: z.string(), oldUrl: z.string() }),
+  schema: z.object({ title: z.string(), description: z.string(), city: z.string(), oldUrl: z.string().optional() }),
 });
 const pages = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
-  schema: z.object({ title: z.string(), description: z.string(), kind: z.string(), oldUrl: z.string() }),
+  schema: z.object({ title: z.string(), description: z.string(), kind: z.string(), oldUrl: z.string().optional() }),
 });
 export const collections = { guides, cities, pages };

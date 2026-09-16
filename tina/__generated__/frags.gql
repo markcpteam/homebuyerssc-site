@@ -1,0 +1,27 @@
+fragment GuidesParts on Guides {
+  __typename
+  title
+  description
+  pubDate
+  group
+  oldUrl
+  body
+}
+
+fragment CitiesParts on Cities {
+  __typename
+  title
+  description
+  city
+  oldUrl
+  body
+}
+
+fragment PagesParts on Pages {
+  __typename
+  title
+  description
+  kind
+  oldUrl
+  body
+}

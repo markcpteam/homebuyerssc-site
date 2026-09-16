@@ -10,10 +10,11 @@
   [headers.values]
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
-    # ---------------------------------------------------------------
-    # PRE-LAUNCH ONLY. Keeps search engines out of the temporary
-    # netlify.app address so they do not index a duplicate of the site.
-    # DELETE THE NEXT LINE on cutover day, right after DNS points
-    # homebuyerssc.com at Netlify. Leaving it in will hide the real
-    # site from Google entirely.
-    # ---------------------------------------------------------------
+
+# The TinaCMS editor screen. It is a login page, not content, so it should
+# never turn up in a search result. Keeping it out of robots.txt on purpose:
+# robots.txt is public, and listing the path there would advertise it.
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

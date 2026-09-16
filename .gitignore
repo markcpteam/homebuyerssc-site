@@ -4,3 +4,6 @@ dist
 .DS_Store
 .env
 Claude outputs/
+
+# TinaCMS: the admin screen is generated at build time, not source code.
+public/admin

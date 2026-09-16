@@ -2,9 +2,19 @@
   "name": "homebuyerssc-site",
   "type": "module",
   "version": "1.0.0",
-  "scripts": { "dev": "astro dev", "build": "astro build", "preview": "astro preview" },
+  "scripts": {
+    "dev": "tinacms dev -c \"astro dev\"",
+    "build": "npm run build:admin && astro build",
+    "build:admin": "tinacms build || echo 'Tina admin build failed, continuing with the site build'",
+    "build:site-only": "astro build",
+    "preview": "astro preview"
+  },
   "dependencies": {
-    "astro": "^5.13.0",
-    "@astrojs/sitemap": "^3.4.0"
+    "@astrojs/sitemap": "^3.4.0",
+    "astro": "^5.13.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^3.0.0",
+    "tinacms": "^3.14.0"
   }
 }
