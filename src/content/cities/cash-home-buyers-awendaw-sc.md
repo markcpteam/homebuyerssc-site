@@ -1,9 +1,10 @@
 ---
-title: "Cash Home Buyers in Awendaw, SC"
-description: "Selling a house in Awendaw, SC. Which county your property is in, what comes up most on houses here, and how to check any cash buyer."
-city: "Awendaw"
-oldUrl: "/cash-home-buyers-awendaw-sc/"
+title: 'Cash Home Buyers in Awendaw, SC'
+description: 'Selling a house in Awendaw, SC. Which county your property is in, what comes up most on houses here, and how to check any cash buyer.'
+city: Awendaw
+oldUrl: /cash-home-buyers-awendaw-sc/
 ---
+
 Homebuyers SC buys houses in Awendaw as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
 
 Awendaw is rural Charleston County, with large parcels, private wells and septic systems, and a good deal of family land that has never been through probate.
@@ -12,20 +13,20 @@ Awendaw is rural Charleston County, with large parcels, private wells and septic
 
 The county decides which offices you deal with, and on some Awendaw addresses the answer is not obvious.
 
-| What you need | Where it lives |
-|---|---|
-| Probate, if the owner has died | Charleston County Probate Court |
-| Recorded deeds, liens, judgments | Charleston County Register of Deeds |
-| Delinquent property taxes | Charleston County delinquent tax office |
+| What you need                    | Where it lives                          |
+| -------------------------------- | --------------------------------------- |
+| Probate, if the owner has died   | Charleston County Probate Court         |
+| Recorded deeds, liens, judgments | Charleston County Register of Deeds     |
+| Delinquent property taxes        | Charleston County delinquent tax office |
 
-**Insurance note.** The South Carolina Wind and Hail Underwriting Association, the state's market of last resort for wind and hail coverage, operates in designated coastal zones of Charleston County. It covers wind and hail only, not fire, liability, or flood, and it carries condition requirements including a sound roof. Confirm eligibility for your address with an insurance agent.
+**Insurance note.** The South Carolina Wind and Hail Underwriting Association, which is the state's market of last resort for wind and hail coverage, operates in designated coastal zones of Charleston County. It covers wind and hail only, not fire, liability, or flood, and it carries condition requirements including a sound roof. Confirm eligibility for your address with an insurance agent.
 
 ## What comes up most on Awendaw houses
 
-- **Septic and well.** Not visible, not optional to a lender, and expensive if failing.
-- **Heirs property.** Land passed down without probate is common in this part of the county, and it is the single most likely reason a sale here stalls.
-- **Parcel boundaries** on large rural tracts frequently do not match what anyone assumes. A survey is often the cheapest thing you can do.
-- **Distance from services** means longer response times for anything you need done to the property.
+* **Septic and well.** Not visible, not optional to a lender, and expensive if failing.
+* **Heirs property.** Land passed down without probate is common in this part of the county, and it is the single most likely reason a sale here stalls.
+* **Parcel boundaries** on large rural tracts frequently do not match what anyone assumes. A survey is often the cheapest thing you can do.
+* **Distance from services** means longer response times for anything you need done to the property.
 
 ## How would you check us, or any buyer?
 
@@ -53,17 +54,17 @@ A cash sale tends to fit when the house needs work a lender will not accept, you
 
 ## Awendaw neighborhoods we buy in
 
-- Awendaw Lakes
-- Hidden Ponds Reserve
-- Pamlico Terrace
-- Paradise Island
-- Pepper Plantation
-- Romain Retreat
-- Seewee Preserve
-- Seewee Run
-- Selkirk Plantation
-- The Overlook at Copahee Sound
-- Two Cedar
+* Awendaw Lakes
+* Hidden Ponds Reserve
+* Pamlico Terrace
+* Paradise Island
+* Pepper Plantation
+* Romain Retreat
+* Seewee Preserve
+* Seewee Run
+* Selkirk Plantation
+* The Overlook at Copahee Sound
+* Two Cedar
 
 If your neighborhood is not listed, call anyway. We buy throughout Awendaw and the surrounding area.
 
