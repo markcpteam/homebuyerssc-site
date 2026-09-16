@@ -17,4 +17,3 @@
     # homebuyerssc.com at Netlify. Leaving it in will hide the real
     # site from Google entirely.
     # ---------------------------------------------------------------
-    X-Robots-Tag = "noindex, nofollow"
