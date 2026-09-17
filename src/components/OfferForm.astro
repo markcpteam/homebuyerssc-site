@@ -36,11 +36,80 @@ const key = BIZ.googleMapsKey || '';
     <textarea id={`situation-${uid}`} name="situation" rows={compact ? 2 : 5}
               placeholder="Condition, timeline, tenants, anything we should know"></textarea></div>
 
+  <!-- How this person arrived. Invisible to the visitor, filled in by the script
+       at the bottom of this file, and sent along with the form so the notification
+       email and the Netlify submission both carry the attribution. This is our own
+       copy: CallRail records the same thing, but its script can be blocked by an
+       ad blocker and ours cannot. -->
+  <input type="hidden" name="utm_source" value="" />
+  <input type="hidden" name="utm_medium" value="" />
+  <input type="hidden" name="utm_campaign" value="" />
+  <input type="hidden" name="utm_term" value="" />
+  <input type="hidden" name="utm_content" value="" />
+  <input type="hidden" name="gclid" value="" />
+  <input type="hidden" name="landing_page" value="" />
+  <input type="hidden" name="referrer" value="" />
+  <input type="hidden" name="submitted_from" value="" />
+  <input type="hidden" name="callrail_person_id" value="" />
+  <input type="hidden" name="callrail_session_id" value="" />
+
   <button type="submit">{submitLabel}</button>
   <p class="offer-alt">Prefer to talk? Call or text <a href={`tel:${BIZ.phoneRaw}`}><strong>{BIZ.phone}</strong></a>.</p>
 </form>
 
 <script>
+  // ---------------------------------------------------------------
+  // Fill the hidden attribution fields on every offer form.
+  // Runs once per page load. Reads three sources, in order of trust:
+  //   1. what this browser recorded on the first page of the visit
+  //   2. CallRail's own cookies
+  //   3. the current page, as a last resort
+  // Every read is wrapped so a blocked cookie or a private window can
+  // never stop the form from submitting.
+  // ---------------------------------------------------------------
+  (function fillAttribution() {
+    const cookie = (name) => {
+      try {
+        const hit = document.cookie.split('; ').find((c) => c.startsWith(name + '='));
+        return hit ? decodeURIComponent(hit.slice(name.length + 1)) : '';
+      } catch (e) { return ''; }
+    };
+    const stored = (key) => {
+      try { return sessionStorage.getItem(key) || ''; } catch (e) { return ''; }
+    };
+
+    // The first page of this visit, which is where any campaign tags live.
+    const landing = stored('hb_landing') || cookie('calltrk_landing') || location.href;
+    // CallRail writes the literal word "direct" when there is no referring site.
+    // Match that when we fall back to our own copy, so the column always reads
+    // the same way instead of sometimes being blank.
+    const referrer = stored('hb_referrer') || cookie('calltrk_referrer') || document.referrer || 'direct';
+
+    let params;
+    try { params = new URL(landing).searchParams; } catch (e) { params = new URLSearchParams(); }
+
+    const values = {
+      utm_source: params.get('utm_source') || '',
+      utm_medium: params.get('utm_medium') || '',
+      utm_campaign: params.get('utm_campaign') || '',
+      utm_term: params.get('utm_term') || '',
+      utm_content: params.get('utm_content') || '',
+      gclid: params.get('gclid') || '',
+      landing_page: landing,
+      referrer: referrer,
+      submitted_from: location.href,
+      callrail_person_id: cookie('calltrk_fcid'),
+      callrail_session_id: cookie('calltrk_session_id'),
+    };
+
+    document.querySelectorAll('form.offer').forEach((form) => {
+      Object.entries(values).forEach(([name, value]) => {
+        const field = form.querySelector('input[type=hidden][name="' + name + '"]');
+        if (field && !field.value) field.value = value;
+      });
+    });
+  })();
+
 // Address suggestions from Google Places.
 // The field is an ordinary text box first and foremost: if the key is missing,
 // the network fails, or nothing matches what they typed, the typed text submits as-is.

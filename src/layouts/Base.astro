@@ -280,6 +280,19 @@ th{background:var(--soft);font-weight:700;color:var(--ink)}
 <Nav />
 {bare ? <main><slot /></main> : <main class="wrap" style="padding:2.4rem 0 1rem"><slot /></main>}
 <Footer />
+<!-- Remember how this visit started, once per session. The offer form reads this
+     so a submission can report where the person came from even when the call
+     tracking script is blocked by an ad blocker. Nothing here is sent anywhere
+     on its own; it only lives in this browser tab until a form is submitted. -->
+<script is:inline>
+  try {
+    if (!sessionStorage.getItem('hb_landing')) {
+      sessionStorage.setItem('hb_landing', location.href);
+      sessionStorage.setItem('hb_referrer', document.referrer || '');
+    }
+  } catch (e) { /* private mode or storage disabled; the form falls back to the cookies */ }
+</script>
+
 <!-- CallRail visitor tracking. Swaps the displayed phone number for live visitors
      based on how they arrived. The number in this page's source stays 843-938-1978,
      which is what search engines and AI crawlers read. Company 886508577. -->
