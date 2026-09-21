@@ -14,6 +14,14 @@ const canonical = new URL(Astro.url.pathname, BIZ.site).href;
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+<!-- Browser tab and home screen icons. The .ico holds several sizes in one
+     file for older browsers, the 96px PNG is what modern browsers pick for a
+     sharp tab icon, and the 180px one is what iOS uses when someone saves the
+     site to a home screen. iOS rounds the corners itself, so that file is a
+     plain square on purpose. -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" href="/favicon-96.png" sizes="96x96" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
