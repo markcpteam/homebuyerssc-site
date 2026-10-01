@@ -1,11 +1,17 @@
 ---
 import Base from '../layouts/Base.astro';
 import LegalNote from '../components/LegalNote.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import { GROUPS, BIZ } from '../consts';
 import TrustBar from '../components/TrustBar.astro';
 import Steps from '../components/Steps.astro';
 import OfferForm from '../components/OfferForm.astro';
+// The page title and meta description come from src/content/pages/index.md so
+// they can be changed in the web editor. Everything else on this page is built
+// here in code. If this lookup ever fails the build stops, which is on purpose:
+// better a failed deploy than a homepage silently publishing the wrong title.
+const home = await getEntry('pages', 'index');
+if (!home) throw new Error('src/content/pages/index.md is missing; the homepage title and description come from it.');
 const all = await getCollection('guides');
 const cities = (await getCollection('cities')).sort((a,b)=>a.data.city.localeCompare(b.data.city));
 const reasons = [
@@ -18,8 +24,8 @@ const reasons = [
   ['Problem tenants','/sell-house-with-tenants-south-carolina/'],
 ];
 ---
-<Base title="Sell My House Fast For Cash in South Carolina | Homebuyers SC"
-      description={`We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call ${BIZ.phone}.`} bare>
+<Base title={`${home.data.title} | Homebuyers SC`}
+      description={home.data.description} bare>
   <!-- Video band. Autoplay only works when the video starts muted; every modern
        browser blocks autoplay with sound. The old Leadpages embed was muted too.
        Controls are on so a viewer can turn sound on. -->

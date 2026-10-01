@@ -1,45 +1,13 @@
 ---
-title: "Sell My House Fast For Cash in South Carolina"
-description: "Sell your house FAST for cash in South Carolina! (843) 938-1978 * We pay cash!"
+title: "Sell My House Fast in Charleston, SC"
+description: "We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call (843) 938-1978."
 kind: main
 oldUrl: "/"
 ---
-**Sell your house FAST for cash in South Carolina!**
+Only the two boxes above change anything on the live homepage.
 
-## (843) 938-1978
-* We pay **cash!**
-* Commission-free transaction
-* Fast, hassle-free closing
-* Your property sold AS-IS
+**Page title** is the blue clickable headline in a Google result, and the text in the browser tab. Keep it under about 60 characters or Google cuts it off. "| Homebuyers SC" is added automatically, so do not type it here.
 
-**No obligation. No spam.**
+**Search description** is the grey summary underneath that headline in a Google result. Aim for 120 to 155 characters.
 
-**500+ transactions since 2017**
-
-## Get cash for your house. FAST.
-
-**Call (843) 938-1978 TODAY**
-
-**We buy homes in all conditions, shapes and sizes!  
-Our experience in over 500+ transactions gives us the ability to make this an   
-easy process, and get you a written cash offer on your home!**
-
-## Why Homebuyers SC?
-### Get money, fast
-
-Homebuyers SC can buy your home in as few as two days after we sign the contract! We will also give you a FREE estimated offer over the phone.
-
-### A tailored service
-
-Some clients may need to stay in the home for a week or a month after closing. When selling to us, the options are always open!
-
-## We buy houses for CASH in:
-* [West Ashley](/cash-home-buyers-west-ashley-sc/)
-* [Summerville](/cash-home-buyers-summerville-sc/)
-
-## Our Promise
-
-Homebuyers SC is a family-run business that understands life is full of unexpected and sometimes difficult situations for homeowners in the Charleston area.
-
-  
-We buy houses and offer a fast, local way to sell your home for cash so you can move on to the next step in your journey.
+Everything else on the homepage, the video, the big headline, the bullet list, the form, the numbers row and the sections below them, is built in code and cannot be changed from here. Ask Mark if any of that needs to change.
