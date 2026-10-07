@@ -1,6 +1,6 @@
 ---
 title: "Sell My House Fast in Charleston, SC"
-description: "We buy houses for cash in Charleston, Mount Pleasant, Summerville, and across SC. Close in 7 days, no repairs, no commissions. Call (843) 938-1978."
+description: "Mount Pleasant based, 500+ local closings since 2017, BBB A+ rated. We buy houses as-is in Charleston, Berkeley and Dorchester counties, on your date."
 kind: main
 oldUrl: "/"
 ---
