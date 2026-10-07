@@ -1,5 +1,5 @@
 ---
-title: "Sell My House Fast in Charleston, SC"
+title: "We Buy Houses in Charleston, SC for Cash"
 description: "Mount Pleasant based, 500+ local closings since 2017, BBB A+ rated. We buy houses as-is in Charleston, Berkeley and Dorchester counties, on your date."
 kind: main
 oldUrl: "/"

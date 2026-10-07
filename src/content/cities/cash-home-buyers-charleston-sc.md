@@ -4,7 +4,7 @@ description: "Selling a house in Charleston, SC. Which county your property is i
 city: "Charleston"
 oldUrl: "/cash-home-buyers-charleston-sc/"
 ---
-Homebuyers SC buys houses in Charleston as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Charleston as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Charleston area since 2017.
 
 Charleston's oldest housing is also its most complicated to sell. Pier-and-beam construction over crawlspaces, flood exposure, historic district review, and insurance that gets harder every renewal.
 
