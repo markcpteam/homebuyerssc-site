@@ -4,7 +4,7 @@ description: "Selling a house in Edisto, SC. Which county your property is in, w
 city: "Edisto"
 oldUrl: "/cash-home-buyers-edisto-sc/"
 ---
-Homebuyers SC buys houses in Edisto as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Edisto as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Edisto is split across two counties, and the split is not where people assume. The Town of Edisto Beach is in Colleton County, while most of Edisto Island is unincorporated Charleston County.
 

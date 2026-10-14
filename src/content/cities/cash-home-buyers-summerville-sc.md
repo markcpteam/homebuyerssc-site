@@ -4,7 +4,7 @@ description: "Selling a house in Summerville, SC. Which county your property is 
 city: "Summerville"
 oldUrl: "/cash-home-buyers-summerville-sc/"
 ---
-Homebuyers SC buys houses in Summerville as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Summerville as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Summerville sits mostly in Dorchester County, with portions in Berkeley and Charleston. Which one your property is in decides which probate court, deeds office, and tax office you deal with, and sellers here get it wrong regularly.
 

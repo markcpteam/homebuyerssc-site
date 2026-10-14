@@ -4,7 +4,7 @@ description: "Selling a house in Huger, SC. Which county your property is in, wh
 city: "Huger"
 oldUrl: "/cash-home-buyers-huger-sc/"
 ---
-Homebuyers SC buys houses in Huger as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Huger as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Huger is an unincorporated community in Berkeley County, which means there is no town government and the county handles everything.
 

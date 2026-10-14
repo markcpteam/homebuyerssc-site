@@ -4,7 +4,7 @@ description: "Selling a house in Mount Pleasant, SC. Which county your property 
 city: "Mount Pleasant"
 oldUrl: "/cash-home-buyers-mount-pleasant-sc/"
 ---
-Homebuyers SC buys houses in Mount Pleasant as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Mount Pleasant as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based right here in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Mount Pleasant covers everything from Old Village houses built well before modern codes to subdivisions finished in the last few years, and the two sell completely differently.
 

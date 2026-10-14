@@ -4,7 +4,7 @@ description: "Selling a house in Folly Beach, SC. Which county your property is 
 city: "Folly Beach"
 oldUrl: "/cash-home-buyers-folly-sc/"
 ---
-Homebuyers SC buys houses in Folly Beach as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Folly Beach as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Folly Beach is a barrier island, and insurance is the single biggest factor in whether a house here sells to a financed buyer.
 

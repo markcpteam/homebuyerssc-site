@@ -4,7 +4,7 @@ description: "Selling a house in Hanahan, SC. Which county your property is in, 
 city: "Hanahan"
 oldUrl: "/cash-home-buyers-hanahan-sc/"
 ---
-Homebuyers SC buys houses in Hanahan as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Hanahan as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Hanahan sits at the southern end of Berkeley County, close enough to Charleston to feel coastal without being in the coastal wind insurance market.
 

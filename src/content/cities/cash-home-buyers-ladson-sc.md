@@ -4,7 +4,7 @@ description: "Selling a house in Ladson, SC. Which county your property is in, w
 city: "Ladson"
 oldUrl: "/cash-home-buyers-ladson-sc/"
 ---
-Homebuyers SC buys houses in Ladson as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Ladson as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Ladson is a census-designated place rather than an incorporated town, and it spans Berkeley, Charleston, and Dorchester counties. That combination means there is no single town hall to call, and the county your parcel sits in governs everything.
 

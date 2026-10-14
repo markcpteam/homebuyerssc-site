@@ -18,7 +18,8 @@ const { Content } = await render(entry);
 const crumbs=[{name:'Home',url:BIZ.site+'/'},{name:entry.data.title,url:`${BIZ.site}/${entry.id}/`}];
 const isCity = kind === 'city';
 ---
-<Base title={`${entry.data.title} | Homebuyers SC`} description={entry.data.description} breadcrumbs={crumbs}>
+<Base title={`${entry.data.title} | Homebuyers SC`} description={entry.data.description} breadcrumbs={crumbs}
+      type={isCity ? 'service' : 'page'} areaServed={isCity ? entry.data.city : undefined}>
   <p class="crumbs"><a href="/">Home</a></p>
   <article class="prose">
     <h1>{entry.data.title}</h1>

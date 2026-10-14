@@ -4,7 +4,7 @@ description: "Selling a house in Goose Creek, SC. Which county your property is 
 city: "Goose Creek"
 oldUrl: "/cash-home-buyers-goose-creek-sc/"
 ---
-Homebuyers SC buys houses in Goose Creek as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Goose Creek as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Goose Creek is Berkeley County, which simplifies several things about selling here compared with the coastal parts of the tri-county area.
 

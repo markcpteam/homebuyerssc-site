@@ -3,7 +3,7 @@ import { BIZ } from '../consts';
 import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
 import Schema from '../components/Schema.astro';
-const { title, description, type = 'page', datePublished, dateModified, breadcrumbs = [], bare = false } = Astro.props;
+const { title, description, type = 'page', datePublished, dateModified, breadcrumbs = [], bare = false, areaServed } = Astro.props;
 const canonical = new URL(Astro.url.pathname, BIZ.site).href;
 ---
 <!doctype html>
@@ -28,7 +28,7 @@ const canonical = new URL(Astro.url.pathname, BIZ.site).href;
 <meta property="og:type" content={type === 'article' ? 'article' : 'website'} />
 <meta property="og:site_name" content={BIZ.name} />
 <meta name="twitter:card" content="summary_large_image" />
-<Schema type={type} title={title} description={description} url={canonical} datePublished={datePublished} dateModified={dateModified} breadcrumbs={breadcrumbs} />
+<Schema type={type} title={title} description={description} url={canonical} datePublished={datePublished} dateModified={dateModified} breadcrumbs={breadcrumbs} areaServed={areaServed} />
 <link rel="sitemap" href="/sitemap-index.xml" />
 
 <!-- Google Analytics 4. Measurement ID lives in one place only, here. -->

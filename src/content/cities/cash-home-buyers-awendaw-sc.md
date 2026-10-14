@@ -5,7 +5,7 @@ city: Awendaw
 oldUrl: /cash-home-buyers-awendaw-sc/
 ---
 
-Homebuyers SC buys houses in Awendaw as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Awendaw as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Awendaw is rural Charleston County, with large parcels, private wells and septic systems, and a good deal of family land that has never been through probate.
 

@@ -4,7 +4,7 @@ description: "Selling a house in West Ashley, SC. Which county your property is 
 city: "West Ashley"
 oldUrl: "/cash-home-buyers-west-ashley-sc/"
 ---
-Homebuyers SC buys houses in West Ashley as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in West Ashley as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 West Ashley is part of the City of Charleston, which means city permitting and city code enforcement even though it does not feel like downtown.
 

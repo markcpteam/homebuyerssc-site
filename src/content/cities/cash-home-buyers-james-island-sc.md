@@ -4,7 +4,7 @@ description: "Selling a house in James Island, SC. Which county your property is
 city: "James Island"
 oldUrl: "/cash-home-buyers-james-island-sc/"
 ---
-Homebuyers SC buys houses in James Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in James Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 James Island is split between the Town of James Island, the City of Charleston, and unincorporated Charleston County, so two houses on the same road can answer to different permit offices.
 

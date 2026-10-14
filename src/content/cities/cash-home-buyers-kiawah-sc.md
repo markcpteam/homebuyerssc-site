@@ -4,7 +4,7 @@ description: "Selling a house in Kiawah Island, SC. Which county your property i
 city: "Kiawah Island"
 oldUrl: "/cash-home-buyers-kiawah-sc/"
 ---
-Homebuyers SC buys houses in Kiawah Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Kiawah Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Kiawah is a barrier island with a property owners association layered on top of town and county requirements, so there are more sets of rules in play than on a typical sale.
 

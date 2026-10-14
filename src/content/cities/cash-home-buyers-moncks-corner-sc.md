@@ -4,7 +4,7 @@ description: "Selling a house in Moncks Corner, SC. Berkeley County offices are 
 city: "Moncks Corner"
 oldUrl: "/cash-home-buyers-moncks-corner-sc/"
 ---
-Homebuyers SC buys houses in Moncks Corner as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Moncks Corner as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Moncks Corner is the seat of Berkeley County, which makes one part of selling here simpler than almost anywhere else in the tri-county area: the offices you need are in town rather than an hour away.
 

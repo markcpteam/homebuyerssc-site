@@ -1,6 +1,6 @@
 ---
 import { BIZ } from '../consts';
-const { type = 'page', title, description, url, datePublished, dateModified, breadcrumbs = [] } = Astro.props;
+const { type = 'page', title, description, url, datePublished, dateModified, breadcrumbs = [], areaServed } = Astro.props;
 
 const org = {
   '@type': ['LocalBusiness', 'RealEstateAgent'],
@@ -43,6 +43,20 @@ if (type === 'article') {
     publisher: { '@id': `${BIZ.site}/#organization` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     isPartOf: { '@id': `${BIZ.site}/#website` },
+  });
+}
+// City pages describe one service in one place. This tells search engines
+// which town the page is about, tied back to the business described above.
+if (type === 'service' && areaServed) {
+  graph.push({
+    '@type': 'Service',
+    '@id': `${url}#service`,
+    name: title.replace(/ \| Homebuyers SC$/, ''),
+    serviceType: 'Cash home buying',
+    description,
+    url,
+    provider: { '@id': `${BIZ.site}/#organization` },
+    areaServed: { '@type': 'City', name: `${areaServed}, SC` },
   });
 }
 if (breadcrumbs.length) {

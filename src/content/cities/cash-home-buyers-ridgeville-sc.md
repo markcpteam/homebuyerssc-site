@@ -4,7 +4,7 @@ description: "Selling a house in Ridgeville, SC. Which county your property is i
 city: "Ridgeville"
 oldUrl: "/cash-home-buyers-ridgeville-sc/"
 ---
-Homebuyers SC buys houses in Ridgeville as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Ridgeville as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Ridgeville is rural Dorchester County, well inland, with larger parcels and a different set of selling considerations from the coastal parts of the tri-county area.
 

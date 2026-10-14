@@ -4,7 +4,7 @@ description: "Selling a house in Johns Island, SC. Which county your property is
 city: "Johns Island"
 oldUrl: "/cash-home-buyers-johns-island-sc/"
 ---
-Homebuyers SC buys houses in Johns Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Johns Island as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Johns Island has changed faster than almost anywhere in the tri-county area, and it still contains a great deal of rural, unincorporated Charleston County land with septic systems and private wells.
 

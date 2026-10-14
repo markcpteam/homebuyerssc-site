@@ -4,7 +4,7 @@ description: "Selling a house in Walterboro, SC. Colleton County offices are in 
 city: "Walterboro"
 oldUrl: "/cash-home-buyers-walterboro-sc/"
 ---
-Homebuyers SC buys houses in Walterboro as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in Walterboro as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 Walterboro is the seat of Colleton County, about 48 miles west of Charleston. Two things make selling here different from the rest of the Lowcountry: the county offices you need are in town, and despite being well inland, Colleton is one of the counties where the state's coastal wind and hail program operates.
 

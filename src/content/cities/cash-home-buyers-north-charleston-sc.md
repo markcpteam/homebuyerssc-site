@@ -4,7 +4,7 @@ description: "Selling a house in North Charleston, SC. Which county your propert
 city: "North Charleston"
 oldUrl: "/cash-home-buyers-north-charleston-sc/"
 ---
-Homebuyers SC buys houses in North Charleston as-is for cash, with no repairs, no showings, no commission, and a closing date you choose.
+We buy houses in North Charleston as-is for cash, with no repairs, no showings, no commission, and a closing date you choose. [Homebuyers SC](/) is a family-owned buyer based in Mount Pleasant, buying across the Lowcountry since 2017.
 
 North Charleston spans three counties, so the first thing to establish about any property here is which county it actually sits in. That single fact decides which probate court, which deeds office, and which delinquent tax office applies to you.
 
