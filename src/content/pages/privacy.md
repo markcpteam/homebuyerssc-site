@@ -22,6 +22,8 @@ device, including for example your IP address, browser and operating system info
 
 location, referring website address, and other information about how you interact with the website.
 
+Visits from AI assistants: When you arrive on this website by following a link from an AI assistant such as ChatGPT, Perplexity, Gemini, Claude or Copilot, our hosting provider keeps a record of that visit for us. The record includes your IP address, the page you landed on, the address of the page that sent you, your browser and device type, and your approximate location. We use it to understand how people find us through AI assistants.
+
 Our email campaigns may also use tracking technologies such as web beacons, pixels and other similar technologies to automatically collect certain information such as your IP address, browser type and version, and email engagement statistics.
 
 Information collected from our advertising partners: We may collect personal information about you
@@ -47,7 +49,7 @@ DISCLOSURE OF PERSONAL INFORMATION
 We may use third-party service providers to assist us with providing and marketing our products and services to you and we may share your information with such third parties for these limited purposes.
 
 - We use ReSimpli for our email marketing and text message communications. For more information about how we may use your information with ReSimpli and the information that may be collected through our email campaigns, see ReSimpli’s Customer Data Notice available at https://resimpli.com/privacy-policy/
-- We use Netlify to host this website and to process the contact forms submitted through it. Netlify uses and processes your information in accordance with its privacy statement available at https://www.netlify.com/privacy/
+- We use Netlify to host this website, to process the contact forms submitted through it, and to store the records of visits from AI assistants described above. Netlify uses and processes your information in accordance with its privacy statement available at https://www.netlify.com/privacy/
 - We use CallRail for call tracking. When you call a number shown on this website, CallRail records the number you dialed, your phone number, the date and length of the call, and how you reached the site. CallRail uses and processes your information in accordance with its privacy notice available at https://www.callrail.com/privacy
 - We use Google Analytics to understand how visitors use this website. Google collects and processes information about your visit in accordance with its privacy policy available at https://policies.google.com/privacy, and describes how it uses data from sites that use its services at https://policies.google.com/technologies/partner-sites
 
